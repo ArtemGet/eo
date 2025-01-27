@@ -1,1415 +1,2093 @@
 ---
 - added: 8
   cycles: 1
-  error: undefined method `[]' for nil
   removed: 8
-  seconds: 360.509777505
+  seconds: 491.977116587
   version: 0.31.0
   what: judges-summary
-  when: 2025-01-27 18:28:34.399462728 Z
+  when: 2025-01-27 19:21:23.674301866 Z
 - _id: 1
-  _time: 2025-01-27 18:24:38.720783963 Z
+  _time: 2025-01-27 19:15:08.044197618 Z
   _version: 0.4.0/0.31.0/
   total_active_contributors: 11
-  total_commits: 26438
-  total_contributors: 113
   total_files: 7861
-  total_forks: 268
   total_issues: 4033
   total_pulls: 5671
-  total_repositories: 52
-  total_stars: 1489
   what: dimensions-of-terrain
-  when: 2025-01-27 18:22:34.251164442 Z
+  when: 2025-01-27 19:13:12.034104687 Z
 - _id: 2
-  _time: 2025-01-27 18:24:48.516725233 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 482612876
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-01-27 18:24:48.519580537 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 570457023
-  what: min-issue-was-found
-  where: github
-- _id: 4
-  _time: 2025-01-27 18:24:48.522296149 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490157985
-  what: min-issue-was-found
-  where: github
-- _id: 5
-  _time: 2025-01-27 18:24:48.524998948 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 519299365
-  what: min-issue-was-found
-  where: github
-- _id: 6
-  _time: 2025-01-27 18:24:48.527827010 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 546194972
-  what: min-issue-was-found
-  where: github
-- _id: 7
-  _time: 2025-01-27 18:24:48.530928214 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 396732517
-  what: min-issue-was-found
-  where: github
-- _id: 8
-  _time: 2025-01-27 18:24:48.534010943 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 671896902
-  what: min-issue-was-found
-  where: github
-- _id: 9
-  _time: 2025-01-27 18:24:48.549304906 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 840332960
-  what: min-issue-was-found
-  where: github
-- _id: 10
-  _time: 2025-01-27 18:24:48.552420537 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 373900298
-  what: min-issue-was-found
-  where: github
-- _id: 11
-  _time: 2025-01-27 18:24:48.555613764 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 483303722
-  what: min-issue-was-found
-  where: github
-- _id: 12
-  _time: 2025-01-27 18:24:48.558760473 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 499536612
-  what: min-issue-was-found
-  where: github
-- _id: 13
-  _time: 2025-01-27 18:24:48.561770616 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 565789755
-  what: min-issue-was-found
-  where: github
-- _id: 14
-  _time: 2025-01-27 18:24:48.564669261 Z
+  _time: 2025-01-27 19:15:19.840947229 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 519246071
   what: min-issue-was-found
   where: github
-- _id: 15
-  _time: 2025-01-27 18:24:48.567460966 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574534248
-  what: min-issue-was-found
-  where: github
-- _id: 16
-  _time: 2025-01-27 18:24:48.570324295 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 13623548
-  what: min-issue-was-found
-  where: github
-- _id: 17
-  _time: 2025-01-27 18:24:48.573302008 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 733919301
-  what: min-issue-was-found
-  where: github
-- _id: 18
-  _time: 2025-01-27 18:24:48.576496366 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 501942888
-  what: min-issue-was-found
-  where: github
-- _id: 19
-  _time: 2025-01-27 18:24:48.579714789 Z
+- _id: 3
+  _time: 2025-01-27 19:15:19.844486570 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 386420319
   what: min-issue-was-found
   where: github
-- _id: 20
-  _time: 2025-01-27 18:24:48.582791207 Z
+- _id: 4
+  _time: 2025-01-27 19:15:19.847533129 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 489321585
+  repository: 396732517
   what: min-issue-was-found
   where: github
-- _id: 21
-  _time: 2025-01-27 18:24:48.587228020 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 362152931
-  what: min-issue-was-found
-  where: github
-- _id: 22
-  _time: 2025-01-27 18:24:48.590540189 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 73056727
-  what: min-issue-was-found
-  where: github
-- _id: 23
-  _time: 2025-01-27 18:24:48.593963406 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 731438612
-  what: min-issue-was-found
-  where: github
-- _id: 24
-  _time: 2025-01-27 18:24:48.597283539 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 510102039
-  what: min-issue-was-found
-  where: github
-- _id: 25
-  _time: 2025-01-27 18:24:48.600566554 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 403396472
-  what: min-issue-was-found
-  where: github
-- _id: 26
-  _time: 2025-01-27 18:24:48.603894652 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 493235807
-  what: min-issue-was-found
-  where: github
-- _id: 27
-  _time: 2025-01-27 18:24:48.608802848 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 659628214
-  what: min-issue-was-found
-  where: github
-- _id: 28
-  _time: 2025-01-27 18:24:48.612390512 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 593092058
-  what: min-issue-was-found
-  where: github
-- _id: 29
-  _time: 2025-01-27 18:24:48.615950946 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 562850967
-  what: min-issue-was-found
-  where: github
-- _id: 30
-  _time: 2025-01-27 18:24:48.619689362 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 889819508
-  what: min-issue-was-found
-  where: github
-- _id: 31
-  _time: 2025-01-27 18:24:48.623758338 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 447446664
-  what: min-issue-was-found
-  where: github
-- _id: 32
-  _time: 2025-01-27 18:24:48.627865033 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 558766137
-  what: min-issue-was-found
-  where: github
-- _id: 33
-  _time: 2025-01-27 18:24:48.658922638 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 798766850
-  what: min-issue-was-found
-  where: github
-- _id: 34
-  _time: 2025-01-27 18:24:48.670049843 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 624420387
-  what: min-issue-was-found
-  where: github
-- _id: 35
-  _time: 2025-01-27 18:24:48.681199540 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 531151981
-  what: min-issue-was-found
-  where: github
-- _id: 36
-  _time: 2025-01-27 18:24:48.689227093 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 501259435
-  what: min-issue-was-found
-  where: github
-- _id: 37
-  _time: 2025-01-27 18:24:48.695687895 Z
+- _id: 5
+  _time: 2025-01-27 19:15:19.850759384 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 568705267
   what: min-issue-was-found
   where: github
-- _id: 38
-  _time: 2025-01-27 18:24:48.702583049 Z
+- _id: 6
+  _time: 2025-01-27 19:15:19.854407318 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 721146770
+  repository: 784310467
   what: min-issue-was-found
   where: github
-- _id: 39
-  _time: 2025-01-27 18:24:48.709232895 Z
+- _id: 7
+  _time: 2025-01-27 19:15:19.857941088 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 575859928
   what: min-issue-was-found
   where: github
-- _id: 40
-  _time: 2025-01-27 18:24:48.715744592 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 510082372
-  what: min-issue-was-found
-  where: github
-- _id: 41
-  _time: 2025-01-27 18:24:48.722622283 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 518891717
-  what: min-issue-was-found
-  where: github
-- _id: 42
-  _time: 2025-01-27 18:24:48.729052427 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 731516758
-  what: min-issue-was-found
-  where: github
-- _id: 43
-  _time: 2025-01-27 18:24:48.734882449 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 543969974
-  what: min-issue-was-found
-  where: github
-- _id: 44
-  _time: 2025-01-27 18:24:48.740796827 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 492899189
-  what: min-issue-was-found
-  where: github
-- _id: 45
-  _time: 2025-01-27 18:24:48.746741453 Z
+- _id: 8
+  _time: 2025-01-27 19:15:19.861349384 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 559427983
   what: min-issue-was-found
   where: github
-- _id: 46
-  _time: 2025-01-27 18:24:48.752784072 Z
+- _id: 9
+  _time: 2025-01-27 19:15:19.864597700 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 447446664
+  what: min-issue-was-found
+  where: github
+- _id: 10
+  _time: 2025-01-27 19:15:19.879691816 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574534248
+  what: min-issue-was-found
+  where: github
+- _id: 11
+  _time: 2025-01-27 19:15:19.883380415 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 709214061
+  what: min-issue-was-found
+  where: github
+- _id: 12
+  _time: 2025-01-27 19:15:19.886084995 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501942888
+  what: min-issue-was-found
+  where: github
+- _id: 13
+  _time: 2025-01-27 19:15:19.888789664 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 373900298
+  what: min-issue-was-found
+  where: github
+- _id: 14
+  _time: 2025-01-27 19:15:19.891536613 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 731438612
+  what: min-issue-was-found
+  where: github
+- _id: 15
+  _time: 2025-01-27 19:15:19.894285044 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 552394123
   what: min-issue-was-found
   where: github
+- _id: 16
+  _time: 2025-01-27 19:15:19.897073771 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510082372
+  what: min-issue-was-found
+  where: github
+- _id: 17
+  _time: 2025-01-27 19:15:19.899944972 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 721146770
+  what: min-issue-was-found
+  where: github
+- _id: 18
+  _time: 2025-01-27 19:15:19.902833194 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 403396472
+  what: min-issue-was-found
+  where: github
+- _id: 19
+  _time: 2025-01-27 19:15:19.905820142 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 483303722
+  what: min-issue-was-found
+  where: github
+- _id: 20
+  _time: 2025-01-27 19:15:19.908986144 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501259435
+  what: min-issue-was-found
+  where: github
+- _id: 21
+  _time: 2025-01-27 19:15:19.912127711 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510102039
+  what: min-issue-was-found
+  where: github
+- _id: 22
+  _time: 2025-01-27 19:15:19.915271442 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 13623548
+  what: min-issue-was-found
+  where: github
+- _id: 23
+  _time: 2025-01-27 19:15:19.918469424 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574459304
+  what: min-issue-was-found
+  where: github
+- _id: 24
+  _time: 2025-01-27 19:15:19.921759338 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490221501
+  what: min-issue-was-found
+  where: github
+- _id: 25
+  _time: 2025-01-27 19:15:19.926472214 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 659628214
+  what: min-issue-was-found
+  where: github
+- _id: 26
+  _time: 2025-01-27 19:15:19.929900447 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519299365
+  what: min-issue-was-found
+  where: github
+- _id: 27
+  _time: 2025-01-27 19:15:19.933308863 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 562850967
+  what: min-issue-was-found
+  where: github
+- _id: 28
+  _time: 2025-01-27 19:15:19.936884612 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 489321585
+  what: min-issue-was-found
+  where: github
+- _id: 29
+  _time: 2025-01-27 19:15:19.940514963 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 565789755
+  what: min-issue-was-found
+  where: github
+- _id: 30
+  _time: 2025-01-27 19:15:19.944099288 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 531151981
+  what: min-issue-was-found
+  where: github
+- _id: 31
+  _time: 2025-01-27 19:15:19.947795231 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 551486781
+  what: min-issue-was-found
+  where: github
+- _id: 32
+  _time: 2025-01-27 19:15:19.960819395 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 581460427
+  what: min-issue-was-found
+  where: github
+- _id: 33
+  _time: 2025-01-27 19:15:19.969132385 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 493235807
+  what: min-issue-was-found
+  where: github
+- _id: 34
+  _time: 2025-01-27 19:15:19.978321895 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 889819508
+  what: min-issue-was-found
+  where: github
+- _id: 35
+  _time: 2025-01-27 19:15:19.985853063 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 570457023
+  what: min-issue-was-found
+  where: github
+- _id: 36
+  _time: 2025-01-27 19:15:19.992286077 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 671896902
+  what: min-issue-was-found
+  where: github
+- _id: 37
+  _time: 2025-01-27 19:15:19.998985138 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 546194972
+  what: min-issue-was-found
+  where: github
+- _id: 38
+  _time: 2025-01-27 19:15:20.005228227 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 840332960
+  what: min-issue-was-found
+  where: github
+- _id: 39
+  _time: 2025-01-27 19:15:20.011061999 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 518891717
+  what: min-issue-was-found
+  where: github
+- _id: 40
+  _time: 2025-01-27 19:15:20.016342327 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 798766850
+  what: min-issue-was-found
+  where: github
+- _id: 41
+  _time: 2025-01-27 19:15:20.021844018 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 543969974
+  what: min-issue-was-found
+  where: github
+- _id: 42
+  _time: 2025-01-27 19:15:20.027194697 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 624420387
+  what: min-issue-was-found
+  where: github
+- _id: 43
+  _time: 2025-01-27 19:15:20.032069266 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 593092058
+  what: min-issue-was-found
+  where: github
+- _id: 44
+  _time: 2025-01-27 19:15:20.037260096 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490157985
+  what: min-issue-was-found
+  where: github
+- _id: 45
+  _time: 2025-01-27 19:15:20.042350708 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 73056727
+  what: min-issue-was-found
+  where: github
+- _id: 46
+  _time: 2025-01-27 19:15:20.047594357 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 558766137
+  what: min-issue-was-found
+  where: github
 - _id: 47
-  _time: 2025-01-27 18:24:48.758588064 Z
+  _time: 2025-01-27 19:15:20.053061173 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 490258619
   what: min-issue-was-found
   where: github
 - _id: 48
-  _time: 2025-01-27 18:24:48.765100732 Z
+  _time: 2025-01-27 19:15:20.060601628 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 581460427
+  repository: 362152931
   what: min-issue-was-found
   where: github
 - _id: 49
-  _time: 2025-01-27 18:24:48.773524127 Z
+  _time: 2025-01-27 19:15:20.066314655 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 709214061
+  repository: 482612876
   what: min-issue-was-found
   where: github
 - _id: 50
-  _time: 2025-01-27 18:24:48.780603075 Z
+  _time: 2025-01-27 19:15:20.072516576 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 574459304
+  repository: 731516758
   what: min-issue-was-found
   where: github
 - _id: 51
-  _time: 2025-01-27 18:24:48.786239604 Z
+  _time: 2025-01-27 19:15:20.078864351 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 551486781
+  repository: 492899189
   what: min-issue-was-found
   where: github
 - _id: 52
-  _time: 2025-01-27 18:24:48.792234003 Z
+  _time: 2025-01-27 19:15:20.086760040 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 490221501
+  repository: 499536612
   what: min-issue-was-found
   where: github
 - _id: 53
-  _time: 2025-01-27 18:24:48.797799068 Z
+  _time: 2025-01-27 19:15:20.092000683 Z
   _version: 0.4.0/0.31.0/
   latest: 0
-  repository: 784310467
+  repository: 733919301
   what: min-issue-was-found
   where: github
 - _id: 54
-  _time: 2025-01-27 18:24:49.544754780 Z
+  _time: 2025-01-27 19:15:22.255784065 Z
   _version: 0.4.0/0.31.0/
-  branch: renovate/codecov-codecov-action-5.x
-  details: The pull request objectionary/demu#42 has been opened by @renovate[bot].
-  event_id: 43834797159
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 42
-  repository: 575859928
-  what: pull-was-opened
-  when: 2024-11-14 17:18:36.000000000 Z
-  where: github
-  who: 29139614
-- _id: 55
-  _time: 2025-01-27 18:24:49.703205263 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/com.jcabi-jcabi-xml-0.x
-  details: The pull request objectionary/demu#41 has been opened by @renovate[bot].
-  event_id: 43314438987
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 41
-  repository: 575859928
-  what: pull-was-opened
-  when: 2024-10-29 14:31:44.000000000 Z
-  where: github
-  who: 29139614
-- _id: 56
-  _time: 2025-01-27 18:24:49.737367919 Z
-  _version: 0.4.0/0.31.0/
-  latest: 45113707672
-  repository: 575859928
-  what: events-were-scanned
-  where: github
-- _id: 57
-  _time: 2025-01-27 18:24:50.100487384 Z
-  _version: 0.4.0/0.31.0/
-  commit: 9966dc297f0cfce0fa46f664dcc528599da21ddf
-  default_branch: master
-  details: 'A new Git push #22275150406 has arrived to objectionary/deog, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 45840427451
-  event_type: PushEvent
-  is_human: 1
-  push_id: 22275150406
-  ref: refs/heads/master
-  repository: 562850967
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-01-23 10:41:41.000000000 Z
-  where: github
-  who: 526301
-- _id: 58
-  _time: 2025-01-27 18:24:50.335332665 Z
-  _version: 0.4.0/0.31.0/
-  commit: d6d7c260cc15bd59c33554e1eeb473dccdeca46b
-  default_branch: master
-  details: 'A new Git push #22273659391 has arrived to objectionary/deog, made by
-    @yegor256 (default branch is ''master''), not associated with any pull request.'
-  event_id: 45837391803
-  event_type: PushEvent
-  is_human: 1
-  push_id: 22273659391
-  ref: refs/heads/master
-  repository: 562850967
-  to_master: 1
-  what: git-was-pushed
-  when: 2025-01-23 09:20:58.000000000 Z
-  where: github
-  who: 526301
-- _id: 59
-  _time: 2025-01-27 18:24:50.662156728 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/ch.qos.logback-logback-classic-1.x
-  comments: 0
-  comments_appreciated: 0
+  branch: renovate/org.eolang-eo-parser-0.x
+  comments: 2
+  comments_appreciated: 1
   comments_by_author: 0
-  comments_by_reviewers: 0
+  comments_by_reviewers: 3
   comments_resolved: 0
   comments_to_code: 0
-  details: The pull request objectionary/deog#55 has been closed by @renovate[bot],
-    with 2 HoC and 0 comments.
-  event_id: 44648860025
+  details: The pull request objectionary/jeo-maven-plugin#971 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45950464299
   event_type: PullRequestEvent
-  failed_builds: 1
+  failed_builds: 0
   hoc: 2
   is_human: 0
-  issue: 55
-  repository: 562850967
-  succeeded_builds: 4
-  what: pull-was-closed
-  when: 2024-12-10 14:16:51.000000000 Z
+  issue: 971
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-27 14:34:34.000000000 Z
+  where: github
+  who: 8086956
+- _id: 55
+  _time: 2025-01-27 19:15:29.247676089 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/org.eolang-eo-maven-plugin-0.x
+  comments: 3
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#984 has been closed by @rultor,
+    with 20 HoC and 3 comments.
+  event_id: 45948121212
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 20
+  is_human: 0
+  issue: 984
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-27 13:36:22.000000000 Z
+  where: github
+  who: 8086956
+- _id: 56
+  _time: 2025-01-27 19:15:36.097296440 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/org.eolang-eo-maven-plugin-0.x
+  details: The pull request objectionary/jeo-maven-plugin#984 has been opened by @renovate[bot].
+  event_id: 45945329627
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 984
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-27 12:22:07.000000000 Z
   where: github
   who: 29139614
+- _id: 57
+  _time: 2025-01-27 19:15:36.256914167 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/com.github.volodya-lombrozo-jtcop-maven-plugin-1.x
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#983 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45895512192
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 0
+  issue: 983
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-24 18:37:09.000000000 Z
+  where: github
+  who: 8086956
+- _id: 58
+  _time: 2025-01-27 19:15:43.054227464 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/com.github.volodya-lombrozo-jtcop-maven-plugin-1.x
+  details: The pull request objectionary/jeo-maven-plugin#983 has been opened by @renovate[bot].
+  event_id: 45894497107
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 983
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-24 18:00:51.000000000 Z
+  where: github
+  who: 29139614
+- _id: 59
+  _time: 2025-01-27 19:15:43.074424780 Z
+  _version: 0.4.0/0.31.0/
+  branch: 977_boolean
+  details: The pull request objectionary/jeo-maven-plugin#982 has been opened by @volodya-lombrozo.
+  event_id: 45882556769
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 982
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-24 11:59:15.000000000 Z
+  where: github
+  who: 51804353
 - _id: 60
-  _time: 2025-01-27 18:24:52.595299582 Z
+  _time: 2025-01-27 19:15:43.204565979 Z
   _version: 0.4.0/0.31.0/
-  branch: renovate/dokka.version
-  details: The pull request objectionary/deog#56 has been opened by @renovate[bot].
-  event_id: 44648859684
+  branch: 976_numbers
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#980 has been closed by @rultor,
+    with 1582 HoC and 2 comments.
+  event_id: 45843568475
   event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 1582
   is_human: 0
-  issue: 56
-  repository: 562850967
-  what: pull-was-opened
-  when: 2024-12-10 14:16:51.000000000 Z
+  issue: 980
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-23 12:14:14.000000000 Z
   where: github
-  who: 29139614
+  who: 8086956
 - _id: 61
-  _time: 2025-01-27 18:24:52.934476819 Z
+  _time: 2025-01-27 19:15:47.116975875 Z
   _version: 0.4.0/0.31.0/
-  latest: 45861843049
-  repository: 562850967
-  what: events-were-scanned
-  where: github
-- _id: 62
-  _time: 2025-01-27 18:24:53.385182814 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/codecov-codecov-action-5.x
-  details: The pull request objectionary/eo-http#29 has been opened by @renovate[bot].
-  event_id: 43839968776
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 29
-  repository: 570457023
-  what: pull-was-opened
-  when: 2024-11-14 20:09:21.000000000 Z
-  where: github
-  who: 29139614
-- _id: 63
-  _time: 2025-01-27 18:24:53.446161607 Z
-  _version: 0.4.0/0.31.0/
-  latest: 45948400942
-  repository: 570457023
-  what: events-were-scanned
-  where: github
-- _id: 64
-  _time: 2025-01-27 18:24:54.805152774 Z
-  _version: 0.4.0/0.31.0/
-  commit: 6f65f8c1420a046ec29331e254f0aeaaee483dfe
+  commit: 7ef33fd4303c5d870edea14994f52f7ab7b13a88
   default_branch: master
-  details: 'A new Git push #22275155438 has arrived to objectionary/eo-phi-normalizer,
+  details: 'A new Git push #22275393675 has arrived to objectionary/jeo-maven-plugin,
     made by @yegor256 (default branch is ''master''), not associated with any pull
     request.'
-  event_id: 45840437444
+  event_id: 45840921978
   event_type: PushEvent
   is_human: 1
-  push_id: 22275155438
+  push_id: 22275393675
   ref: refs/heads/master
-  repository: 731438612
+  repository: 671896902
   to_master: 1
   what: git-was-pushed
-  when: 2025-01-23 10:41:57.000000000 Z
+  when: 2025-01-23 10:55:21.000000000 Z
   where: github
   who: 526301
-- _id: 65
-  _time: 2025-01-27 18:24:54.974478079 Z
+- _id: 62
+  _time: 2025-01-27 19:15:47.403629302 Z
   _version: 0.4.0/0.31.0/
-  commit: 6dcd2124db4a3419ef6099131fb11ff55a567fda
+  commit: 41deef87dfe9aad7f0e609cf5e90f943ca3c2cea
   default_branch: master
-  details: 'A new Git push #22273577612 has arrived to objectionary/eo-phi-normalizer,
+  details: 'A new Git push #22275184943 has arrived to objectionary/jeo-maven-plugin,
     made by @yegor256 (default branch is ''master''), not associated with any pull
     request.'
-  event_id: 45837227246
+  event_id: 45840498432
   event_type: PushEvent
   is_human: 1
-  push_id: 22273577612
+  push_id: 22275184943
   ref: refs/heads/master
-  repository: 731438612
+  repository: 671896902
   to_master: 1
   what: git-was-pushed
-  when: 2025-01-23 09:16:33.000000000 Z
+  when: 2025-01-23 10:43:40.000000000 Z
+  where: github
+  who: 526301
+- _id: 63
+  _time: 2025-01-27 19:15:47.604916921 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/org.eolang-lints-0.x
+  details: The pull request objectionary/jeo-maven-plugin#981 has been opened by @renovate[bot].
+  event_id: 45809099296
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 981
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-22 15:03:18.000000000 Z
+  where: github
+  who: 29139614
+- _id: 64
+  _time: 2025-01-27 19:15:47.617074812 Z
+  _version: 0.4.0/0.31.0/
+  branch: 976_numbers
+  details: The pull request objectionary/jeo-maven-plugin#980 has been opened by @volodya-lombrozo.
+  event_id: 45808485731
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 980
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-22 14:49:00.000000000 Z
+  where: github
+  who: 51804353
+- _id: 65
+  _time: 2025-01-27 19:15:47.811613333 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#979 has been opened by @yegor256.
+  event_id: 45759345704
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 979
+  repository: 671896902
+  what: issue-was-opened
+  when: 2025-01-21 11:20:16.000000000 Z
   where: github
   who: 526301
 - _id: 66
-  _time: 2025-01-27 18:24:55.163001830 Z
+  _time: 2025-01-27 19:15:47.871785998 Z
   _version: 0.4.0/0.31.0/
-  branch: renovate/pre-commit-4.x
-  details: The pull request objectionary/eo-phi-normalizer#672 has been opened by
-    @renovate[bot].
-  event_id: 45739706520
-  event_type: PullRequestEvent
-  is_human: 0
-  issue: 672
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-01-20 20:32:29.000000000 Z
-  where: github
-  who: 29139614
-- _id: 67
-  _time: 2025-01-27 18:24:55.376339531 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#601 has been closed by @deemp.
-  event_id: 45678056404
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 601
-  repository: 731438612
-  what: issue-was-closed
-  when: 2025-01-17 21:54:06.000000000 Z
-  where: github
-  who: 48378098
-- _id: 68
-  _time: 2025-01-27 18:24:55.616442338 Z
-  _version: 0.4.0/0.31.0/
-  branch: 667-salty-option-would-be-great-to-have
-  comments: 0
-  comments_appreciated: 0
+  branch: version-up
+  comments: 2
+  comments_appreciated: 1
   comments_by_author: 0
-  comments_by_reviewers: 1
+  comments_by_reviewers: 3
   comments_resolved: 0
   comments_to_code: 0
-  details: The pull request objectionary/eo-phi-normalizer#671 has been closed by
-    @deemp, with 88 HoC and 0 comments.
-  event_id: 45678035251
-  event_type: PullRequestEvent
-  failed_builds: 0
-  hoc: 88
-  is_human: 1
-  issue: 671
-  repository: 731438612
-  succeeded_builds: 9
-  what: pull-was-merged
-  when: 2025-01-17 21:53:00.000000000 Z
-  where: github
-  who: 48378098
-- _id: 69
-  _time: 2025-01-27 18:24:58.196542301 Z
-  _version: 0.4.0/0.31.0/
-  branch: 667-salty-option-would-be-great-to-have
-  details: The pull request objectionary/eo-phi-normalizer#671 has been opened by
-    @deemp.
-  event_id: 45676417505
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 671
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-01-17 20:38:31.000000000 Z
-  where: github
-  who: 48378098
-- _id: 70
-  _time: 2025-01-27 18:24:58.236250981 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#630 has been closed by @yegor256.
-  event_id: 45659739552
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 630
-  repository: 731438612
-  what: issue-was-closed
-  when: 2025-01-17 11:24:33.000000000 Z
-  where: github
-  who: 526301
-- _id: 71
-  _time: 2025-01-27 18:24:58.284329650 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#562 has been closed by @yegor256.
-  event_id: 45653743256
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 562
-  repository: 731438612
-  what: issue-was-closed
-  when: 2025-01-17 08:16:59.000000000 Z
-  where: github
-  who: 526301
-- _id: 72
-  _time: 2025-01-27 18:24:58.312185072 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#670 has been opened by @deemp.
-  event_id: 45644724064
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 670
-  repository: 731438612
-  what: issue-was-opened
-  when: 2025-01-17 00:37:04.000000000 Z
-  where: github
-  who: 48378098
-- _id: 73
-  _time: 2025-01-27 18:24:58.609496770 Z
-  _version: 0.4.0/0.31.0/
-  branch: 562-is-there-anywhere-a-collection-of-tests-for-the-input-grammar
-  comments: 0
-  comments_appreciated: 0
-  comments_by_author: 0
-  comments_by_reviewers: 0
-  comments_resolved: 0
-  comments_to_code: 0
-  details: The pull request objectionary/eo-phi-normalizer#669 has been closed by
-    @deemp, with 874 HoC and 0 comments.
-  event_id: 45644544685
-  event_type: PullRequestEvent
-  failed_builds: 0
-  hoc: 874
-  is_human: 1
-  issue: 669
-  repository: 731438612
-  succeeded_builds: 0
-  what: pull-was-merged
-  when: 2025-01-17 00:27:08.000000000 Z
-  where: github
-  who: 48378098
-- _id: 74
-  _time: 2025-01-27 18:24:59.158860348 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#668 has been opened by @yegor256.
-  event_id: 45540973070
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 668
-  repository: 731438612
-  what: issue-was-opened
-  when: 2025-01-14 11:51:07.000000000 Z
-  where: github
-  who: 526301
-- _id: 75
-  _time: 2025-01-27 18:24:59.230236746 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#667 has been opened by @yegor256.
-  event_id: 45540421797
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 667
-  repository: 731438612
-  what: issue-was-opened
-  when: 2025-01-14 11:32:57.000000000 Z
-  where: github
-  who: 526301
-- _id: 76
-  _time: 2025-01-27 18:24:59.263677488 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#666 has been closed by @yegor256.
-  event_id: 45540360824
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 666
-  repository: 731438612
-  what: issue-was-closed
-  when: 2025-01-14 11:30:55.000000000 Z
-  where: github
-  who: 526301
-- _id: 77
-  _time: 2025-01-27 18:24:59.275735800 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#666 has been opened by @yegor256.
-  event_id: 45539861519
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 666
-  repository: 731438612
-  what: issue-was-opened
-  when: 2025-01-14 11:14:34.000000000 Z
-  where: github
-  who: 526301
-- _id: 78
-  _time: 2025-01-27 18:24:59.306216744 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#604 has been closed by @yegor256.
-  event_id: 45519163595
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 604
-  repository: 731438612
-  what: issue-was-closed
-  when: 2025-01-13 19:55:54.000000000 Z
-  where: github
-  who: 526301
-- _id: 79
-  _time: 2025-01-27 18:24:59.337526912 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#616 has been closed by @yegor256.
-  event_id: 45519115069
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 616
-  repository: 731438612
-  what: issue-was-closed
-  when: 2025-01-13 19:54:15.000000000 Z
-  where: github
-  who: 526301
-- _id: 80
-  _time: 2025-01-27 18:24:59.371868341 Z
-  _version: 0.4.0/0.31.0/
-  details: A new tag 'v3.2.0' has been created in objectionary/eo-phi-normalizer by
-    @deemp.
-  event_id: 45508030250
-  event_type: CreateEvent
-  is_human: 1
-  repository: 731438612
-  tag: v3.2.0
-  what: tag-was-created
-  when: 2025-01-13 14:38:37.000000000 Z
-  where: github
-  who: 48378098
-- _id: 81
-  _time: 2025-01-27 18:24:59.379949529 Z
-  _version: 0.4.0/0.31.0/
-  commits: 1846
-  contributors:
-  - 48378098
-  - 686582
-  - 11016151
-  - 41898282
-  - 38787503
-  - 40502297
-  - 29139614
-  - 56839054
-  - 526301
-  details: A new release 'v3.2.0' has been published in objectionary/eo-phi-normalizer
-    by @deemp.
-  event_id: 45508030222
-  event_type: ReleaseEvent
-  hoc: 28483
-  is_human: 1
-  last_commit: 376852b59adce3d2b06e6cde3877e965f814aa7a
-  release: 194443400
-  repository: 731438612
-  tag: v3.2.0
-  what: release-published
-  when: 2025-01-13 14:38:37.000000000 Z
-  where: github
-  who: 48378098
-- _id: 82
-  _time: 2025-01-27 18:25:20.199954372 Z
-  _version: 0.4.0/0.31.0/
-  branch: 663-prepare-release-of-v320
-  comments: 0
-  comments_appreciated: 0
-  comments_by_author: 0
-  comments_by_reviewers: 1
-  comments_resolved: 0
-  comments_to_code: 0
-  details: The pull request objectionary/eo-phi-normalizer#665 has been closed by
-    @deemp, with 6 HoC and 0 comments.
-  event_id: 45507990234
-  event_type: PullRequestEvent
-  failed_builds: 4
-  hoc: 6
-  is_human: 1
-  issue: 665
-  repository: 731438612
-  succeeded_builds: 1
-  what: pull-was-merged
-  when: 2025-01-13 14:37:38.000000000 Z
-  where: github
-  who: 48378098
-- _id: 83
-  _time: 2025-01-27 18:25:21.944038824 Z
-  _version: 0.4.0/0.31.0/
-  branch: 663-prepare-release-of-v320
-  details: The pull request objectionary/eo-phi-normalizer#665 has been opened by
-    @deemp.
-  event_id: 45507983655
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 665
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-01-13 14:37:28.000000000 Z
-  where: github
-  who: 48378098
-- _id: 84
-  _time: 2025-01-27 18:25:22.482251900 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#663 has been closed by @deemp.
-  event_id: 45507752726
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 663
-  repository: 731438612
-  what: issue-was-closed
-  when: 2025-01-13 14:31:51.000000000 Z
-  where: github
-  who: 48378098
-- _id: 85
-  _time: 2025-01-27 18:25:22.738000623 Z
-  _version: 0.4.0/0.31.0/
-  branch: 663-prepare-release-of-v320
-  comments: 0
-  comments_appreciated: 0
-  comments_by_author: 0
-  comments_by_reviewers: 0
-  comments_resolved: 0
-  comments_to_code: 0
-  details: The pull request objectionary/eo-phi-normalizer#664 has been closed by
-    @deemp, with 24 HoC and 0 comments.
-  event_id: 45507752227
-  event_type: PullRequestEvent
-  failed_builds: 0
-  hoc: 24
-  is_human: 1
-  issue: 664
-  repository: 731438612
-  succeeded_builds: 0
-  what: pull-was-merged
-  when: 2025-01-13 14:31:50.000000000 Z
-  where: github
-  who: 48378098
-- _id: 86
-  _time: 2025-01-27 18:25:23.211592999 Z
-  _version: 0.4.0/0.31.0/
-  branch: 663-prepare-release-of-v320
-  details: The pull request objectionary/eo-phi-normalizer#664 has been opened by
-    @deemp.
-  event_id: 45506975091
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 664
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-01-13 14:13:23.000000000 Z
-  where: github
-  who: 48378098
-- _id: 87
-  _time: 2025-01-27 18:25:23.285088218 Z
-  _version: 0.4.0/0.31.0/
-  details: The issue objectionary/eo-phi-normalizer#663 has been opened by @deemp.
-  event_id: 45506706984
-  event_type: IssuesEvent
-  is_human: 1
-  issue: 663
-  repository: 731438612
-  what: issue-was-opened
-  when: 2025-01-13 14:06:33.000000000 Z
-  where: github
-  who: 48378098
-- _id: 88
-  _time: 2025-01-27 18:25:23.370674612 Z
-  _version: 0.4.0/0.31.0/
-  branch: 616-sugar-for-data-primitives-is-not-always-used-when-printing
-  comments: 0
-  comments_appreciated: 0
-  comments_by_author: 0
-  comments_by_reviewers: 0
-  comments_resolved: 0
-  comments_to_code: 0
-  details: The pull request objectionary/eo-phi-normalizer#662 has been closed by
-    @deemp, with 41 HoC and 0 comments.
-  event_id: 45506624199
-  event_type: PullRequestEvent
-  failed_builds: 0
-  hoc: 41
-  is_human: 1
-  issue: 662
-  repository: 731438612
-  succeeded_builds: 9
-  what: pull-was-merged
-  when: 2025-01-13 14:04:26.000000000 Z
-  where: github
-  who: 48378098
-- _id: 89
-  _time: 2025-01-27 18:25:26.112031627 Z
-  _version: 0.4.0/0.31.0/
-  branch: 616-sugar-for-data-primitives-is-not-always-used-when-printing
-  details: The pull request objectionary/eo-phi-normalizer#662 has been opened by
-    @deemp.
-  event_id: 45506125954
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 662
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-01-13 13:51:47.000000000 Z
-  where: github
-  who: 48378098
-- _id: 90
-  _time: 2025-01-27 18:25:26.471626572 Z
-  _version: 0.4.0/0.31.0/
-  branch: 604-alpha-binding-syntax-sugar-is-not-understood-now
-  comments: 0
-  comments_appreciated: 0
-  comments_by_author: 0
-  comments_by_reviewers: 0
-  comments_resolved: 0
-  comments_to_code: 0
-  details: The pull request objectionary/eo-phi-normalizer#661 has been closed by
-    @deemp, with 31 HoC and 0 comments.
-  event_id: 45505390630
-  event_type: PullRequestEvent
-  failed_builds: 0
-  hoc: 31
-  is_human: 1
-  issue: 661
-  repository: 731438612
-  succeeded_builds: 9
-  what: pull-was-merged
-  when: 2025-01-13 13:32:02.000000000 Z
-  where: github
-  who: 48378098
-- _id: 91
-  _time: 2025-01-27 18:25:28.942432074 Z
-  _version: 0.4.0/0.31.0/
-  branch: 604-alpha-binding-syntax-sugar-is-not-understood-now
-  details: The pull request objectionary/eo-phi-normalizer#661 has been opened by
-    @deemp.
-  event_id: 45503953930
-  event_type: PullRequestEvent
-  is_human: 1
-  issue: 661
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-01-13 12:52:41.000000000 Z
-  where: github
-  who: 48378098
-- _id: 92
-  _time: 2025-01-27 18:25:29.361039733 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/baptiste0928-cargo-install-3.x
-  comments: 0
-  comments_appreciated: 0
-  comments_by_author: 0
-  comments_by_reviewers: 0
-  comments_resolved: 0
-  comments_to_code: 0
-  details: The pull request objectionary/eo-phi-normalizer#660 has been closed by
-    @deemp, with 2 HoC and 0 comments.
-  event_id: 45412922322
+  details: The pull request objectionary/jeo-maven-plugin#973 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45751409730
   event_type: PullRequestEvent
   failed_builds: 0
   hoc: 2
-  is_human: 1
-  issue: 660
-  repository: 731438612
-  succeeded_builds: 9
-  what: pull-was-merged
-  when: 2025-01-09 16:49:56.000000000 Z
-  where: github
-  who: 48378098
-- _id: 93
-  _time: 2025-01-27 18:25:31.865043116 Z
-  _version: 0.4.0/0.31.0/
-  branch: renovate/baptiste0928-cargo-install-3.x
-  details: The pull request objectionary/eo-phi-normalizer#660 has been opened by
-    @renovate[bot].
-  event_id: 45278782276
-  event_type: PullRequestEvent
   is_human: 0
-  issue: 660
-  repository: 731438612
-  what: pull-was-opened
-  when: 2025-01-06 02:27:47.000000000 Z
+  issue: 973
+  repository: 671896902
+  succeeded_builds: 0
+  what: pull-was-merged
+  when: 2025-01-21 07:37:26.000000000 Z
+  where: github
+  who: 8086956
+- _id: 67
+  _time: 2025-01-27 19:15:52.384896936 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#978 has been opened by @yegor256.
+  event_id: 45732628366
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 978
+  repository: 671896902
+  what: issue-was-opened
+  when: 2025-01-20 15:56:09.000000000 Z
+  where: github
+  who: 526301
+- _id: 68
+  _time: 2025-01-27 19:15:52.399968608 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#977 has been opened by @yegor256.
+  event_id: 45732466023
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 977
+  repository: 671896902
+  what: issue-was-opened
+  when: 2025-01-20 15:51:38.000000000 Z
+  where: github
+  who: 526301
+- _id: 69
+  _time: 2025-01-27 19:15:52.432786245 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#976 has been opened by @yegor256.
+  event_id: 45732408256
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 976
+  repository: 671896902
+  what: issue-was-opened
+  when: 2025-01-20 15:50:02.000000000 Z
+  where: github
+  who: 526301
+- _id: 70
+  _time: 2025-01-27 19:15:52.466001906 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/com.github.volodya-lombrozo-jtcop-maven-plugin-1.x
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#975 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45731879982
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 0
+  issue: 975
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-20 15:35:30.000000000 Z
+  where: github
+  who: 8086956
+- _id: 71
+  _time: 2025-01-27 19:15:59.533686653 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/org.eolang-eo-parser-0.x
+  comments: 0
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#971 has been closed by @renovate[bot],
+    with 2 HoC and 0 comments.
+  event_id: 45729620732
+  event_type: PullRequestEvent
+  failed_builds: 12
+  hoc: 2
+  is_human: 0
+  issue: 971
+  repository: 671896902
+  succeeded_builds: 4
+  what: pull-was-closed
+  when: 2025-01-20 14:35:03.000000000 Z
   where: github
   who: 29139614
+- _id: 72
+  _time: 2025-01-27 19:16:04.607463153 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/com.github.volodya-lombrozo-jtcop-maven-plugin-1.x
+  details: The pull request objectionary/jeo-maven-plugin#975 has been opened by @renovate[bot].
+  event_id: 45729616116
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 975
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-20 14:34:55.000000000 Z
+  where: github
+  who: 29139614
+- _id: 73
+  _time: 2025-01-27 19:16:04.640853815 Z
+  _version: 0.4.0/0.31.0/
+  branch: 965_xmir_warnings
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 2
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#969 has been closed by @rultor,
+    with 849 HoC and 2 comments.
+  event_id: 45729593710
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 849
+  is_human: 0
+  issue: 969
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-20 14:34:18.000000000 Z
+  where: github
+  who: 8086956
+- _id: 74
+  _time: 2025-01-27 19:16:08.720340083 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#967 has been closed by @yegor256.
+  event_id: 45729019211
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 967
+  repository: 671896902
+  what: issue-was-closed
+  when: 2025-01-20 14:19:41.000000000 Z
+  where: github
+  who: 526301
+- _id: 75
+  _time: 2025-01-27 19:16:08.815879237 Z
+  _version: 0.4.0/0.31.0/
+  commits: 2385
+  contributors:
+  - 51804353
+  - 29139614
+  - 8086956
+  - 83453843
+  - 526301
+  details: A new release '0.7.2' has been published in objectionary/jeo-maven-plugin
+    by @rultor.
+  event_id: 45726886258
+  event_type: ReleaseEvent
+  hoc: 19627
+  is_human: 0
+  last_commit: 8c2622d19abba40f30cf77d875e7593f9cea62fb
+  release: 195645952
+  repository: 671896902
+  tag: 0.7.2
+  what: release-published
+  when: 2025-01-20 13:22:01.000000000 Z
+  where: github
+  who: 8086956
+- _id: 76
+  _time: 2025-01-27 19:16:39.400684391 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/com.github.volodya-lombrozo-jsmith-0.x
+  details: The pull request objectionary/jeo-maven-plugin#974 has been opened by @renovate[bot].
+  event_id: 45726856684
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 974
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-20 13:21:12.000000000 Z
+  where: github
+  who: 29139614
+- _id: 77
+  _time: 2025-01-27 19:16:39.674254088 Z
+  _version: 0.4.0/0.31.0/
+  branch: version-up
+  details: The pull request objectionary/jeo-maven-plugin#973 has been opened by @github-actions[bot].
+  event_id: 45726849281
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 973
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-20 13:21:01.000000000 Z
+  where: github
+  who: 41898282
+- _id: 78
+  _time: 2025-01-27 19:16:39.831507337 Z
+  _version: 0.4.0/0.31.0/
+  details: A new tag '0.7.2' has been created in objectionary/jeo-maven-plugin by
+    @rultor.
+  event_id: 45726838676
+  event_type: CreateEvent
+  is_human: 0
+  repository: 671896902
+  tag: 0.7.2
+  what: tag-was-created
+  when: 2025-01-20 13:20:43.000000000 Z
+  where: github
+  who: 8086956
+- _id: 79
+  _time: 2025-01-27 19:16:40.271138654 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#967 has been opened by @yegor256.
+  event_id: 45585442952
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 967
+  repository: 671896902
+  what: issue-was-opened
+  when: 2025-01-15 13:55:11.000000000 Z
+  where: github
+  who: 526301
+- _id: 80
+  _time: 2025-01-27 19:16:40.295671026 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#964 has been closed by @yegor256.
+  event_id: 45585414827
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 964
+  repository: 671896902
+  what: issue-was-closed
+  when: 2025-01-15 13:54:27.000000000 Z
+  where: github
+  who: 526301
+- _id: 81
+  _time: 2025-01-27 19:16:40.332473180 Z
+  _version: 0.4.0/0.31.0/
+  branch: version-up
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#966 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45577353597
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 0
+  issue: 966
+  repository: 671896902
+  succeeded_builds: 0
+  what: pull-was-merged
+  when: 2025-01-15 10:05:55.000000000 Z
+  where: github
+  who: 8086956
+- _id: 82
+  _time: 2025-01-27 19:16:45.144844176 Z
+  _version: 0.4.0/0.31.0/
+  commits: 1
+  contributors: 8086956
+  details: A new release '0.7.1' has been published in objectionary/jeo-maven-plugin
+    by @rultor.
+  event_id: 45576965239
+  event_type: ReleaseEvent
+  hoc: 2
+  is_human: 0
+  last_commit: 774520013a8bd392041c505ce177e4f2c12376eb
+  release: 194864175
+  repository: 671896902
+  tag: 0.7.1
+  what: release-published
+  when: 2025-01-15 09:55:18.000000000 Z
+  where: github
+  who: 8086956
+- _id: 83
+  _time: 2025-01-27 19:16:45.394012972 Z
+  _version: 0.4.0/0.31.0/
+  branch: version-up
+  details: The pull request objectionary/jeo-maven-plugin#966 has been opened by @github-actions[bot].
+  event_id: 45576924989
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 966
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-15 09:54:11.000000000 Z
+  where: github
+  who: 41898282
+- _id: 84
+  _time: 2025-01-27 19:16:45.485220471 Z
+  _version: 0.4.0/0.31.0/
+  details: A new tag '0.7.1' has been created in objectionary/jeo-maven-plugin by
+    @rultor.
+  event_id: 45576913586
+  event_type: CreateEvent
+  is_human: 0
+  repository: 671896902
+  tag: 0.7.1
+  what: tag-was-created
+  when: 2025-01-15 09:53:52.000000000 Z
+  where: github
+  who: 8086956
+- _id: 85
+  _time: 2025-01-27 19:16:45.772913345 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#965 has been opened by @0pdd.
+  event_id: 45576247791
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 965
+  repository: 671896902
+  what: issue-was-opened
+  when: 2025-01-15 09:35:20.000000000 Z
+  where: github
+  who: 24456188
+- _id: 86
+  _time: 2025-01-27 19:16:45.842823859 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#946 has been closed by @0pdd.
+  event_id: 45576245668
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 946
+  repository: 671896902
+  what: issue-was-closed
+  when: 2025-01-15 09:35:16.000000000 Z
+  where: github
+  who: 24456188
+- _id: 87
+  _time: 2025-01-27 19:16:45.860449356 Z
+  _version: 0.4.0/0.31.0/
+  branch: 946_eo_warns
+  comments: 12
+  comments_appreciated: 4
+  comments_by_author: 6
+  comments_by_reviewers: 11
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#962 has been closed by @rultor,
+    with 132 HoC and 12 comments.
+  event_id: 45576244041
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 132
+  is_human: 0
+  issue: 962
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-15 09:35:13.000000000 Z
+  where: github
+  who: 8086956
+- _id: 88
+  _time: 2025-01-27 19:16:51.954720977 Z
+  _version: 0.4.0/0.31.0/
+  commit: 43cc3874fbdda8375d845b1c6146752197ce4a2f
+  default_branch: master
+  details: 'A new Git push #22136799724 has arrived to objectionary/jeo-maven-plugin,
+    made by @volodya-lombrozo (default branch is ''master''), not associated with
+    any pull request.'
+  event_id: 45574744232
+  event_type: PushEvent
+  is_human: 1
+  push_id: 22136799724
+  ref: refs/heads/master
+  repository: 671896902
+  to_master: 1
+  what: git-was-pushed
+  when: 2025-01-15 08:52:24.000000000 Z
+  where: github
+  who: 51804353
+- _id: 89
+  _time: 2025-01-27 19:16:52.250267346 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/org.eolang-lints-0.x
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#951 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45564915065
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 0
+  issue: 951
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-15 00:53:46.000000000 Z
+  where: github
+  who: 8086956
+- _id: 90
+  _time: 2025-01-27 19:16:59.388141687 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#964 has been opened by @yegor256.
+  event_id: 45536804273
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 964
+  repository: 671896902
+  what: issue-was-opened
+  when: 2025-01-14 09:43:43.000000000 Z
+  where: github
+  who: 526301
+- _id: 91
+  _time: 2025-01-27 19:16:59.564415909 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#963 has been opened by @0pdd.
+  event_id: 45434391994
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 963
+  repository: 671896902
+  what: issue-was-opened
+  when: 2025-01-10 09:17:54.000000000 Z
+  where: github
+  who: 24456188
+- _id: 92
+  _time: 2025-01-27 19:16:59.588648280 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#918 has been closed by @rultor.
+  event_id: 45434389777
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 918
+  repository: 671896902
+  what: issue-was-closed
+  when: 2025-01-10 09:17:50.000000000 Z
+  where: github
+  who: 8086956
+- _id: 93
+  _time: 2025-01-27 19:16:59.604199091 Z
+  _version: 0.4.0/0.31.0/
+  branch: 918_docs
+  comments: 7
+  comments_appreciated: 1
+  comments_by_author: 4
+  comments_by_reviewers: 6
+  comments_resolved: 0
+  comments_to_code: 2
+  details: The pull request objectionary/jeo-maven-plugin#961 has been closed by @rultor,
+    with 473 HoC and 7 comments.
+  event_id: 45434389366
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 473
+  is_human: 0
+  issue: 961
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-10 09:17:49.000000000 Z
+  where: github
+  who: 8086956
 - _id: 94
-  _time: 2025-01-27 18:25:32.372356769 Z
+  _time: 2025-01-27 19:17:07.653051962 Z
+  _version: 0.4.0/0.31.0/
+  comments: 10
+  commits: 7
+  details: The pull request objectionary/jeo-maven-plugin#961 has been reviewed by
+    @yegor256 with 473 HoC and 10 comments.
+  event_id: 45433459519
+  event_type: PullRequestReviewEvent
+  files: 2
+  hoc: 473
+  is_human: 1
+  issue: 961
+  repository: 671896902
+  what: pull-was-reviewed
+  when: 2025-01-10 08:49:01.000000000 Z
+  where: github
+  who: 526301
+- _id: 95
+  _time: 2025-01-27 19:17:08.005070027 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/org.eolang-lints-0.x
+  comments: 0
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#951 has been closed by @renovate[bot],
+    with 2 HoC and 0 comments.
+  event_id: 45432923540
+  event_type: PullRequestEvent
+  failed_builds: 6
+  hoc: 2
+  is_human: 0
+  issue: 951
+  repository: 671896902
+  succeeded_builds: 10
+  what: pull-was-closed
+  when: 2025-01-10 08:30:45.000000000 Z
+  where: github
+  who: 29139614
+- _id: 96
+  _time: 2025-01-27 19:17:13.279662058 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#958 has been closed by @rultor.
+  event_id: 45432909065
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 958
+  repository: 671896902
+  what: issue-was-closed
+  when: 2025-01-10 08:30:16.000000000 Z
+  where: github
+  who: 8086956
+- _id: 97
+  _time: 2025-01-27 19:17:13.310483197 Z
+  _version: 0.4.0/0.31.0/
+  branch: 958_lints
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#959 has been closed by @rultor,
+    with 38 HoC and 2 comments.
+  event_id: 45432908495
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 38
+  is_human: 0
+  issue: 959
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-10 08:30:16.000000000 Z
+  where: github
+  who: 8086956
+- _id: 98
+  _time: 2025-01-27 19:17:17.472558985 Z
+  _version: 0.4.0/0.31.0/
+  branch: 946_eo_warns
+  details: The pull request objectionary/jeo-maven-plugin#962 has been opened by @volodya-lombrozo.
+  event_id: 45397439361
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 962
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-09 09:30:33.000000000 Z
+  where: github
+  who: 51804353
+- _id: 99
+  _time: 2025-01-27 19:17:17.498772132 Z
+  _version: 0.4.0/0.31.0/
+  branch: 918_docs
+  details: The pull request objectionary/jeo-maven-plugin#961 has been opened by @volodya-lombrozo.
+  event_id: 45395690323
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 961
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-09 08:37:38.000000000 Z
+  where: github
+  who: 51804353
+- _id: 100
+  _time: 2025-01-27 19:17:17.536009715 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/logback-monorepo
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#960 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45279242790
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 0
+  issue: 960
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2025-01-06 02:59:15.000000000 Z
+  where: github
+  who: 8086956
+- _id: 101
+  _time: 2025-01-27 19:17:24.525516880 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/logback-monorepo
+  details: The pull request objectionary/jeo-maven-plugin#960 has been opened by @renovate[bot].
+  event_id: 45278345660
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 960
+  repository: 671896902
+  what: pull-was-opened
+  when: 2025-01-06 01:58:14.000000000 Z
+  where: github
+  who: 29139614
+- _id: 102
+  _time: 2025-01-27 19:17:24.580254452 Z
+  _version: 0.4.0/0.31.0/
+  branch: 958_lints
+  details: The pull request objectionary/jeo-maven-plugin#959 has been opened by @volodya-lombrozo.
+  event_id: 45172085922
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 959
+  repository: 671896902
+  what: pull-was-opened
+  when: 2024-12-31 06:24:54.000000000 Z
+  where: github
+  who: 51804353
+- _id: 103
+  _time: 2025-01-27 19:17:24.591633896 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#958 has been opened by @volodya-lombrozo.
+  event_id: 45172015506
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 958
+  repository: 671896902
+  what: issue-was-opened
+  when: 2024-12-31 06:19:27.000000000 Z
+  where: github
+  who: 51804353
+- _id: 104
+  _time: 2025-01-27 19:17:24.621496527 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#939 has been closed by @yegor256.
+  event_id: 45130666444
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 939
+  repository: 671896902
+  what: issue-was-closed
+  when: 2024-12-28 14:40:36.000000000 Z
+  where: github
+  who: 526301
+- _id: 105
+  _time: 2025-01-27 19:17:24.634575396 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#938 has been closed by @yegor256.
+  event_id: 45130272932
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 938
+  repository: 671896902
+  what: issue-was-closed
+  when: 2024-12-28 13:56:44.000000000 Z
+  where: github
+  who: 526301
+- _id: 106
+  _time: 2025-01-27 19:17:24.681688551 Z
+  _version: 0.4.0/0.31.0/
+  branch: version-up
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#957 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45130240769
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 0
+  issue: 957
+  repository: 671896902
+  succeeded_builds: 0
+  what: pull-was-merged
+  when: 2024-12-28 13:52:43.000000000 Z
+  where: github
+  who: 8086956
+- _id: 107
+  _time: 2025-01-27 19:17:29.328018683 Z
+  _version: 0.4.0/0.31.0/
+  commits: 1
+  contributors: 8086956
+  details: A new release '0.7.0' has been published in objectionary/jeo-maven-plugin
+    by @rultor.
+  event_id: 45129941377
+  event_type: ReleaseEvent
+  hoc: 2
+  is_human: 0
+  last_commit: 80c0ed373e561538c80f39a47ffbc54e9ecd09c5
+  release: 192567907
+  repository: 671896902
+  tag: 0.7.0
+  what: release-published
+  when: 2024-12-28 13:16:30.000000000 Z
+  where: github
+  who: 8086956
+- _id: 108
+  _time: 2025-01-27 19:17:29.631187536 Z
+  _version: 0.4.0/0.31.0/
+  branch: version-up
+  details: The pull request objectionary/jeo-maven-plugin#957 has been opened by @github-actions[bot].
+  event_id: 45129933283
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 957
+  repository: 671896902
+  what: pull-was-opened
+  when: 2024-12-28 13:15:34.000000000 Z
+  where: github
+  who: 41898282
+- _id: 109
+  _time: 2025-01-27 19:17:29.673845994 Z
+  _version: 0.4.0/0.31.0/
+  details: A new tag '0.7.0' has been created in objectionary/jeo-maven-plugin by
+    @rultor.
+  event_id: 45129930702
+  event_type: CreateEvent
+  is_human: 0
+  repository: 671896902
+  tag: 0.7.0
+  what: tag-was-created
+  when: 2024-12-28 13:15:17.000000000 Z
+  where: github
+  who: 8086956
+- _id: 110
+  _time: 2025-01-27 19:17:29.727548872 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#947 has been closed by @rultor.
+  event_id: 45129725975
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 947
+  repository: 671896902
+  what: issue-was-closed
+  when: 2024-12-28 12:53:31.000000000 Z
+  where: github
+  who: 8086956
+- _id: 111
+  _time: 2025-01-27 19:17:29.744352881 Z
+  _version: 0.4.0/0.31.0/
+  branch: 947_opt_verification
+  comments: 3
+  comments_appreciated: 1
+  comments_by_author: 2
+  comments_by_reviewers: 4
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#956 has been closed by @rultor,
+    with 271 HoC and 3 comments.
+  event_id: 45129725870
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 271
+  is_human: 0
+  issue: 956
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2024-12-28 12:53:30.000000000 Z
+  where: github
+  who: 8086956
+- _id: 112
+  _time: 2025-01-27 19:17:37.102468138 Z
+  _version: 0.4.0/0.31.0/
+  comments: 6
+  commits: 8
+  details: The pull request objectionary/jeo-maven-plugin#956 has been reviewed by
+    @yegor256 with 271 HoC and 6 comments.
+  event_id: 45129333295
+  event_type: PullRequestReviewEvent
+  files: 22
+  hoc: 271
+  is_human: 1
+  issue: 956
+  repository: 671896902
+  what: pull-was-reviewed
+  when: 2024-12-28 12:12:04.000000000 Z
+  where: github
+  who: 526301
+- _id: 113
+  _time: 2025-01-27 19:17:37.501504198 Z
+  _version: 0.4.0/0.31.0/
+  branch: 947_opt_verification
+  details: The pull request objectionary/jeo-maven-plugin#956 has been opened by @volodya-lombrozo.
+  event_id: 45128692915
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 956
+  repository: 671896902
+  what: pull-was-opened
+  when: 2024-12-28 10:52:19.000000000 Z
+  where: github
+  who: 51804353
+- _id: 114
+  _time: 2025-01-27 19:17:37.529522123 Z
+  _version: 0.4.0/0.31.0/
+  branch: 938_lints
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#955 has been closed by @rultor,
+    with 83 HoC and 2 comments.
+  event_id: 45127774755
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 83
+  is_human: 0
+  issue: 955
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2024-12-28 08:55:39.000000000 Z
+  where: github
+  who: 8086956
+- _id: 115
+  _time: 2025-01-27 19:17:41.939955640 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/org.eolang-eo-parser-0.x
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#886 has been closed by @rultor,
+    with 2 HoC and 2 comments.
+  event_id: 45119602974
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 2
+  is_human: 0
+  issue: 886
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2024-12-27 17:56:49.000000000 Z
+  where: github
+  who: 8086956
+- _id: 116
+  _time: 2025-01-27 19:17:45.873204216 Z
+  _version: 0.4.0/0.31.0/
+  branch: renovate/org.eolang-eo-maven-plugin-0.x
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 0
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#906 has been closed by @rultor,
+    with 20 HoC and 2 comments.
+  event_id: 45119365252
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 20
+  is_human: 0
+  issue: 906
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2024-12-27 17:40:11.000000000 Z
+  where: github
+  who: 8086956
+- _id: 117
+  _time: 2025-01-27 19:17:52.767635250 Z
+  _version: 0.4.0/0.31.0/
+  branch: 938_lints
+  details: The pull request objectionary/jeo-maven-plugin#955 has been opened by @volodya-lombrozo.
+  event_id: 45112004105
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 955
+  repository: 671896902
+  what: pull-was-opened
+  when: 2024-12-27 10:28:56.000000000 Z
+  where: github
+  who: 51804353
+- _id: 118
+  _time: 2025-01-27 19:17:52.914896192 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#953 has been closed by @rultor.
+  event_id: 45111051243
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 953
+  repository: 671896902
+  what: issue-was-closed
+  when: 2024-12-27 09:37:56.000000000 Z
+  where: github
+  who: 8086956
+- _id: 119
+  _time: 2025-01-27 19:17:52.935010110 Z
+  _version: 0.4.0/0.31.0/
+  branch: 953_use_jcabi
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 2
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#954 has been closed by @rultor,
+    with 100 HoC and 2 comments.
+  event_id: 45111051048
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 100
+  is_human: 0
+  issue: 954
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2024-12-27 09:37:55.000000000 Z
+  where: github
+  who: 8086956
+- _id: 120
+  _time: 2025-01-27 19:18:00.212040532 Z
+  _version: 0.4.0/0.31.0/
+  branch: 953_use_jcabi
+  details: The pull request objectionary/jeo-maven-plugin#954 has been opened by @volodya-lombrozo.
+  event_id: 45110071069
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 954
+  repository: 671896902
+  what: pull-was-opened
+  when: 2024-12-27 08:42:57.000000000 Z
+  where: github
+  who: 51804353
+- _id: 121
+  _time: 2025-01-27 19:18:00.388191564 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#953 has been opened by @0pdd.
+  event_id: 45095784409
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 953
+  repository: 671896902
+  what: issue-was-opened
+  when: 2024-12-26 14:13:26.000000000 Z
+  where: github
+  who: 24456188
+- _id: 122
+  _time: 2025-01-27 19:18:00.412321771 Z
+  _version: 0.4.0/0.31.0/
+  details: The issue objectionary/jeo-maven-plugin#948 has been closed by @rultor.
+  event_id: 45095783538
+  event_type: IssuesEvent
+  is_human: 0
+  issue: 948
+  repository: 671896902
+  what: issue-was-closed
+  when: 2024-12-26 14:13:23.000000000 Z
+  where: github
+  who: 8086956
+- _id: 123
+  _time: 2025-01-27 19:18:00.427605428 Z
+  _version: 0.4.0/0.31.0/
+  branch: 948_xml
+  comments: 2
+  comments_appreciated: 1
+  comments_by_author: 1
+  comments_by_reviewers: 3
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jeo-maven-plugin#952 has been closed by @rultor,
+    with 1585 HoC and 2 comments.
+  event_id: 45095783387
+  event_type: PullRequestEvent
+  failed_builds: 0
+  hoc: 1585
+  is_human: 0
+  issue: 952
+  repository: 671896902
+  succeeded_builds: 8
+  what: pull-was-merged
+  when: 2024-12-26 14:13:22.000000000 Z
+  where: github
+  who: 8086956
+- _id: 124
+  _time: 2025-01-27 19:18:07.387248098 Z
+  _version: 0.4.0/0.31.0/
+  branch: 948_xml
+  details: The pull request objectionary/jeo-maven-plugin#952 has been opened by @volodya-lombrozo.
+  event_id: 45094929759
+  event_type: PullRequestEvent
+  is_human: 1
+  issue: 952
+  repository: 671896902
+  what: pull-was-opened
+  when: 2024-12-26 13:22:58.000000000 Z
+  where: github
+  who: 51804353
+- _id: 125
+  _time: 2025-01-27 19:18:07.401942816 Z
+  _version: 0.4.0/0.31.0/
+  latest: 45950500291
+  repository: 671896902
+  what: events-were-scanned
+  where: github
+- _id: 126
+  _time: 2025-01-27 19:18:19.039981968 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 501259435
   what: labels-were-scanned
   where: github
-- _id: 95
-  _time: 2025-01-27 18:25:32.379483684 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 96
-  _time: 2025-01-27 18:25:32.386738168 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 546194972
-  what: labels-were-scanned
-  where: github
-- _id: 97
-  _time: 2025-01-27 18:25:32.394119959 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 489321585
-  what: labels-were-scanned
-  where: github
-- _id: 98
-  _time: 2025-01-27 18:25:32.401698269 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 447446664
-  what: labels-were-scanned
-  where: github
-- _id: 99
-  _time: 2025-01-27 18:25:32.409286016 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 510082372
-  what: labels-were-scanned
-  where: github
-- _id: 100
-  _time: 2025-01-27 18:25:32.417019276 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 519299365
-  what: labels-were-scanned
-  where: github
-- _id: 101
-  _time: 2025-01-27 18:25:32.434645756 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490221501
-  what: labels-were-scanned
-  where: github
-- _id: 102
-  _time: 2025-01-27 18:25:32.455782774 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 840332960
-  what: labels-were-scanned
-  where: github
-- _id: 103
-  _time: 2025-01-27 18:25:32.483726579 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 519246071
-  what: labels-were-scanned
-  where: github
-- _id: 104
-  _time: 2025-01-27 18:25:32.514957193 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 531151981
-  what: labels-were-scanned
-  where: github
-- _id: 105
-  _time: 2025-01-27 18:25:32.535906891 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 518891717
-  what: labels-were-scanned
-  where: github
-- _id: 106
-  _time: 2025-01-27 18:25:32.549085408 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 559427983
-  what: labels-were-scanned
-  where: github
-- _id: 107
-  _time: 2025-01-27 18:25:32.560735787 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 568705267
-  what: labels-were-scanned
-  where: github
-- _id: 108
-  _time: 2025-01-27 18:25:32.570523099 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 889819508
-  what: labels-were-scanned
-  where: github
-- _id: 109
-  _time: 2025-01-27 18:25:32.581181682 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 671896902
-  what: labels-were-scanned
-  where: github
-- _id: 110
-  _time: 2025-01-27 18:25:32.592369585 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 543969974
-  what: labels-were-scanned
-  where: github
-- _id: 111
-  _time: 2025-01-27 18:25:32.603226739 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574459304
-  what: labels-were-scanned
-  where: github
-- _id: 112
-  _time: 2025-01-27 18:25:32.615163824 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490157985
-  what: labels-were-scanned
-  where: github
-- _id: 113
-  _time: 2025-01-27 18:25:32.629734787 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 565789755
-  what: labels-were-scanned
-  where: github
-- _id: 114
-  _time: 2025-01-27 18:25:32.647015851 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 492899189
-  what: labels-were-scanned
-  where: github
-- _id: 115
-  _time: 2025-01-27 18:25:32.666387256 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 798766850
-  what: labels-were-scanned
-  where: github
-- _id: 116
-  _time: 2025-01-27 18:25:32.681373546 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 13623548
-  what: labels-were-scanned
-  where: github
-- _id: 117
-  _time: 2025-01-27 18:25:32.693884995 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 483303722
-  what: labels-were-scanned
-  where: github
-- _id: 118
-  _time: 2025-01-27 18:25:32.705717695 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 551486781
-  what: labels-were-scanned
-  where: github
-- _id: 119
-  _time: 2025-01-27 18:25:32.717775049 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 784310467
-  what: labels-were-scanned
-  where: github
-- _id: 120
-  _time: 2025-01-27 18:25:32.730892803 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 362152931
-  what: labels-were-scanned
-  where: github
-- _id: 121
-  _time: 2025-01-27 18:25:32.742371420 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 731516758
-  what: labels-were-scanned
-  where: github
-- _id: 122
-  _time: 2025-01-27 18:25:32.755732840 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 510102039
-  what: labels-were-scanned
-  where: github
-- _id: 123
-  _time: 2025-01-27 18:25:32.771062382 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 721146770
-  what: labels-were-scanned
-  where: github
-- _id: 124
-  _time: 2025-01-27 18:25:32.786416300 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 490258619
-  what: labels-were-scanned
-  where: github
-- _id: 125
-  _time: 2025-01-27 18:25:32.802417509 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 733919301
-  what: labels-were-scanned
-  where: github
-- _id: 126
-  _time: 2025-01-27 18:25:32.816517360 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 709214061
-  what: labels-were-scanned
-  where: github
 - _id: 127
-  _time: 2025-01-27 18:25:32.828765387 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 403396472
-  what: labels-were-scanned
-  where: github
-- _id: 128
-  _time: 2025-01-27 18:25:32.842604491 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 386420319
-  what: labels-were-scanned
-  where: github
-- _id: 129
-  _time: 2025-01-27 18:25:32.856053805 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 373900298
-  what: labels-were-scanned
-  where: github
-- _id: 130
-  _time: 2025-01-27 18:25:32.870253403 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 570457023
-  what: labels-were-scanned
-  where: github
-- _id: 131
-  _time: 2025-01-27 18:25:32.885837031 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 552394123
-  what: labels-were-scanned
-  where: github
-- _id: 132
-  _time: 2025-01-27 18:25:32.900765743 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 493235807
-  what: labels-were-scanned
-  where: github
-- _id: 134
-  _time: 2025-01-27 18:25:33.186186810 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 562850967
-  what: labels-were-scanned
-  where: github
-- _id: 135
-  _time: 2025-01-27 18:25:33.203559595 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 501942888
-  what: labels-were-scanned
-  where: github
-- _id: 136
-  _time: 2025-01-27 18:25:33.221660763 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 624420387
-  what: labels-were-scanned
-  where: github
-- _id: 137
-  _time: 2025-01-27 18:25:33.239794913 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 73056727
-  what: labels-were-scanned
-  where: github
-- _id: 138
-  _time: 2025-01-27 18:25:33.258578204 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 574534248
-  what: labels-were-scanned
-  where: github
-- _id: 139
-  _time: 2025-01-27 18:25:33.271399012 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 558766137
-  what: labels-were-scanned
-  where: github
-- _id: 140
-  _time: 2025-01-27 18:25:33.283330216 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 396732517
-  what: labels-were-scanned
-  where: github
-- _id: 141
-  _time: 2025-01-27 18:25:33.295348042 Z
-  _version: 0.4.0/0.31.0/
-  latest: 0
-  repository: 581460427
-  what: labels-were-scanned
-  where: github
-- _id: 142
-  _time: 2025-01-27 18:25:33.307309482 Z
+  _time: 2025-01-27 19:18:19.049456555 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 575859928
   what: labels-were-scanned
   where: github
-- _id: 143
-  _time: 2025-01-27 18:25:33.319393943 Z
+- _id: 128
+  _time: 2025-01-27 19:18:19.058887019 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 483303722
+  what: labels-were-scanned
+  where: github
+- _id: 129
+  _time: 2025-01-27 19:18:19.068531042 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 889819508
+  what: labels-were-scanned
+  where: github
+- _id: 130
+  _time: 2025-01-27 19:18:19.078136453 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 593092058
   what: labels-were-scanned
   where: github
+- _id: 131
+  _time: 2025-01-27 19:18:19.088049440 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 568705267
+  what: labels-were-scanned
+  where: github
+- _id: 132
+  _time: 2025-01-27 19:18:19.097956024 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519246071
+  what: labels-were-scanned
+  where: github
+- _id: 133
+  _time: 2025-01-27 19:18:19.108011637 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 489321585
+  what: labels-were-scanned
+  where: github
+- _id: 134
+  _time: 2025-01-27 19:18:19.118135066 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 733919301
+  what: labels-were-scanned
+  where: github
+- _id: 135
+  _time: 2025-01-27 19:18:19.128355257 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490157985
+  what: labels-were-scanned
+  where: github
+- _id: 136
+  _time: 2025-01-27 19:18:19.442686159 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @volodya-lombrozo to the issue objectionary/jeo-maven-plugin#953.
+  issue: 953
+  label: bug
+  repository: 671896902
+  what: label-was-attached
+  when: 2024-12-26 14:48:26.000000000 Z
+  where: github
+  who: 51804353
+- _id: 138
+  _time: 2025-01-27 19:18:19.463641754 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 840332960
+  what: labels-were-scanned
+  where: github
+- _id: 139
+  _time: 2025-01-27 19:18:19.478130055 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 784310467
+  what: labels-were-scanned
+  where: github
+- _id: 140
+  _time: 2025-01-27 19:18:19.489044754 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 558766137
+  what: labels-were-scanned
+  where: github
+- _id: 141
+  _time: 2025-01-27 19:18:19.501256609 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 362152931
+  what: labels-were-scanned
+  where: github
+- _id: 142
+  _time: 2025-01-27 19:18:19.512158324 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 531151981
+  what: labels-were-scanned
+  where: github
+- _id: 143
+  _time: 2025-01-27 19:18:19.523228414 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 447446664
+  what: labels-were-scanned
+  where: github
 - _id: 144
-  _time: 2025-01-27 18:25:33.333087234 Z
+  _time: 2025-01-27 19:18:19.535892564 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 659628214
   what: labels-were-scanned
   where: github
 - _id: 145
-  _time: 2025-01-27 18:25:33.345375966 Z
+  _time: 2025-01-27 19:18:19.548127151 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574534248
+  what: labels-were-scanned
+  where: github
+- _id: 146
+  _time: 2025-01-27 19:18:19.560795670 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 403396472
+  what: labels-were-scanned
+  where: github
+- _id: 147
+  _time: 2025-01-27 19:18:19.573516627 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 493235807
+  what: labels-were-scanned
+  where: github
+- _id: 148
+  _time: 2025-01-27 19:18:19.586361335 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510082372
+  what: labels-were-scanned
+  where: github
+- _id: 149
+  _time: 2025-01-27 19:18:19.599277496 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490221501
+  what: labels-were-scanned
+  where: github
+- _id: 150
+  _time: 2025-01-27 19:18:19.612228212 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 562850967
+  what: labels-were-scanned
+  where: github
+- _id: 151
+  _time: 2025-01-27 19:18:19.625390023 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 373900298
+  what: labels-were-scanned
+  where: github
+- _id: 152
+  _time: 2025-01-27 19:18:19.638686526 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 565789755
+  what: labels-were-scanned
+  where: github
+- _id: 153
+  _time: 2025-01-27 19:18:19.652067377 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 501942888
+  what: labels-were-scanned
+  where: github
+- _id: 154
+  _time: 2025-01-27 19:18:19.665590504 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 490258619
+  what: labels-were-scanned
+  where: github
+- _id: 155
+  _time: 2025-01-27 19:18:19.679370500 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 396732517
+  what: labels-were-scanned
+  where: github
+- _id: 156
+  _time: 2025-01-27 19:18:19.693432695 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 157
+  _time: 2025-01-27 19:18:19.707621216 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 624420387
+  what: labels-were-scanned
+  where: github
+- _id: 158
+  _time: 2025-01-27 19:18:19.734527597 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 518891717
+  what: labels-were-scanned
+  where: github
+- _id: 159
+  _time: 2025-01-27 19:18:19.762975852 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 510102039
+  what: labels-were-scanned
+  where: github
+- _id: 160
+  _time: 2025-01-27 19:18:19.787320684 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 386420319
+  what: labels-were-scanned
+  where: github
+- _id: 161
+  _time: 2025-01-27 19:18:19.803916286 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 499536612
   what: labels-were-scanned
   where: github
-- _id: 146
-  _time: 2025-01-27 18:25:34.372435190 Z
+- _id: 162
+  _time: 2025-01-27 19:18:19.822948353 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 581460427
+  what: labels-were-scanned
+  where: github
+- _id: 163
+  _time: 2025-01-27 19:18:19.841453716 Z
   _version: 0.4.0/0.31.0/
   latest: 0
   repository: 731438612
   what: labels-were-scanned
   where: github
-- _id: 147
-  _time: 2025-01-27 18:27:55.196534204 Z
+- _id: 164
+  _time: 2025-01-27 19:18:19.860256165 Z
   _version: 0.4.0/0.31.0/
-  average_release_commits_size: 32.9
-  average_release_hoc_size: 22558.5
-  average_review_size: 0.7461538461538462
-  average_review_time: 80365.51020408163
-  average_reviewers_per_pull: 0.5461538461538461
-  average_reviews_per_pull: 0.9076923076923077
-  since: 2024-12-30 18:25:34.384218377 Z
+  latest: 0
+  repository: 482612876
+  what: labels-were-scanned
+  where: github
+- _id: 165
+  _time: 2025-01-27 19:18:19.878948136 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 574459304
+  what: labels-were-scanned
+  where: github
+- _id: 166
+  _time: 2025-01-27 19:18:19.897092023 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 167
+  _time: 2025-01-27 19:18:19.917945086 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 168
+  _time: 2025-01-27 19:18:19.937270081 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 731516758
+  what: labels-were-scanned
+  where: github
+- _id: 169
+  _time: 2025-01-27 19:18:19.957337555 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 170
+  _time: 2025-01-27 19:18:19.974918239 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 171
+  _time: 2025-01-27 19:18:19.991581136 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 519299365
+  what: labels-were-scanned
+  where: github
+- _id: 172
+  _time: 2025-01-27 19:18:20.008478462 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 13623548
+  what: labels-were-scanned
+  where: github
+- _id: 173
+  _time: 2025-01-27 19:18:20.026223724 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 552394123
+  what: labels-were-scanned
+  where: github
+- _id: 174
+  _time: 2025-01-27 19:18:20.042821259 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 721146770
+  what: labels-were-scanned
+  where: github
+- _id: 175
+  _time: 2025-01-27 19:18:20.065707203 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 73056727
+  what: labels-were-scanned
+  where: github
+- _id: 176
+  _time: 2025-01-27 19:18:20.089650995 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 559427983
+  what: labels-were-scanned
+  where: github
+- _id: 177
+  _time: 2025-01-27 19:18:20.108865514 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 798766850
+  what: labels-were-scanned
+  where: github
+- _id: 178
+  _time: 2025-01-27 19:18:20.126958706 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 709214061
+  what: labels-were-scanned
+  where: github
+- _id: 179
+  _time: 2025-01-27 19:18:20.785647050 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#enhancement' label was attached by @volodya-lombrozo to the issue
+    objectionary/jeo-maven-plugin#963.
+  issue: 963
+  label: enhancement
+  repository: 671896902
+  what: label-was-attached
+  when: 2025-01-10 09:46:46.000000000 Z
+  where: github
+  who: 51804353
+- _id: 180
+  _time: 2025-01-27 19:18:21.137451881 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @volodya-lombrozo to the issue objectionary/jeo-maven-plugin#964.
+  issue: 964
+  label: bug
+  repository: 671896902
+  what: label-was-attached
+  when: 2025-01-14 10:42:40.000000000 Z
+  where: github
+  who: 51804353
+- _id: 181
+  _time: 2025-01-27 19:18:22.251062456 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @volodya-lombrozo to the issue objectionary/jeo-maven-plugin#967.
+  issue: 967
+  label: bug
+  repository: 671896902
+  what: label-was-attached
+  when: 2025-01-16 07:08:06.000000000 Z
+  where: github
+  who: 51804353
+- _id: 182
+  _time: 2025-01-27 19:18:22.701684669 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#enhancement' label was attached by @volodya-lombrozo to the issue
+    objectionary/jeo-maven-plugin#976.
+  issue: 976
+  label: enhancement
+  repository: 671896902
+  what: label-was-attached
+  when: 2025-01-21 07:35:24.000000000 Z
+  where: github
+  who: 51804353
+- _id: 183
+  _time: 2025-01-27 19:18:23.072899093 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#enhancement' label was attached by @volodya-lombrozo to the issue
+    objectionary/jeo-maven-plugin#977.
+  issue: 977
+  label: enhancement
+  repository: 671896902
+  what: label-was-attached
+  when: 2025-01-21 07:36:06.000000000 Z
+  where: github
+  who: 51804353
+- _id: 184
+  _time: 2025-01-27 19:18:23.356000369 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#enhancement' label was attached by @volodya-lombrozo to the issue
+    objectionary/jeo-maven-plugin#978.
+  issue: 978
+  label: enhancement
+  repository: 671896902
+  what: label-was-attached
+  when: 2025-01-21 07:38:53.000000000 Z
+  where: github
+  who: 51804353
+- _id: 185
+  _time: 2025-01-27 19:18:23.622910404 Z
+  _version: 0.4.0/0.31.0/
+  details: The '#bug' label was attached by @volodya-lombrozo to the issue objectionary/jeo-maven-plugin#979.
+  issue: 979
+  label: bug
+  repository: 671896902
+  what: label-was-attached
+  when: 2025-01-21 11:27:33.000000000 Z
+  where: github
+  who: 51804353
+- _id: 186
+  _time: 2025-01-27 19:18:23.655928734 Z
+  _version: 0.4.0/0.31.0/
+  latest: 0
+  repository: 671896902
+  what: labels-were-scanned
+  where: github
+- _id: 187
+  _time: 2025-01-27 19:18:23.673553891 Z
+  _version: 0.4.0/0.31.0/
+  since: 2024-12-30 19:18:23.673659018 Z
   what: quality-of-service
-  when: 2025-01-27 18:25:34.384186247 Z
-- _id: 148
-  _time: 2025-01-27 18:28:34.395831939 Z
+  when: 2025-01-27 19:18:23.673630886 Z
+- _id: 188
+  _time: 2025-01-27 19:21:23.671002679 Z
   _version: 0.4.0/0.31.0/
-  since: 2024-12-30 18:28:34.396363644 Z
+  since: 2024-12-30 19:21:23.671131068 Z
   what: quantity-of-deliverables
-  when: 2025-01-27 18:28:34.396329871 Z
+  when: 2025-01-27 19:21:23.671099399 Z

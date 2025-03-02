@@ -1,362 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<fb version="0.4.0" size="75999">
+<fb version="0.4.0" size="23131">
   <f>
     <added t="I">8</added>
     <cycles t="I">1</cycles>
     <removed t="I">8</removed>
-    <seconds t="F">488.104667871</seconds>
+    <seconds t="F">540.571229061</seconds>
     <version t="S">0.31.1</version>
     <what t="S">judges-summary</what>
-    <when t="T">2025-03-02T11:21:48Z</when>
+    <when t="T">2025-03-02T12:39:12Z</when>
   </f>
   <f>
     <_id t="I">1</_id>
-    <_time t="T">2025-03-02T11:15:28Z</_time>
+    <_time t="T">2025-03-02T12:32:48Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <total_active_contributors t="I">11</total_active_contributors>
     <total_commits t="I">27894</total_commits>
+    <total_contributors t="I">115</total_contributors>
     <total_files t="I">8111</total_files>
+    <total_forks t="I">273</total_forks>
     <total_issues t="I">4115</total_issues>
     <total_pulls t="I">6057</total_pulls>
+    <total_releases t="I">603</total_releases>
+    <total_repositories t="I">52</total_repositories>
+    <total_stars t="I">1516</total_stars>
     <what t="S">dimensions-of-terrain</what>
-    <when t="T">2025-03-02T11:13:41Z</when>
+    <when t="T">2025-03-02T12:30:11Z</when>
   </f>
   <f>
     <_id t="I">2</_id>
-    <_time t="T">2025-03-02T11:15:36Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">501259435</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">3</_id>
-    <_time t="T">2025-03-02T11:15:36Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">519299365</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">4</_id>
-    <_time t="T">2025-03-02T11:15:36Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">575859928</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">5</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">403396472</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">6</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">731516758</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">7</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">510102039</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">8</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490157985</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">9</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490258619</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">10</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">510082372</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">11</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">519246071</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">12</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">396732517</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">13</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">518891717</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">14</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">386420319</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">15</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">546194972</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">16</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">574459304</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">17</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">493235807</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">18</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">784310467</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">19</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">373900298</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">20</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">733919301</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">21</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">574534248</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">22</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">889819508</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">23</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">447446664</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">24</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">659628214</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">25</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">531151981</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">26</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">671896902</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">27</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">798766850</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">28</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">489321585</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">29</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">13623548</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">30</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">565789755</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">31</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">499536612</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">32</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490221501</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">33</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">483303722</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">34</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">558766137</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">35</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">624420387</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">36</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">362152931</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">37</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">581460427</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">38</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">551486781</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">39</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">492899189</repository>
@@ -364,62 +36,26 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">40</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_id t="I">3</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">840332960</repository>
+    <repository t="I">574459304</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">41</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_id t="I">4</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">482612876</repository>
+    <repository t="I">499536612</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">42</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">709214061</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">43</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">731438612</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">44</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">568705267</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">45</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">721146770</repository>
-    <what t="S">min-issue-was-found</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">46</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_id t="I">5</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">593092058</repository>
@@ -427,26 +63,161 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">47</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_id t="I">6</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">570457023</repository>
+    <repository t="I">493235807</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">48</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_id t="I">7</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">501942888</repository>
+    <repository t="I">581460427</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">49</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_id t="I">8</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">565789755</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">9</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">546194972</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">10</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490258619</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">11</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">671896902</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">12</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">510102039</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">13</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">13623548</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">14</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">840332960</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">15</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">731516758</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">16</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519299365</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">17</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">558766137</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">18</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">551486781</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">19</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">362152931</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">20</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">798766850</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">21</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">386420319</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">22</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">731438612</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">23</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">562850967</repository>
@@ -454,8 +225,8 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">50</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_id t="I">24</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">73056727</repository>
@@ -463,8 +234,233 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">51</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_id t="I">25</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">721146770</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">26</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">575859928</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">27</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">889819508</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">28</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">482612876</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">29</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490157985</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">30</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">373900298</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">31</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">709214061</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">32</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">510082372</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">33</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">489321585</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">34</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">568705267</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">35</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">733919301</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">36</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">501259435</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">37</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519246071</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">38</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">531151981</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">39</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">624420387</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">40</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">659628214</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">41</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">570457023</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">42</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">483303722</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">43</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">396732517</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">44</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">447446664</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">45</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">403396472</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">46</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490221501</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">47</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">784310467</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">48</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">552394123</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">49</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">501942888</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">50</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">559427983</repository>
@@ -472,8 +468,17 @@
     <where t="S">github</where>
   </f>
   <f>
+    <_id t="I">51</_id>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">518891717</repository>
+    <what t="S">min-issue-was-found</what>
+    <where t="S">github</where>
+  </f>
+  <f>
     <_id t="I">52</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">543969974</repository>
@@ -482,2971 +487,550 @@
   </f>
   <f>
     <_id t="I">53</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_time t="T">2025-03-02T12:32:59Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">552394123</repository>
+    <repository t="I">574534248</repository>
     <what t="S">min-issue-was-found</what>
     <where t="S">github</where>
   </f>
   <f>
     <_id t="I">54</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_time t="T">2025-03-02T12:33:01Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">6f87f68b3c6d07c1e91ec7b2c6e5b7d16405b6db</commit>
+    <commit t="S">f4ec83f3c93af76da07fdd616ac303c8cb996e12</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22935326783 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47104418442</event_id>
+    <details t="S">A new Git push #22935743619 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">47105000169</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22935326783</push_id>
+    <push_id t="I">22935743619</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-03-02T04:52:51Z</when>
+    <when t="T">2025-03-02T06:01:45Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">55</_id>
-    <_time t="T">2025-03-02T11:15:37Z</_time>
+    <_time t="T">2025-03-02T12:33:01Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">c136a0167d37affa7aac10b57aadc24623945572</commit>
+    <commit t="S">c68db8ce6ffcddebf42bac81c8e211717de6a37b</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22908186964 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47056286937</event_id>
+    <details t="S">A new Git push #22925564999 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">47089976256</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22908186964</push_id>
+    <push_id t="I">22925564999</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-28T07:29:28Z</when>
+    <when t="T">2025-03-01T05:10:14Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">56</_id>
-    <_time t="T">2025-03-02T11:15:38Z</_time>
+    <_time t="T">2025-03-02T12:33:02Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">36a9260dadd446e50ccbd78fffc1bed34f5fa5d5</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22838898352 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46918200704</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22838898352</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-25T04:45:03Z</when>
+    <branch t="S">renovate/org.eolang-eo-parser-0.x</branch>
+    <details t="S">The pull request objectionary/xax#128 has been opened by @renovate[bot].</details>
+    <event_id t="I">47065261929</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">128</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-28T12:03:44Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">57</_id>
-    <_time t="T">2025-03-02T11:15:38Z</_time>
+    <_time t="T">2025-03-02T12:33:02Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b1b7a9455f28e64eba7db68e07cf5e12f2604380</commit>
+    <commit t="S">6d4c292a754d78b3192e641ea920931d16378634</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22807723218 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46859412804</event_id>
+    <details t="S">A new Git push #22839250502 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">46918887322</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22807723218</push_id>
+    <push_id t="I">22839250502</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T09:03:42Z</when>
+    <when t="T">2025-02-25T05:16:25Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">58</_id>
-    <_time t="T">2025-03-02T11:15:38Z</_time>
+    <_time t="T">2025-03-02T12:33:02Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">4266741454db53cfa978e3328ad6a4f12af0febd</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806983086 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46858291263</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806983086</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T07:03:22Z</when>
+    <branch t="S">renovate/org.pitest-pitest-junit5-plugin-1.x</branch>
+    <details t="S">The pull request objectionary/xax#127 has been opened by @renovate[bot].</details>
+    <event_id t="I">46889727192</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">127</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-24T13:10:02Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">59</_id>
-    <_time t="T">2025-03-02T11:15:38Z</_time>
+    <_time t="T">2025-03-02T12:33:02Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">c760874828a0f2676aa099a41fe7c0485a02f143</commit>
+    <commit t="S">ec7154b869c83013a06159ec8f8f2a4ba34c23a0</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806487609 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857579134</event_id>
+    <details t="S">A new Git push #22807830077 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">46859574199</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22806487609</push_id>
+    <push_id t="I">22807830077</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T05:38:41Z</when>
+    <when t="T">2025-02-23T09:19:01Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">60</_id>
-    <_time t="T">2025-03-02T11:15:38Z</_time>
+    <_time t="T">2025-03-02T12:33:02Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">6d5d349e7e0b2185f3b0ecdc7b7c53419a1c95b5</commit>
+    <commit t="S">aa966f2c751bc6eb878aac41b5749f3c7caf6179</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806385952 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857439753</event_id>
+    <details t="S">A new Git push #22807017147 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">46858342236</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22806385952</push_id>
+    <push_id t="I">22807017147</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T05:22:33Z</when>
+    <when t="T">2025-02-23T07:09:17Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">61</_id>
-    <_time t="T">2025-03-02T11:15:38Z</_time>
+    <_time t="T">2025-03-02T12:33:02Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">e437242f9d28ebb355d86aabda9ff2b76033b0b0</commit>
+    <commit t="S">81bd3be1ab06ad1b10e6f374ace99b12f0cab382</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806245014 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857234326</event_id>
+    <details t="S">A new Git push #22806292259 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">46857302839</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22806245014</push_id>
+    <push_id t="I">22806292259</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:58:44Z</when>
+    <when t="T">2025-02-23T05:07:03Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">62</_id>
-    <_time t="T">2025-03-02T11:15:38Z</_time>
+    <_time t="T">2025-03-02T12:33:03Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">734a611620dae286c3c15b56d233fcb5e28c7e09</commit>
+    <commit t="S">ce536bd8c8e89528b4a19c28d01c2ed76e4a6995</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806037194 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46856936495</event_id>
+    <details t="S">A new Git push #22806129777 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">46857069523</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22806037194</push_id>
+    <push_id t="I">22806129777</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:18:23Z</when>
+    <when t="T">2025-02-23T04:36:27Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">63</_id>
-    <_time t="T">2025-03-02T11:15:38Z</_time>
+    <_time t="T">2025-03-02T12:33:03Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">bfbeba1e91e58a73bcf0ae7062a4b1fc266022d0</commit>
+    <commit t="S">fbc58f175ce776781ce0474237be113af9cdd33f</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806028353 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46856924311</event_id>
+    <details t="S">A new Git push #22806122598 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">46857058636</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22806028353</push_id>
+    <push_id t="I">22806122598</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:16:45Z</when>
+    <when t="T">2025-02-23T04:35:08Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">64</_id>
-    <_time t="T">2025-03-02T11:15:39Z</_time>
+    <_time t="T">2025-03-02T12:33:03Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">4759b902c7b344d2ef887d2e86bea32bcc5d5074</commit>
+    <commit t="S">f47532983452760e7981caf80933a1bee0c06fce</commit>
     <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22790295308 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46829611467</event_id>
+    <details t="S">A new Git push #22795187210 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">46839072295</event_id>
     <event_type t="S">PushEvent</event_type>
     <is_human t="I">1</is_human>
-    <push_id t="I">22790295308</push_id>
+    <push_id t="I">22795187210</push_id>
     <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
+    <repository t="I">574534248</repository>
     <to_master t="I">1</to_master>
     <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-21T18:00:35Z</when>
+    <when t="T">2025-02-22T01:08:51Z</when>
     <where t="S">github</where>
     <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">65</_id>
-    <_time t="T">2025-03-02T11:15:39Z</_time>
+    <_time t="T">2025-03-02T12:33:03Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">f70e1803032cd4dff265780641c93f8507b52de2</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22717621918 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46683956763</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22717621918</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T11:07:08Z</when>
+    <branch t="S">renovate/xml-apis-xml-apis-1.x</branch>
+    <comments t="I">3</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">3</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/xax#90 has been closed by @renovate[bot], with 2 HoC and 3 comments.</details>
+    <event_id t="I">46832567849</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">90</issue>
+    <repository t="I">574534248</repository>
+    <succeeded_builds t="I">156</succeeded_builds>
+    <what t="S">pull-was-closed</what>
+    <when t="T">2025-02-21T19:44:34Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">66</_id>
-    <_time t="T">2025-03-02T11:15:39Z</_time>
+    <_time t="T">2025-03-02T12:33:58Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">cc95166e75f292b750424bf8d1fd4d6d89b334ab</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22715522732 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46679662056</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22715522732</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T09:19:48Z</when>
+    <branch t="S">renovate/xml-apis-xml-apis-replacement</branch>
+    <details t="S">The pull request objectionary/xax#126 has been opened by @renovate[bot].</details>
+    <event_id t="I">46832567548</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">126</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-21T19:44:34Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">67</_id>
-    <_time t="T">2025-03-02T11:15:39Z</_time>
+    <_time t="T">2025-03-02T12:33:58Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/xml-apis-xml-apis-replacement</branch>
-    <details t="S">The pull request objectionary/deog#57 has been opened by @renovate[bot].</details>
-    <event_id t="I">46660979692</event_id>
+    <branch t="S">renovate/xml-apis-xml-apis-2.x</branch>
+    <comments t="I">2</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">3</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/xax#123 has been closed by @rultor, with 2 HoC and 2 comments.</details>
+    <event_id t="I">46832557661</event_id>
     <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2</hoc>
     <is_human t="I">0</is_human>
-    <issue t="I">57</issue>
-    <repository t="I">562850967</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-17T19:11:19Z</when>
+    <issue t="I">123</issue>
+    <repository t="I">574534248</repository>
+    <succeeded_builds t="I">13</succeeded_builds>
+    <what t="S">pull-was-merged</what>
+    <when t="T">2025-02-21T19:44:12Z</when>
     <where t="S">github</where>
-    <who t="I">29139614</who>
+    <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">68</_id>
-    <_time t="T">2025-03-02T11:15:39Z</_time>
+    <_time t="T">2025-03-02T12:34:04Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/actions-setup-java-4.x</branch>
-    <comments t="I">2</comments>
-    <comments_appreciated t="I">1</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">3</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/deog#54 has been closed by @rultor, with 4 HoC and 2 comments.</details>
-    <event_id t="I">46660966142</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">4</hoc>
-    <is_human t="I">0</is_human>
-    <issue t="I">54</issue>
-    <repository t="I">562850967</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-02-17T19:10:47Z</when>
+    <commit t="S">d602153ad256a5b4f2a8ca1d38413bb09c36c08a</commit>
+    <default_branch t="S">master</default_branch>
+    <details t="S">A new Git push #22790533684 has arrived to objectionary/xax, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
+    <event_id t="I">46830095799</event_id>
+    <event_type t="S">PushEvent</event_type>
+    <is_human t="I">1</is_human>
+    <push_id t="I">22790533684</push_id>
+    <ref t="S">refs/heads/master</ref>
+    <repository t="I">574534248</repository>
+    <to_master t="I">1</to_master>
+    <what t="S">git-was-pushed</what>
+    <when t="T">2025-02-21T18:16:57Z</when>
     <where t="S">github</where>
-    <who t="I">8086956</who>
+    <who t="I">526301</who>
   </f>
   <f>
     <_id t="I">69</_id>
-    <_time t="T">2025-03-02T11:15:40Z</_time>
+    <_time t="T">2025-03-02T12:34:05Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">03dd23d70d6223b6117bd8c9d2006ffd38128f14</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22681199522 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46616302133</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22681199522</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-16T07:28:58Z</when>
+    <branch t="S">renovate/junit5-monorepo</branch>
+    <details t="S">The pull request objectionary/xax#125 has been opened by @renovate[bot].</details>
+    <event_id t="I">46825020828</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">125</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-21T15:43:52Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">70</_id>
-    <_time t="T">2025-03-02T11:15:40Z</_time>
+    <_time t="T">2025-03-02T12:34:05Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">afc6a720e6f20948eccf9449dabd481bdde9e59e</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22483901401 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46240530643</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22483901401</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T05:14:52Z</when>
+    <branch t="S">up</branch>
+    <comments t="I">0</comments>
+    <comments_appreciated t="I">0</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">0</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/xax#124 has been closed by @github-actions[bot], with 2 HoC and 0 comments.</details>
+    <event_id t="I">46808422314</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">124</issue>
+    <repository t="I">574534248</repository>
+    <succeeded_builds t="I">0</succeeded_builds>
+    <what t="S">pull-was-closed</what>
+    <when t="T">2025-02-21T07:48:12Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">41898282</who>
   </f>
   <f>
     <_id t="I">71</_id>
-    <_time t="T">2025-03-02T11:15:41Z</_time>
+    <_time t="T">2025-03-02T12:34:06Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">0dae2abbe81591f8ddc7da28d1db5fc72f52bbf4</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22483155456 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46239120553</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22483155456</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T03:59:40Z</when>
+    <branch t="S">up</branch>
+    <details t="S">The pull request objectionary/xax#124 has been opened by @github-actions[bot].</details>
+    <event_id t="I">46808411646</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">124</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-21T07:47:48Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">41898282</who>
   </f>
   <f>
     <_id t="I">72</_id>
-    <_time t="T">2025-03-02T11:15:41Z</_time>
+    <_time t="T">2025-03-02T12:34:06Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">abc67ae4f042deeb18ca2ba4c1d2a5ff3ab2a87a</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22482941852 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46238720173</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22482941852</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T03:36:01Z</when>
+    <branch t="S">renovate/xml-apis-xml-apis-2.x</branch>
+    <details t="S">The pull request objectionary/xax#123 has been opened by @renovate[bot].</details>
+    <event_id t="I">46808406446</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">123</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-21T07:47:36Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">73</_id>
-    <_time t="T">2025-03-02T11:15:41Z</_time>
+    <_time t="T">2025-03-02T12:34:06Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">e2c07a76559e0585141555ab0c72d4ecf7047f40</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22475462456 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46224003318</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22475462456</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T17:31:18Z</when>
+    <branch t="S">renovate/xml-apis-xml-apis-replacement</branch>
+    <comments t="I">2</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">3</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/xax#122 has been closed by @rultor, with 2 HoC and 2 comments.</details>
+    <event_id t="I">46808393693</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">122</issue>
+    <repository t="I">574534248</repository>
+    <succeeded_builds t="I">13</succeeded_builds>
+    <what t="S">pull-was-merged</what>
+    <when t="T">2025-02-21T07:47:09Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">74</_id>
-    <_time t="T">2025-03-02T11:15:41Z</_time>
+    <_time t="T">2025-03-02T12:34:17Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">4e260af982546f6e7b5b8f4f9a4584b6e884ee17</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22468109659 has arrived to objectionary/deog, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46208802012</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22468109659</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">562850967</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T11:07:06Z</when>
+    <branch t="S">renovate/xml-apis-xml-apis-1.x</branch>
+    <comments t="I">3</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">3</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/xax#90 has been closed by @renovate[bot], with 2 HoC and 3 comments.</details>
+    <event_id t="I">46804410853</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">90</issue>
+    <repository t="I">574534248</repository>
+    <succeeded_builds t="I">156</succeeded_builds>
+    <what t="S">pull-was-closed</what>
+    <when t="T">2025-02-21T04:57:38Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">75</_id>
-    <_time t="T">2025-03-02T11:15:41Z</_time>
+    <_time t="T">2025-03-02T12:35:10Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">47104418442</latest>
-    <repository t="I">562850967</repository>
-    <what t="S">events-were-scanned</what>
+    <branch t="S">renovate/xml-apis-xml-apis-replacement</branch>
+    <details t="S">The pull request objectionary/xax#122 has been opened by @renovate[bot].</details>
+    <event_id t="I">46804410745</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">122</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-21T04:57:38Z</when>
     <where t="S">github</where>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">76</_id>
-    <_time t="T">2025-03-02T11:15:41Z</_time>
+    <_time t="T">2025-03-02T12:35:10Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">a3c7190c8cd4c37df3f0d5fba0d57a08a2bcdf31</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22935331379 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47104425154</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22935331379</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-03-02T04:53:47Z</when>
+    <branch t="S">renovate/xml-apis-xml-apis-2.x</branch>
+    <comments t="I">2</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">3</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/xax#120 has been closed by @rultor, with 2 HoC and 2 comments.</details>
+    <event_id t="I">46804403002</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">120</issue>
+    <repository t="I">574534248</repository>
+    <succeeded_builds t="I">13</succeeded_builds>
+    <what t="S">pull-was-merged</what>
+    <when t="T">2025-02-21T04:57:12Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">77</_id>
-    <_time t="T">2025-03-02T11:15:41Z</_time>
+    <_time t="T">2025-03-02T12:35:21Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">f1ad3847339185e2f93e92b590207b5124d65b20</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22839089066 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46918571851</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22839089066</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-25T05:02:21Z</when>
+    <branch t="S">up</branch>
+    <comments t="I">0</comments>
+    <comments_appreciated t="I">0</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">0</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/xax#121 has been closed by @github-actions[bot], with 2 HoC and 0 comments.</details>
+    <event_id t="I">46803172022</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">121</issue>
+    <repository t="I">574534248</repository>
+    <succeeded_builds t="I">0</succeeded_builds>
+    <what t="S">pull-was-closed</what>
+    <when t="T">2025-02-21T03:48:22Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">41898282</who>
   </f>
   <f>
     <_id t="I">78</_id>
-    <_time t="T">2025-03-02T11:15:42Z</_time>
+    <_time t="T">2025-03-02T12:35:22Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">8f8438875dff9f2a1e02a626833f53e0f8f2301e</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22807731502 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46859426225</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22807731502</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T09:05:02Z</when>
+    <branch t="S">up</branch>
+    <details t="S">The pull request objectionary/xax#121 has been opened by @github-actions[bot].</details>
+    <event_id t="I">46803171760</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">121</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-21T03:48:21Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">41898282</who>
   </f>
   <f>
     <_id t="I">79</_id>
-    <_time t="T">2025-03-02T11:15:42Z</_time>
+    <_time t="T">2025-03-02T12:35:22Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">704ec1beb6b0a14e794b0f86aa6d7e873da7d1f0</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806248135 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857238986</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806248135</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:59:21Z</when>
+    <branch t="S">renovate/xml-apis-xml-apis-2.x</branch>
+    <details t="S">The pull request objectionary/xax#120 has been opened by @renovate[bot].</details>
+    <event_id t="I">46803170015</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <is_human t="I">0</is_human>
+    <issue t="I">120</issue>
+    <repository t="I">574534248</repository>
+    <what t="S">pull-was-opened</what>
+    <when t="T">2025-02-21T03:48:15Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">29139614</who>
   </f>
   <f>
     <_id t="I">80</_id>
-    <_time t="T">2025-03-02T11:15:42Z</_time>
+    <_time t="T">2025-03-02T12:35:22Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b09cac93dd4174f50ebc368a0d6a977f9abbcf31</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806038798 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46856938922</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806038798</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:18:41Z</when>
+    <branch t="S">renovate/xml-apis-xml-apis-replacement</branch>
+    <comments t="I">2</comments>
+    <comments_appreciated t="I">1</comments_appreciated>
+    <comments_by_author t="I">0</comments_by_author>
+    <comments_by_reviewers t="I">3</comments_by_reviewers>
+    <comments_resolved t="I">0</comments_resolved>
+    <comments_to_code t="I">0</comments_to_code>
+    <details t="S">The pull request objectionary/xax#119 has been closed by @rultor, with 2 HoC and 2 comments.</details>
+    <event_id t="I">46803163915</event_id>
+    <event_type t="S">PullRequestEvent</event_type>
+    <failed_builds t="I">0</failed_builds>
+    <hoc t="I">2</hoc>
+    <is_human t="I">0</is_human>
+    <issue t="I">119</issue>
+    <repository t="I">574534248</repository>
+    <succeeded_builds t="I">13</succeeded_builds>
+    <what t="S">pull-was-merged</what>
+    <when t="T">2025-02-21T03:47:53Z</when>
     <where t="S">github</where>
-    <who t="I">526301</who>
+    <who t="I">8086956</who>
   </f>
   <f>
     <_id t="I">81</_id>
-    <_time t="T">2025-03-02T11:15:42Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b72a0b94a3869433069065d25b58a2018bbe88f3</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22790319769 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46829657606</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22790319769</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-21T18:02:02Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">82</_id>
-    <_time t="T">2025-03-02T11:15:42Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">5f99eec8191399beaba723dd34a72ae08fa6122a</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22715540693 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46679697689</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22715540693</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T09:20:42Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">83</_id>
-    <_time t="T">2025-03-02T11:15:42Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">ada6062a6a5ddfd29ffbcc4ea0481eba1cd0a809</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22483903299 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46240534262</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22483903299</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T05:15:03Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">84</_id>
-    <_time t="T">2025-03-02T11:15:42Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">a4ac2a9387436b4604139cf53c737adbdb65d326</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22483166961 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46239142038</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22483166961</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T04:00:46Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">85</_id>
-    <_time t="T">2025-03-02T11:15:42Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">71644ed0777c48f93b0c86825b08a583fd732ab1</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22482958009 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46238751049</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22482958009</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T03:37:42Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">86</_id>
-    <_time t="T">2025-03-02T11:15:43Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">2f8081ecb22bde2ca418403cbaa64b66cd81b54b</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22475475445 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46224030149</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22475475445</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T17:32:06Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">87</_id>
-    <_time t="T">2025-03-02T11:15:43Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">2ed1527719ea84f0ef804a7447085767bd7d67f0</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22474519358 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46222085827</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22474519358</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T16:39:15Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">88</_id>
-    <_time t="T">2025-03-02T11:15:43Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">4d10aa4e98575124d0966955565083b08bd6692d</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22468130226 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46208845363</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22468130226</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T11:08:16Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">89</_id>
-    <_time t="T">2025-03-02T11:15:43Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/ubuntu-24.x</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo-graphs#15 has been closed by @renovate[bot], with 4 HoC and 0 comments.</details>
-    <event_id t="I">46200247693</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">3</failed_builds>
-    <hoc t="I">4</hoc>
-    <is_human t="I">0</is_human>
-    <issue t="I">15</issue>
-    <repository t="I">396732517</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-02-04T06:55:59Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">90</_id>
-    <_time t="T">2025-03-02T11:15:44Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">cb7ce21682d56e9fc3c06c038d57539a7cc63568</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22463964060 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46200240842</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22463964060</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T06:55:42Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">91</_id>
-    <_time t="T">2025-03-02T11:15:44Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/actions-checkout-4.x</branch>
-    <comments t="I">3</comments>
-    <comments_appreciated t="I">1</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">3</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo-graphs#13 has been closed by @renovate[bot], with 6 HoC and 3 comments.</details>
-    <event_id t="I">46198812293</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">6</hoc>
-    <is_human t="I">0</is_human>
-    <issue t="I">13</issue>
-    <repository t="I">396732517</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-02-04T05:52:57Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">92</_id>
-    <_time t="T">2025-03-02T11:15:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">f53de710071f84d10ebae244efb369cced993261</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22463220362 has arrived to objectionary/eo-graphs, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46198805369</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22463220362</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">396732517</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T05:52:37Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">93</_id>
-    <_time t="T">2025-03-02T11:15:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">master</branch>
-    <details t="S">The pull request objectionary/eo-graphs#16 has been opened by @MaxFunProger.</details>
-    <event_id t="I">46136544033</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">16</issue>
-    <repository t="I">396732517</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-01T20:33:46Z</when>
-    <where t="S">github</where>
-    <who t="I">57628684</who>
-  </f>
-  <f>
-    <_id t="I">94</_id>
-    <_time t="T">2025-03-02T11:15:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">47104425154</latest>
-    <repository t="I">396732517</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">95</_id>
-    <_time t="T">2025-03-02T11:15:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">e3af1aa0f596cdc77a03cf4f60e8eb888b6080e4</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22935725153 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47104975231</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22935725153</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-03-02T05:59:05Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">96</_id>
-    <_time t="T">2025-03-02T11:15:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">45c63e8b00c055016513cd2a9f10875c0b9b03d5</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22910126417 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47060190033</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22910126417</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-28T09:34:32Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">97</_id>
-    <_time t="T">2025-03-02T11:15:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">39160514434372c9d50c268b6bf1e6149135de03</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22908262186 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47056432972</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22908262186</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-28T07:34:50Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">98</_id>
-    <_time t="T">2025-03-02T11:15:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">d505dea76ab9ce1322021af530e694da8cee6f55</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22908146184 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47056208148</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22908146184</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-28T07:26:35Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">99</_id>
-    <_time t="T">2025-03-02T11:15:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">003964acf281dfde5b174e1d97b7aa8961990e33</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22839208153 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46918806254</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22839208153</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-25T05:12:50Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">100</_id>
-    <_time t="T">2025-03-02T11:15:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">011e252ebe460917ff2b1b709bcd3b5302dd035c</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22807813378 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46859549659</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22807813378</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T09:16:39Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">101</_id>
-    <_time t="T">2025-03-02T11:15:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b843c59ba74a8880878cad9934ebc7d5ea859e45</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22807010177 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46858331979</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22807010177</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T07:08:04Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">102</_id>
-    <_time t="T">2025-03-02T11:15:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">44dbbc09008ab179013a5746daefd03922a6ab77</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806283125 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857288805</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806283125</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T05:05:16Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">103</_id>
-    <_time t="T">2025-03-02T11:15:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">0f4b6de1f3e701bf68501f1c8be6197bac3d4de8</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806116231 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857049515</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806116231</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:33:59Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">104</_id>
-    <_time t="T">2025-03-02T11:15:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">2160134c4bf913bff57a747b35f02b2b6712131f</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806106077 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857034799</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806106077</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:32:00Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">105</_id>
-    <_time t="T">2025-03-02T11:15:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">e134a9cfa365c8884451213055db7459166b6f39</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22790489698 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46830009339</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22790489698</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-21T18:14:02Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">106</_id>
-    <_time t="T">2025-03-02T11:15:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">d51c75b3d50b4bea7a746a8859ea71064a8b4a27</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22717803799 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46684321494</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22717803799</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T11:16:41Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">107</_id>
-    <_time t="T">2025-03-02T11:15:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">954233ac2f249b5180bc737f80a5f1d16c244a1f</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22715734697 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46680099807</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22715734697</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T09:30:37Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">108</_id>
-    <_time t="T">2025-03-02T11:15:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b26f4af05a1becffb68f43cbba8f30774ca031e4</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22681239094 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46616360600</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22681239094</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-16T07:35:59Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">109</_id>
-    <_time t="T">2025-03-02T11:15:48Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">88fc21ea848cdba14bd1c69e64600d81720aa12b</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22485103094 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46242828550</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22485103094</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T06:57:01Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">110</_id>
-    <_time t="T">2025-03-02T11:15:48Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">1efc8b446d39a90c804af18bf427e9d359831302</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22483363167 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46239512838</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22483363167</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T04:21:05Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">111</_id>
-    <_time t="T">2025-03-02T11:15:48Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">3e55b47335ea3ce85b5bb18f19714b834ba0688d</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22475843119 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46224783375</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22475843119</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T17:54:39Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">112</_id>
-    <_time t="T">2025-03-02T11:15:48Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">20886c614ae612515d1297ae9ee1ec5e4f39bb36</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22468513191 has arrived to objectionary/sandbox, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46209647775</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22468513191</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">490258619</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T11:30:14Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">113</_id>
-    <_time t="T">2025-03-02T11:15:48Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">47104975231</latest>
-    <repository t="I">490258619</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">114</_id>
-    <_time t="T">2025-03-02T11:15:49Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">eb7572d422f764b49d84722b411fee32f8b4a92e</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22935332878 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47104427347</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22935332878</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-03-02T04:54:06Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">115</_id>
-    <_time t="T">2025-03-02T11:15:49Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">17a2e441fd2fb7e52a0a4084df11a870d7ef9359</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22908194062 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47056301392</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22908194062</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-28T07:29:58Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">116</_id>
-    <_time t="T">2025-03-02T11:15:49Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">86c42260a0d184d53141ce97fea69825b08e0538</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22839092878 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46918579323</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22839092878</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-25T05:02:41Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">117</_id>
-    <_time t="T">2025-03-02T11:15:49Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">f12b8b01d5391977a2a39db471ed181d21d8cd93</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22807734106 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46859430245</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22807734106</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T09:05:25Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">118</_id>
-    <_time t="T">2025-03-02T11:15:49Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">7fb3fd3e6c47e4e444d03790b873f82871015f1d</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806984068 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46858292687</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806984068</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T07:03:32Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">119</_id>
-    <_time t="T">2025-03-02T11:15:49Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">9e4d164045bdd8b4a477793d14d9093b6a9a36af</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806386931 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857441257</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806386931</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T05:22:43Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">120</_id>
-    <_time t="T">2025-03-02T11:15:50Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">7f941a7789ccf3e9955532e48f75b539cd31a0f6</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806249641 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857241063</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806249641</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:59:40Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">121</_id>
-    <_time t="T">2025-03-02T11:15:50Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">87d5cd12fb370bff4de061ef047ee7e49a580f62</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806083738 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857002340</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806083738</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:27:25Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">122</_id>
-    <_time t="T">2025-03-02T11:15:50Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b2dcfbaa1a72930bcdf9e5f161f227dd3f128bd6</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806040448 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46856941549</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806040448</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T04:19:02Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">123</_id>
-    <_time t="T">2025-03-02T11:15:50Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">a2938fc4157f150e7ee4b3a6d99ec54d5b22465f</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22790324425 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46829667075</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22790324425</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-21T18:02:22Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">124</_id>
-    <_time t="T">2025-03-02T11:15:50Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/junit5-monorepo</branch>
-    <details t="S">The pull request objectionary/eoc#465 has been opened by @renovate[bot].</details>
-    <event_id t="I">46822961988</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">465</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-21T14:49:46Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">125</_id>
-    <_time t="T">2025-03-02T11:15:50Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/fast-xml-parser-5.x</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#463 has been closed by @renovate[bot], with 3604 HoC and 0 comments.</details>
-    <event_id t="I">46807522979</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">6</failed_builds>
-    <hoc t="I">3604</hoc>
-    <is_human t="I">0</is_human>
-    <issue t="I">463</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">7</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-02-21T07:14:44Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">126</_id>
-    <_time t="T">2025-03-02T11:15:54Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/node.js</branch>
-    <details t="S">The pull request objectionary/eoc#464 has been opened by @renovate[bot].</details>
-    <event_id t="I">46746870471</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">464</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-19T19:11:44Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">127</_id>
-    <_time t="T">2025-03-02T11:15:54Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/node-23.x-lockfile</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eoc#452 has been closed by @renovate[bot], with 3572 HoC and 0 comments.</details>
-    <event_id t="I">46746870129</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">6</failed_builds>
-    <hoc t="I">3572</hoc>
-    <is_human t="I">0</is_human>
-    <issue t="I">452</issue>
-    <repository t="I">489321585</repository>
-    <succeeded_builds t="I">7</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-02-19T19:11:44Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">128</_id>
-    <_time t="T">2025-03-02T11:15:58Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">02e9557fe03fc918c43bbdc43a80caa767991cb7</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22717637328 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46683988178</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22717637328</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T11:07:57Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">129</_id>
-    <_time t="T">2025-03-02T11:15:58Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">46ff08d9ee4c45d089b6af95f40dfcba53440780</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22715547402 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46679711837</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22715547402</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T09:21:03Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">130</_id>
-    <_time t="T">2025-03-02T11:15:58Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/fast-xml-parser-4.x</branch>
-    <details t="S">The pull request objectionary/eoc#462 has been opened by @renovate[bot].</details>
-    <event_id t="I">46673690816</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">462</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-18T06:06:35Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">131</_id>
-    <_time t="T">2025-03-02T11:15:58Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eoc#459 has been opened by @MaxFunProger.</details>
-    <event_id t="I">46211918862</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">459</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-02-04T12:32:18Z</when>
-    <where t="S">github</where>
-    <who t="I">57628684</who>
-  </f>
-  <f>
-    <_id t="I">132</_id>
-    <_time t="T">2025-03-02T11:15:58Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">0b96b447613749f57ed31a00f4c7b3ca7d547c59</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22468154976 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46208897300</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22468154976</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T11:09:41Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">133</_id>
-    <_time t="T">2025-03-02T11:15:58Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eoc#458 has been opened by @SenjeyB.</details>
-    <event_id t="I">46175248603</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">458</issue>
-    <repository t="I">489321585</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-02-03T14:48:51Z</when>
-    <where t="S">github</where>
-    <who t="I">65812844</who>
-  </f>
-  <f>
-    <_id t="I">134</_id>
-    <_time t="T">2025-03-02T11:15:58Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">f9de57920454a0989c3db28b66e018a433cfbd33</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22412567396 has arrived to objectionary/eoc, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46106037011</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22412567396</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">489321585</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-01-31T13:00:30Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">135</_id>
-    <_time t="T">2025-03-02T11:15:58Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">47104453943</latest>
-    <repository t="I">489321585</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">136</_id>
-    <_time t="T">2025-03-02T11:15:59Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">47062522462</latest>
-    <repository t="I">575859928</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">137</_id>
-    <_time t="T">2025-03-02T11:15:59Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">46850843882</latest>
-    <repository t="I">373900298</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">138</_id>
-    <_time t="T">2025-03-02T11:15:59Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">c9a642ed00fe9dee2484dea323661495a189fa65</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22935709067 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47104951423</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22935709067</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-03-02T05:55:59Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">139</_id>
-    <_time t="T">2025-03-02T11:15:59Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">2c49a8d69372b3047c831967d0d24a329ee64462</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22925547410 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47089948193</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22925547410</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-03-01T05:07:37Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">140</_id>
-    <_time t="T">2025-03-02T11:16:00Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">5ba144c22415966748818adefa93941b6a87ac00</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22839174238 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46918743130</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22839174238</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-25T05:09:59Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">141</_id>
-    <_time t="T">2025-03-02T11:16:00Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">efbc12dda5a488734cd9c06aef9c0fbffcda2cce</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22807793180 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46859520049</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22807793180</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T09:13:58Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">142</_id>
-    <_time t="T">2025-03-02T11:16:00Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">477809a77edb33db31c9fafd681d0b0bcab74e83</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22806273914 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46857274798</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22806273914</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-23T05:03:28Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">143</_id>
-    <_time t="T">2025-03-02T11:16:00Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">0acb9f713769c2f9ea20914f9600887f5a8fac3e</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22795704357 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46839914968</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22795704357</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-22T02:19:17Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">144</_id>
-    <_time t="T">2025-03-02T11:16:00Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">c2d1fd9a0755cd1441bb6ea3f66a800c0904c2a8</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22795524120 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46839628604</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22795524120</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-22T01:55:31Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">145</_id>
-    <_time t="T">2025-03-02T11:16:00Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">5af529ba532b6a309e85d95a50220eeea981021a</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22795521792 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46839624381</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22795521792</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-22T01:55:09Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">146</_id>
-    <_time t="T">2025-03-02T11:16:00Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">f3d1ae33308f4bddffe4cb314904c4e176498073</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22795504214 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46839592605</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22795504214</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-22T01:52:17Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">147</_id>
-    <_time t="T">2025-03-02T11:16:01Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/news.eolang.org#76 has been closed by @yegor256.</details>
-    <event_id t="I">46839143464</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">76</issue>
-    <repository t="I">501259435</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-02-22T01:14:24Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">148</_id>
-    <_time t="T">2025-03-02T11:16:01Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">bug/#76/auto-named</branch>
-    <comments t="I">2</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">2</comments_by_author>
-    <comments_by_reviewers t="I">1</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/news.eolang.org#78 has been closed by @yegor256, with 166 HoC and 2 comments.</details>
-    <event_id t="I">46839143368</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">166</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">78</issue>
-    <repository t="I">501259435</repository>
-    <succeeded_builds t="I">8</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-02-22T01:14:24Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">149</_id>
-    <_time t="T">2025-03-02T11:16:04Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">3</comments>
-    <commits t="I">13</commits>
-    <details t="S">The pull request objectionary/news.eolang.org#78 has been reviewed by @yegor256 with 166 HoC and 3 comments.</details>
-    <event_id t="I">46839142369</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">6</files>
-    <hoc t="I">166</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">78</issue>
-    <repository t="I">501259435</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-02-22T01:14:19Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">150</_id>
-    <_time t="T">2025-03-02T11:16:04Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">bug/#76/auto-named</branch>
-    <details t="S">The pull request objectionary/news.eolang.org#78 has been opened by @maxonfjvipon.</details>
-    <event_id t="I">46831981273</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">78</issue>
-    <repository t="I">501259435</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-21T19:23:23Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">151</_id>
-    <_time t="T">2025-03-02T11:16:04Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b65354d18a55b8b4a0ad99a127a5ff84020a5ac1</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22790452665 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46829935271</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22790452665</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-21T18:11:28Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">152</_id>
-    <_time t="T">2025-03-02T11:16:04Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">bac4720d9058aab2776fbe6244d174f4b9d047ad</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22717760528 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46684234965</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22717760528</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T11:14:24Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">153</_id>
-    <_time t="T">2025-03-02T11:16:04Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">8e00545b4f36bc7d662f4f92c127e17cab386844</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22715682419 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46679991292</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22715682419</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-18T09:28:02Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">154</_id>
-    <_time t="T">2025-03-02T11:16:05Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">dae7a4e083edbef9a58141539fa373e4d7b7955d</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22567095122 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46395760672</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22567095122</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-10T08:20:56Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">155</_id>
-    <_time t="T">2025-03-02T11:16:05Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">11345ae5f47b44137cb6614c52c7eec8376d0f9c</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22483296623 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46239388631</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22483296623</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-05T04:14:22Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">156</_id>
-    <_time t="T">2025-03-02T11:16:05Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b9a76cdc1250e529ad3b4e4c1458ed504f2657e5</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22468396666 has arrived to objectionary/news.eolang.org, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">46209407528</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22468396666</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">501259435</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-04T11:23:37Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">157</_id>
-    <_time t="T">2025-03-02T11:16:05Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">47104951423</latest>
-    <repository t="I">501259435</repository>
-    <what t="S">events-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">158</_id>
-    <_time t="T">2025-03-02T11:16:06Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">a40930e05d9e21508d0c1f64a35d635abd7b0c60</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22935330539 has arrived to objectionary/eo, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47104423944</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22935330539</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">73056727</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-03-02T04:53:38Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">159</_id>
-    <_time t="T">2025-03-02T11:16:07Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">benchmark</branch>
-    <details t="S">The pull request objectionary/eo#3976 has been opened by @github-actions[bot].</details>
-    <event_id t="I">47101812425</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">3976</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-03-01T23:33:01Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">160</_id>
-    <_time t="T">2025-03-02T11:16:07Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">benchmark</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3975 has been closed by @yegor256, with 28 HoC and 0 comments.</details>
-    <event_id t="I">47101749138</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">28</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3975</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-03-01T23:25:31Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">161</_id>
-    <_time t="T">2025-03-02T11:16:08Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">0</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/eo#3975 has been reviewed by @yegor256 with 28 HoC and 0 comments.</details>
-    <event_id t="I">47101746158</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">1</files>
-    <hoc t="I">28</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3975</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-03-01T23:25:10Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">162</_id>
-    <_time t="T">2025-03-02T11:16:08Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">benchmark</branch>
-    <details t="S">The pull request objectionary/eo#3975 has been opened by @github-actions[bot].</details>
-    <event_id t="I">47101716637</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">3975</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-03-01T23:21:28Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">163</_id>
-    <_time t="T">2025-03-02T11:16:08Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">benchmark</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3860 has been closed by @yegor256, with 33 HoC and 0 comments.</details>
-    <event_id t="I">47101630483</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">33</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3860</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-03-01T23:11:26Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">164</_id>
-    <_time t="T">2025-03-02T11:16:09Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">0</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/eo#3860 has been reviewed by @yegor256 with 33 HoC and 0 comments.</details>
-    <event_id t="I">47101627101</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">1</files>
-    <hoc t="I">33</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3860</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-03-01T23:11:04Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">165</_id>
-    <_time t="T">2025-03-02T11:16:09Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/groovy-monorepo</branch>
-    <comments t="I">4</comments>
-    <comments_appreciated t="I">1</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">4</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3966 has been closed by @yegor256, with 6 HoC and 4 comments.</details>
-    <event_id t="I">47101625353</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">6</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3966</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">21</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-03-01T23:10:51Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">166</_id>
-    <_time t="T">2025-03-02T11:16:16Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">version-up</branch>
-    <comments t="I">0</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">0</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3967 has been closed by @yegor256, with 4 HoC and 0 comments.</details>
-    <event_id t="I">47101625314</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">4</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3967</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">0</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-03-01T23:10:51Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">167</_id>
-    <_time t="T">2025-03-02T11:16:17Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">4</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/eo#3966 has been reviewed by @yegor256 with 6 HoC and 4 comments.</details>
-    <event_id t="I">47101619837</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">3</files>
-    <hoc t="I">6</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3966</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-03-01T23:10:15Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">168</_id>
-    <_time t="T">2025-03-02T11:16:17Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">0</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/eo#3967 has been reviewed by @yegor256 with 4 HoC and 0 comments.</details>
-    <event_id t="I">47101618764</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">1</files>
-    <hoc t="I">4</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3967</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-03-01T23:10:07Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">169</_id>
-    <_time t="T">2025-03-02T11:16:17Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/zerocracy-judges-action-0.x</branch>
-    <comments t="I">4</comments>
-    <comments_appreciated t="I">1</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">4</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3972 has been closed by @yegor256, with 2 HoC and 4 comments.</details>
-    <event_id t="I">47101583893</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">2</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3972</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">22</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-03-01T23:05:59Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">170</_id>
-    <_time t="T">2025-03-02T11:16:24Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">4</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/eo#3972 has been reviewed by @yegor256 with 2 HoC and 4 comments.</details>
-    <event_id t="I">47101567269</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">1</files>
-    <hoc t="I">2</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3972</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-03-01T23:04:09Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">171</_id>
-    <_time t="T">2025-03-02T11:16:25Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3974 has been opened by @0pdd.</details>
-    <event_id t="I">47101564831</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">3974</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-03-01T23:03:53Z</when>
-    <where t="S">github</where>
-    <who t="I">24456188</who>
-  </f>
-  <f>
-    <_id t="I">172</_id>
-    <_time t="T">2025-03-02T11:16:25Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3648 has been closed by @yegor256.</details>
-    <event_id t="I">47101564034</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3648</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-03-01T23:03:47Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">173</_id>
-    <_time t="T">2025-03-02T11:16:25Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">bug/#3648/add-default-package-to-atoms</branch>
-    <comments t="I">3</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">1</comments_by_author>
-    <comments_by_reviewers t="I">2</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3971 has been closed by @yegor256, with 999 HoC and 3 comments.</details>
-    <event_id t="I">47101563952</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">999</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3971</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">22</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-03-01T23:03:46Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">174</_id>
-    <_time t="T">2025-03-02T11:16:31Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">3</comments>
-    <commits t="I">7</commits>
-    <details t="S">The pull request objectionary/eo#3971 has been reviewed by @yegor256 with 999 HoC and 3 comments.</details>
-    <event_id t="I">47101560722</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">55</files>
-    <hoc t="I">999</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3971</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-03-01T23:03:24Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">175</_id>
-    <_time t="T">2025-03-02T11:16:32Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">3503</branch>
-    <details t="S">The pull request objectionary/eo#3973 has been opened by @Suban05.</details>
-    <event_id t="I">47092813285</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3973</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-03-01T09:37:23Z</when>
-    <where t="S">github</where>
-    <who t="I">88084038</who>
-  </f>
-  <f>
-    <_id t="I">176</_id>
-    <_time t="T">2025-03-02T11:16:32Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/zerocracy-judges-action-0.x</branch>
-    <details t="S">The pull request objectionary/eo#3972 has been opened by @renovate[bot].</details>
-    <event_id t="I">47092598296</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">3972</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-03-01T09:17:31Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">177</_id>
-    <_time t="T">2025-03-02T11:16:32Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">bug/#3648/add-default-package-to-atoms</branch>
-    <details t="S">The pull request objectionary/eo#3971 has been opened by @maxonfjvipon.</details>
-    <event_id t="I">47091716095</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3971</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-03-01T07:57:16Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">178</_id>
-    <_time t="T">2025-03-02T11:16:33Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3968 has been closed by @yegor256.</details>
-    <event_id t="I">47075729735</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3968</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-02-28T16:54:50Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">179</_id>
-    <_time t="T">2025-03-02T11:16:33Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3970 has been closed by @maxonfjvipon.</details>
-    <event_id t="I">47072878231</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3970</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-02-28T15:33:16Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">180</_id>
-    <_time t="T">2025-03-02T11:16:33Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">fix-integration</branch>
-    <comments t="I">8</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">4</comments_by_author>
-    <comments_by_reviewers t="I">4</comments_by_reviewers>
-    <comments_resolved t="I">1</comments_resolved>
-    <comments_to_code t="I">4</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3969 has been closed by @maxonfjvipon, with 10 HoC and 8 comments.</details>
-    <event_id t="I">47072877753</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">10</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3969</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">22</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-02-28T15:33:15Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">181</_id>
-    <_time t="T">2025-03-02T11:16:41Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">8</comments>
-    <commits t="I">1</commits>
-    <details t="S">The pull request objectionary/eo#3969 has been reviewed by @maxonfjvipon with 10 HoC and 8 comments.</details>
-    <event_id t="I">47072516023</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">1</files>
-    <hoc t="I">10</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3969</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-02-28T15:23:45Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">182</_id>
-    <_time t="T">2025-03-02T11:16:41Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3970 has been opened by @Suban05.</details>
-    <event_id t="I">47069588758</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3970</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-02-28T14:07:51Z</when>
-    <where t="S">github</where>
-    <who t="I">88084038</who>
-  </f>
-  <f>
-    <_id t="I">183</_id>
-    <_time t="T">2025-03-02T11:16:41Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">fix-integration</branch>
-    <details t="S">The pull request objectionary/eo#3969 has been opened by @Suban05.</details>
-    <event_id t="I">47064723874</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3969</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-28T11:46:57Z</when>
-    <where t="S">github</where>
-    <who t="I">88084038</who>
-  </f>
-  <f>
-    <_id t="I">184</_id>
-    <_time t="T">2025-03-02T11:16:41Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">b17fe4396e503d2c7ab66ccbb4045776a4d4fc08</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22910085999 has arrived to objectionary/eo, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47060106007</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22910085999</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">73056727</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-28T09:32:06Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">185</_id>
-    <_time t="T">2025-03-02T11:16:42Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3968 has been opened by @yegor256.</details>
-    <event_id t="I">47059875184</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3968</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-02-28T09:25:35Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">186</_id>
-    <_time t="T">2025-03-02T11:16:42Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commits t="I">10000</commits>
-    <contributors>
-      <v t="I">526301</v>
-      <v t="I">37025995</v>
-      <v t="I">51804353</v>
-      <v t="I">8086956</v>
-      <v t="I">32939651</v>
-      <v t="I">29139614</v>
-      <v t="I">33455325</v>
-      <v t="I">70313618</v>
-      <v t="I">49783909</v>
-      <v t="I">40247101</v>
-      <v t="I">95661085</v>
-      <v t="I">88084038</v>
-      <v t="I">46355873</v>
-      <v t="I">51863344</v>
-      <v t="I">46539785</v>
-      <v t="I">68021590</v>
-      <v t="I">29793349</v>
-      <v t="I">70340829</v>
-      <v t="I">83453843</v>
-      <v t="I">57731693</v>
-      <v t="I">1524988</v>
-      <v t="I">51861302</v>
-      <v t="I">65287006</v>
-      <v t="I">93443107</v>
-      <v t="I">45645330</v>
-      <v t="I">7813046</v>
-      <v t="I">33983579</v>
-      <v t="I">5480441</v>
-      <v t="I">5425660</v>
-      <v t="I">38224153</v>
-      <v t="I">88106430</v>
-      <v t="I">18754996</v>
-      <v t="I">19733683</v>
-      <v t="I">2759630</v>
-      <v t="I">118344674</v>
-      <v t="I">104271817</v>
-      <v t="I">62389790</v>
-      <v t="I">45356788</v>
-      <v t="I">60232245</v>
-      <v t="I">40355145</v>
-      <v t="I">27022761</v>
-      <v t="I">40997599</v>
-      <v t="I">19238280</v>
-      <v t="I">253413</v>
-      <v t="I">1964562</v>
-      <v t="I">381776</v>
-      <v t="I">1459306</v>
-      <v t="I">31208362</v>
-      <v t="I">49699333</v>
-      <v t="I">38787503</v>
-      <v t="I">1044559</v>
-      <v t="I">48378098</v>
-      <v t="I">5655837</v>
-      <v t="I">1285898</v>
-      <v t="I">4522842</v>
-      <v t="I">6065375</v>
-      <v t="I">92184297</v>
-      <v t="I">49319353</v>
-    </contributors>
-    <details t="S">A new release 'Take attributes by position in EO' has been published in objectionary/eo by @rultor.</details>
-    <event_id t="I">47056946011</event_id>
-    <event_type t="S">ReleaseEvent</event_type>
-    <hoc t="I">19736</hoc>
-    <is_human t="I">0</is_human>
-    <last_commit t="S">9847dd2817d805aae7294c7af18a389ab5c9123d</last_commit>
-    <release t="I">202965802</release>
-    <repository t="I">73056727</repository>
-    <tag t="S">0.52.0</tag>
-    <what t="S">release-published</what>
-    <when t="T">2025-02-28T07:53:39Z</when>
-    <where t="S">github</where>
-    <who t="I">8086956</who>
-  </f>
-  <f>
-    <_id t="I">187</_id>
-    <_time t="T">2025-03-02T11:18:05Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">version-up</branch>
-    <details t="S">The pull request objectionary/eo#3967 has been opened by @github-actions[bot].</details>
-    <event_id t="I">47056927319</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">3967</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-28T07:52:58Z</when>
-    <where t="S">github</where>
-    <who t="I">41898282</who>
-  </f>
-  <f>
-    <_id t="I">188</_id>
-    <_time t="T">2025-03-02T11:18:05Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">A new tag '0.52.0' has been created in objectionary/eo by @rultor.</details>
-    <event_id t="I">47056902212</event_id>
-    <event_type t="S">CreateEvent</event_type>
-    <is_human t="I">0</is_human>
-    <repository t="I">73056727</repository>
-    <tag t="S">0.52.0</tag>
-    <what t="S">tag-was-created</what>
-    <when t="T">2025-02-28T07:52:01Z</when>
-    <where t="S">github</where>
-    <who t="I">8086956</who>
-  </f>
-  <f>
-    <_id t="I">189</_id>
-    <_time t="T">2025-03-02T11:18:06Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <commit t="S">adc60d22e6568b6222f19d9184ab10421a9e6011</commit>
-    <default_branch t="S">master</default_branch>
-    <details t="S">A new Git push #22908113676 has arrived to objectionary/eo, made by @yegor256 (default branch is 'master'), not associated with any pull request.</details>
-    <event_id t="I">47056144456</event_id>
-    <event_type t="S">PushEvent</event_type>
-    <is_human t="I">1</is_human>
-    <push_id t="I">22908113676</push_id>
-    <ref t="S">refs/heads/master</ref>
-    <repository t="I">73056727</repository>
-    <to_master t="I">1</to_master>
-    <what t="S">git-was-pushed</what>
-    <when t="T">2025-02-28T07:24:07Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">190</_id>
-    <_time t="T">2025-03-02T11:18:06Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/groovy-monorepo</branch>
-    <details t="S">The pull request objectionary/eo#3966 has been opened by @renovate[bot].</details>
-    <event_id t="I">47038010955</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">3966</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-27T18:20:49Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">191</_id>
-    <_time t="T">2025-03-02T11:18:07Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">3941-resolve-it</branch>
-    <comments t="I">8</comments>
-    <comments_appreciated t="I">2</comments_appreciated>
-    <comments_by_author t="I">3</comments_by_author>
-    <comments_by_reviewers t="I">5</comments_by_reviewers>
-    <comments_resolved t="I">4</comments_resolved>
-    <comments_to_code t="I">5</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3962 has been closed by @maxonfjvipon, with 131 HoC and 8 comments.</details>
-    <event_id t="I">47024423241</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">131</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3962</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">21</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-02-27T12:47:23Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">192</_id>
-    <_time t="T">2025-03-02T11:18:14Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">8</comments>
-    <commits t="I">6</commits>
-    <details t="S">The pull request objectionary/eo#3962 has been reviewed by @maxonfjvipon with 131 HoC and 8 comments.</details>
-    <event_id t="I">47024389320</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">3</files>
-    <hoc t="I">131</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3962</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-02-27T12:46:32Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">193</_id>
-    <_time t="T">2025-03-02T11:18:14Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">renovate/com.github.volodya-lombrozo-xnav-0.x</branch>
-    <comments t="I">2</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">0</comments_by_author>
-    <comments_by_reviewers t="I">2</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3894 has been closed by @renovate[bot], with 2 HoC and 2 comments.</details>
-    <event_id t="I">47020656850</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">6</failed_builds>
-    <hoc t="I">2</hoc>
-    <is_human t="I">0</is_human>
-    <issue t="I">3894</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">13</succeeded_builds>
-    <what t="S">pull-was-closed</what>
-    <when t="T">2025-02-27T11:06:53Z</when>
-    <where t="S">github</where>
-    <who t="I">29139614</who>
-  </f>
-  <f>
-    <_id t="I">194</_id>
-    <_time t="T">2025-03-02T11:18:20Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3965 has been opened by @0pdd.</details>
-    <event_id t="I">47020641018</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">0</is_human>
-    <issue t="I">3965</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-opened</what>
-    <when t="T">2025-02-27T11:06:26Z</when>
-    <where t="S">github</where>
-    <who t="I">24456188</who>
-  </f>
-  <f>
-    <_id t="I">195</_id>
-    <_time t="T">2025-03-02T11:18:20Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3934 has been closed by @maxonfjvipon.</details>
-    <event_id t="I">47020637787</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3934</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-02-27T11:06:21Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">196</_id>
-    <_time t="T">2025-03-02T11:18:20Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">3934</branch>
-    <comments t="I">9</comments>
-    <comments_appreciated t="I">5</comments_appreciated>
-    <comments_by_author t="I">4</comments_by_author>
-    <comments_by_reviewers t="I">5</comments_by_reviewers>
-    <comments_resolved t="I">2</comments_resolved>
-    <comments_to_code t="I">2</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3959 has been closed by @maxonfjvipon, with 726 HoC and 9 comments.</details>
-    <event_id t="I">47020637362</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">726</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3959</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">21</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-02-27T11:06:21Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">197</_id>
-    <_time t="T">2025-03-02T11:18:27Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The issue objectionary/eo#3957 has been closed by @maxonfjvipon.</details>
-    <event_id t="I">47020627533</event_id>
-    <event_type t="S">IssuesEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3957</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">issue-was-closed</what>
-    <when t="T">2025-02-27T11:06:05Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">198</_id>
-    <_time t="T">2025-03-02T11:18:27Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">3957_xcop_doc</branch>
-    <comments t="I">5</comments>
-    <comments_appreciated t="I">0</comments_appreciated>
-    <comments_by_author t="I">2</comments_by_author>
-    <comments_by_reviewers t="I">3</comments_by_reviewers>
-    <comments_resolved t="I">0</comments_resolved>
-    <comments_to_code t="I">0</comments_to_code>
-    <details t="S">The pull request objectionary/eo#3964 has been closed by @maxonfjvipon, with 2 HoC and 5 comments.</details>
-    <event_id t="I">47020627069</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <failed_builds t="I">0</failed_builds>
-    <hoc t="I">2</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3964</issue>
-    <repository t="I">73056727</repository>
-    <succeeded_builds t="I">21</succeeded_builds>
-    <what t="S">pull-was-merged</what>
-    <when t="T">2025-02-27T11:06:04Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">199</_id>
-    <_time t="T">2025-03-02T11:18:34Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">5</comments>
-    <commits t="I">3</commits>
-    <details t="S">The pull request objectionary/eo#3964 has been reviewed by @maxonfjvipon with 2 HoC and 5 comments.</details>
-    <event_id t="I">47020613751</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">1</files>
-    <hoc t="I">2</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3964</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-02-27T11:05:43Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">200</_id>
-    <_time t="T">2025-03-02T11:18:35Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <branch t="S">3957_xcop_doc</branch>
-    <details t="S">The pull request objectionary/eo#3964 has been opened by @volodya-lombrozo.</details>
-    <event_id t="I">47019346303</event_id>
-    <event_type t="S">PullRequestEvent</event_type>
-    <is_human t="I">1</is_human>
-    <issue t="I">3964</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-opened</what>
-    <when t="T">2025-02-27T10:33:05Z</when>
-    <where t="S">github</where>
-    <who t="I">51804353</who>
-  </f>
-  <f>
-    <_id t="I">201</_id>
-    <_time t="T">2025-03-02T11:18:35Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <comments t="I">9</comments>
-    <commits t="I">17</commits>
-    <details t="S">The pull request objectionary/eo#3959 has been reviewed by @maxonfjvipon with 726 HoC and 9 comments.</details>
-    <event_id t="I">47018862318</event_id>
-    <event_type t="S">PullRequestReviewEvent</event_type>
-    <files t="I">126</files>
-    <hoc t="I">726</hoc>
-    <is_human t="I">1</is_human>
-    <issue t="I">3959</issue>
-    <repository t="I">73056727</repository>
-    <what t="S">pull-was-reviewed</what>
-    <when t="T">2025-02-27T10:21:29Z</when>
-    <where t="S">github</where>
-    <who t="I">37025995</who>
-  </f>
-  <f>
-    <_id t="I">202</_id>
-    <_time t="T">2025-03-02T11:18:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">519299365</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">203</_id>
-    <_time t="T">2025-03-02T11:18:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">501942888</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">204</_id>
-    <_time t="T">2025-03-02T11:18:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">447446664</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">205</_id>
-    <_time t="T">2025-03-02T11:18:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490258619</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">206</_id>
-    <_time t="T">2025-03-02T11:18:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">574534248</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">207</_id>
-    <_time t="T">2025-03-02T11:18:45Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">396732517</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">208</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">593092058</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">209</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">483303722</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">210</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">492899189</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">211</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">362152931</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">212</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">403396472</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">213</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">731516758</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">215</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">574459304</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">216</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">709214061</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">217</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">581460427</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">218</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The '#bug' label was attached by @0pdd to the issue objectionary/eo#3965.</details>
-    <issue t="I">3965</issue>
-    <label t="S">bug</label>
-    <repository t="I">73056727</repository>
-    <what t="S">label-was-attached</what>
-    <when t="T">2025-02-27T11:06:26Z</when>
-    <where t="S">github</where>
-    <who t="I">24456188</who>
-  </f>
-  <f>
-    <_id t="I">220</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">510082372</repository>
@@ -3454,179 +1038,8 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">221</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">499536612</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">222</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">386420319</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">223</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">562850967</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">224</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">798766850</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">225</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">889819508</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">226</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">624420387</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">227</_id>
-    <_time t="T">2025-03-02T11:18:46Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">519246071</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">228</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">784310467</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">229</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">546194972</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">230</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490221501</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">231</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">733919301</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">232</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">659628214</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">233</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">482612876</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">234</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">551486781</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">235</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">493235807</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">236</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">731438612</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">237</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">543969974</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">238</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">510102039</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">239</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">552394123</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">240</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
+    <_id t="I">82</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">501259435</repository>
@@ -3634,160 +1047,62 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">241</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
+    <_id t="I">83</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">568705267</repository>
+    <repository t="I">543969974</repository>
     <what t="S">labels-were-scanned</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">242</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
+    <_id t="I">84</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">531151981</repository>
+    <repository t="I">396732517</repository>
     <what t="S">labels-were-scanned</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">243</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
+    <_id t="I">85</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">575859928</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">244</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">570457023</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">245</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">671896902</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">246</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">559427983</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">247</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">840332960</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">248</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">721146770</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">249</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">373900298</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">250</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">565789755</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">251</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">13623548</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">252</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">558766137</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">253</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">490157985</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">254</_id>
-    <_time t="T">2025-03-02T11:18:47Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <latest t="I">0</latest>
-    <repository t="I">518891717</repository>
-    <what t="S">labels-were-scanned</what>
-    <where t="S">github</where>
-  </f>
-  <f>
-    <_id t="I">256</_id>
-    <_time t="T">2025-03-02T11:18:48Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The '#bug' label was attached by @yegor256 to the issue objectionary/eo#3968.</details>
-    <issue t="I">3968</issue>
-    <label t="S">bug</label>
     <repository t="I">73056727</repository>
-    <what t="S">label-was-attached</what>
-    <when t="T">2025-02-28T09:25:33Z</when>
+    <what t="S">labels-were-scanned</what>
     <where t="S">github</where>
-    <who t="I">526301</who>
   </f>
   <f>
-    <_id t="I">257</_id>
-    <_time t="T">2025-03-02T11:18:48Z</_time>
+    <_id t="I">86</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The '#enhancement' label was attached by @yegor256 to the issue objectionary/eo#3968.</details>
-    <issue t="I">3968</issue>
-    <label t="S">enhancement</label>
-    <repository t="I">73056727</repository>
-    <what t="S">label-was-attached</what>
-    <when t="T">2025-02-28T09:25:33Z</when>
+    <latest t="I">0</latest>
+    <repository t="I">581460427</repository>
+    <what t="S">labels-were-scanned</what>
     <where t="S">github</where>
-    <who t="I">526301</who>
   </f>
   <f>
-    <_id t="I">259</_id>
-    <_time t="T">2025-03-02T11:18:48Z</_time>
+    <_id t="I">87</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">731438612</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">88</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">574534248</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">89</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
     <repository t="I">489321585</repository>
@@ -3795,57 +1110,407 @@
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">260</_id>
-    <_time t="T">2025-03-02T11:18:48Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The '#bug' label was attached by @yegor256 to the issue objectionary/eo#3970.</details>
-    <issue t="I">3970</issue>
-    <label t="S">bug</label>
-    <repository t="I">73056727</repository>
-    <what t="S">label-was-attached</what>
-    <when t="T">2025-02-28T14:24:03Z</when>
-    <where t="S">github</where>
-    <who t="I">526301</who>
-  </f>
-  <f>
-    <_id t="I">261</_id>
-    <_time t="T">2025-03-02T11:18:48Z</_time>
-    <_version t="S">0.5.0/0.31.1/</_version>
-    <details t="S">The '#bug' label was attached by @0pdd to the issue objectionary/eo#3974.</details>
-    <issue t="I">3974</issue>
-    <label t="S">bug</label>
-    <repository t="I">73056727</repository>
-    <what t="S">label-was-attached</what>
-    <when t="T">2025-03-01T23:03:52Z</when>
-    <where t="S">github</where>
-    <who t="I">24456188</who>
-  </f>
-  <f>
-    <_id t="I">262</_id>
-    <_time t="T">2025-03-02T11:18:48Z</_time>
+    <_id t="I">90</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
     <latest t="I">0</latest>
-    <repository t="I">73056727</repository>
+    <repository t="I">531151981</repository>
     <what t="S">labels-were-scanned</what>
     <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">263</_id>
-    <_time t="T">2025-03-02T11:20:19Z</_time>
+    <_id t="I">91</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <average_release_commits_size t="F">51.6</average_release_commits_size>
-    <average_release_hoc_size t="F">2556.2</average_release_hoc_size>
-    <average_triage_time t="F">243.75</average_triage_time>
-    <since t="T">2025-02-02T11:18:48Z</since>
-    <what t="S">quality-of-service</what>
-    <when t="T">2025-03-02T11:18:48Z</when>
+    <latest t="I">0</latest>
+    <repository t="I">570457023</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
   </f>
   <f>
-    <_id t="I">264</_id>
-    <_time t="T">2025-03-02T11:21:48Z</_time>
+    <_id t="I">92</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
     <_version t="S">0.5.0/0.31.1/</_version>
-    <since t="T">2025-02-02T11:21:48Z</since>
+    <latest t="I">0</latest>
+    <repository t="I">403396472</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">93</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">518891717</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">94</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">558766137</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">95</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">386420319</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">96</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">840332960</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">97</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490258619</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">98</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">659628214</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">99</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">499536612</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">100</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">501942888</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">101</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">552394123</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">102</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">575859928</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">103</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">362152931</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">104</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">798766850</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">105</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">731516758</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">106</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">492899189</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">107</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">447446664</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">108</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490157985</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">109</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">373900298</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">110</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">510102039</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">111</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">721146770</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">112</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">733919301</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">113</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">574459304</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">114</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">568705267</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">115</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519246071</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">116</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">624420387</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">117</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">784310467</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">118</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">519299365</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">119</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">551486781</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">120</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">483303722</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">121</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">889819508</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">122</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">593092058</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">123</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">490221501</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">124</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">709214061</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">125</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">546194972</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">126</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">671896902</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">127</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">559427983</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">128</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">493235807</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">129</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">565789755</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">130</_id>
+    <_time t="T">2025-03-02T12:36:11Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">482612876</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">131</_id>
+    <_time t="T">2025-03-02T12:36:12Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">562850967</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">132</_id>
+    <_time t="T">2025-03-02T12:36:12Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <latest t="I">0</latest>
+    <repository t="I">13623548</repository>
+    <what t="S">labels-were-scanned</what>
+    <where t="S">github</where>
+  </f>
+  <f>
+    <_id t="I">133</_id>
+    <_time t="T">2025-03-02T12:36:23Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <average_release_interval t="F">161351.23076923078</average_release_interval>
+    <since t="T">2025-02-02T12:36:12Z</since>
+    <what t="S">quality-of-service</what>
+    <when t="T">2025-03-02T12:36:12Z</when>
+  </f>
+  <f>
+    <_id t="I">134</_id>
+    <_time t="T">2025-03-02T12:39:12Z</_time>
+    <_version t="S">0.5.0/0.31.1/</_version>
+    <since t="T">2025-02-02T12:39:12Z</since>
     <what t="S">quantity-of-deliverables</what>
-    <when t="T">2025-03-02T11:21:48Z</when>
+    <when t="T">2025-03-02T12:39:12Z</when>
   </f>
 </fb>

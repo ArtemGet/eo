@@ -2,369 +2,613 @@
 - added: 8
   cycles: 1
   removed: 8
-  seconds: 560.783895368
+  seconds: 651.991977454
   version: 0.31.1
   what: judges-summary
-  when: 2025-07-04 15:29:27.826350213 Z
+  when: 2025-07-04 16:34:39.128901641 Z
 - _id: 1
-  _time: 2025-07-04 15:22:57.875734310 Z
+  _time: 2025-07-04 16:26:02.956557433 Z
   _version: 0.5.0/0.31.1/
   total_active_contributors: 12
   total_commits: 27929
   total_contributors: 94
+  total_files: 4861
   total_forks: 333
   total_issues: 4383
-  total_pulls: 6424
+  total_pulls: 6425
   total_releases: 645
   total_repositories: 45
   total_stars: 1653
   what: dimensions-of-terrain
-  when: 2025-07-04 15:20:07.366751414 Z
+  when: 2025-07-04 16:23:47.470101849 Z
 - _id: 2
-  _time: 2025-07-04 15:23:07.243637265 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731438612
-  what: min-issue-was-found
-  where: github
-- _id: 3
-  _time: 2025-07-04 15:23:07.246375334 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 721146770
-  what: min-issue-was-found
-  where: github
-- _id: 4
-  _time: 2025-07-04 15:23:07.248984952 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 13623548
-  what: min-issue-was-found
-  where: github
-- _id: 5
-  _time: 2025-07-04 15:23:07.251652729 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 492899189
-  what: min-issue-was-found
-  where: github
-- _id: 6
-  _time: 2025-07-04 15:23:07.254396840 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 551486781
-  what: min-issue-was-found
-  where: github
-- _id: 7
-  _time: 2025-07-04 15:23:07.257140960 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 73056727
-  what: min-issue-was-found
-  where: github
-- _id: 8
-  _time: 2025-07-04 15:23:07.259919345 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574534248
-  what: min-issue-was-found
-  where: github
-- _id: 9
-  _time: 2025-07-04 15:23:07.262753886 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 403396472
-  what: min-issue-was-found
-  where: github
-- _id: 10
-  _time: 2025-07-04 15:23:07.265625275 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 558766137
-  what: min-issue-was-found
-  where: github
-- _id: 11
-  _time: 2025-07-04 15:23:07.268503407 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490221501
-  what: min-issue-was-found
-  where: github
-- _id: 12
-  _time: 2025-07-04 15:23:07.271478422 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 531151981
-  what: min-issue-was-found
-  where: github
-- _id: 13
-  _time: 2025-07-04 15:23:07.274563232 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 784310467
-  what: min-issue-was-found
-  where: github
-- _id: 14
-  _time: 2025-07-04 15:23:07.277750684 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 624420387
-  what: min-issue-was-found
-  where: github
-- _id: 15
-  _time: 2025-07-04 15:23:07.280939760 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 570457023
-  what: min-issue-was-found
-  where: github
-- _id: 16
-  _time: 2025-07-04 15:23:07.284200029 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 489321585
-  what: min-issue-was-found
-  where: github
-- _id: 17
-  _time: 2025-07-04 15:23:07.291053323 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 447446664
-  what: min-issue-was-found
-  where: github
-- _id: 18
-  _time: 2025-07-04 15:23:07.297805356 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490157985
-  what: min-issue-was-found
-  where: github
-- _id: 19
-  _time: 2025-07-04 15:23:07.304343137 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 499536612
-  what: min-issue-was-found
-  where: github
-- _id: 20
-  _time: 2025-07-04 15:23:07.310759751 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 493235807
-  what: min-issue-was-found
-  where: github
-- _id: 21
-  _time: 2025-07-04 15:23:07.316620401 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 386420319
-  what: min-issue-was-found
-  where: github
-- _id: 22
-  _time: 2025-07-04 15:23:07.320990294 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 970961472
-  what: min-issue-was-found
-  where: github
-- _id: 23
-  _time: 2025-07-04 15:23:07.325541025 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 483303722
-  what: min-issue-was-found
-  where: github
-- _id: 24
-  _time: 2025-07-04 15:23:07.330129337 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501942888
-  what: min-issue-was-found
-  where: github
-- _id: 25
-  _time: 2025-07-04 15:23:07.334524026 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 396732517
-  what: min-issue-was-found
-  where: github
-- _id: 26
-  _time: 2025-07-04 15:23:07.339138758 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510102039
-  what: min-issue-was-found
-  where: github
-- _id: 27
-  _time: 2025-07-04 15:23:07.343760643 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 559427983
-  what: min-issue-was-found
-  where: github
-- _id: 28
-  _time: 2025-07-04 15:23:07.348492084 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 671896902
-  what: min-issue-was-found
-  where: github
-- _id: 29
-  _time: 2025-07-04 15:23:07.353168151 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519299365
-  what: min-issue-was-found
-  where: github
-- _id: 30
-  _time: 2025-07-04 15:23:07.358169588 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 977982682
-  what: min-issue-was-found
-  where: github
-- _id: 31
-  _time: 2025-07-04 15:23:07.362607528 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 546194972
-  what: min-issue-was-found
-  where: github
-- _id: 32
-  _time: 2025-07-04 15:23:07.366680593 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 519246071
-  what: min-issue-was-found
-  where: github
-- _id: 33
-  _time: 2025-07-04 15:23:07.370846813 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501259435
-  what: min-issue-was-found
-  where: github
-- _id: 34
-  _time: 2025-07-04 15:23:07.375032990 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 733919301
-  what: min-issue-was-found
-  where: github
-- _id: 35
-  _time: 2025-07-04 15:23:07.379272558 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574459304
-  what: min-issue-was-found
-  where: github
-- _id: 36
-  _time: 2025-07-04 15:23:07.383789987 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 889819508
-  what: min-issue-was-found
-  where: github
-- _id: 37
-  _time: 2025-07-04 15:23:07.388743244 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731516758
-  what: min-issue-was-found
-  where: github
-- _id: 38
-  _time: 2025-07-04 15:23:07.393850650 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 568705267
-  what: min-issue-was-found
-  where: github
-- _id: 39
-  _time: 2025-07-04 15:23:07.398962545 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510082372
-  what: min-issue-was-found
-  where: github
-- _id: 40
-  _time: 2025-07-04 15:23:07.404079540 Z
+  _time: 2025-07-04 16:26:03.134394459 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 490258619
   what: min-issue-was-found
   where: github
-- _id: 41
-  _time: 2025-07-04 15:23:07.409518849 Z
+- _id: 3
+  _time: 2025-07-04 16:26:03.138965787 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 565789755
+  repository: 483303722
   what: min-issue-was-found
   where: github
-- _id: 42
-  _time: 2025-07-04 15:23:07.417424928 Z
+- _id: 4
+  _time: 2025-07-04 16:26:03.143480419 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 543969974
+  repository: 551486781
   what: min-issue-was-found
   where: github
-- _id: 43
-  _time: 2025-07-04 15:23:07.422157001 Z
+- _id: 5
+  _time: 2025-07-04 16:26:03.147311164 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 955159947
+  repository: 731438612
   what: min-issue-was-found
   where: github
-- _id: 44
-  _time: 2025-07-04 15:23:07.426913709 Z
+- _id: 6
+  _time: 2025-07-04 16:26:03.151095823 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 840332960
+  repository: 501942888
   what: min-issue-was-found
   where: github
-- _id: 45
-  _time: 2025-07-04 15:23:07.431735649 Z
+- _id: 7
+  _time: 2025-07-04 16:26:03.154735942 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 482612876
+  repository: 492899189
   what: min-issue-was-found
   where: github
-- _id: 46
-  _time: 2025-07-04 15:23:07.436542502 Z
+- _id: 8
+  _time: 2025-07-04 16:26:03.158182259 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
+  what: min-issue-was-found
+  where: github
+- _id: 9
+  _time: 2025-07-04 16:26:03.161899572 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 721146770
+  what: min-issue-was-found
+  where: github
+- _id: 10
+  _time: 2025-07-04 16:26:03.165523211 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 671896902
+  what: min-issue-was-found
+  where: github
+- _id: 11
+  _time: 2025-07-04 16:26:03.169065918 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 731516758
+  what: min-issue-was-found
+  where: github
+- _id: 12
+  _time: 2025-07-04 16:26:03.173159173 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 889819508
+  what: min-issue-was-found
+  where: github
+- _id: 13
+  _time: 2025-07-04 16:26:03.177108299 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510102039
+  what: min-issue-was-found
+  where: github
+- _id: 14
+  _time: 2025-07-04 16:26:03.181016278 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 970961472
+  what: min-issue-was-found
+  where: github
+- _id: 15
+  _time: 2025-07-04 16:26:03.184995922 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 798766850
   what: min-issue-was-found
   where: github
-- _id: 47
-  _time: 2025-07-04 15:23:08.080711419 Z
+- _id: 16
+  _time: 2025-07-04 16:26:03.188834351 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 403396472
-  what: events-were-scanned
+  repository: 840332960
+  what: min-issue-was-found
   where: github
-- _id: 48
-  _time: 2025-07-04 15:23:08.539408850 Z
+- _id: 17
+  _time: 2025-07-04 16:26:03.192957212 Z
   _version: 0.5.0/0.31.1/
-  latest: 50658255414
+  latest: 0
+  repository: 568705267
+  what: min-issue-was-found
+  where: github
+- _id: 18
+  _time: 2025-07-04 16:26:03.197033646 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 386420319
+  what: min-issue-was-found
+  where: github
+- _id: 19
+  _time: 2025-07-04 16:26:03.201239671 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 489321585
+  what: min-issue-was-found
+  where: github
+- _id: 20
+  _time: 2025-07-04 16:26:03.205256444 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 558766137
+  what: min-issue-was-found
+  where: github
+- _id: 21
+  _time: 2025-07-04 16:26:03.209561926 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 559427983
+  what: min-issue-was-found
+  where: github
+- _id: 22
+  _time: 2025-07-04 16:26:03.213662835 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 733919301
+  what: min-issue-was-found
+  where: github
+- _id: 23
+  _time: 2025-07-04 16:26:03.217847962 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 955159947
+  what: min-issue-was-found
+  where: github
+- _id: 24
+  _time: 2025-07-04 16:26:03.222491656 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 493235807
+  what: min-issue-was-found
+  where: github
+- _id: 25
+  _time: 2025-07-04 16:26:03.226047858 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574459304
+  what: min-issue-was-found
+  where: github
+- _id: 26
+  _time: 2025-07-04 16:26:03.229652901 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 543969974
+  what: min-issue-was-found
+  where: github
+- _id: 27
+  _time: 2025-07-04 16:26:03.233290927 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 624420387
+  what: min-issue-was-found
+  where: github
+- _id: 28
+  _time: 2025-07-04 16:26:03.236936816 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 531151981
+  what: min-issue-was-found
+  where: github
+- _id: 29
+  _time: 2025-07-04 16:26:03.240655562 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
   repository: 490221501
-  what: events-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 49
-  _time: 2025-07-04 15:23:09.216863146 Z
+- _id: 30
+  _time: 2025-07-04 16:26:03.244508649 Z
   _version: 0.5.0/0.31.1/
-  latest: 51520622031
+  latest: 0
   repository: 499536612
-  what: events-were-scanned
+  what: min-issue-was-found
   where: github
-- _id: 50
-  _time: 2025-07-04 15:23:09.736545241 Z
+- _id: 31
+  _time: 2025-07-04 16:26:03.248375401 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 570457023
+  what: min-issue-was-found
+  where: github
+- _id: 32
+  _time: 2025-07-04 16:26:03.252382906 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 482612876
+  what: min-issue-was-found
+  where: github
+- _id: 33
+  _time: 2025-07-04 16:26:03.256423824 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 784310467
+  what: min-issue-was-found
+  where: github
+- _id: 34
+  _time: 2025-07-04 16:26:03.260512100 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510082372
+  what: min-issue-was-found
+  where: github
+- _id: 35
+  _time: 2025-07-04 16:26:03.271170167 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 519246071
+  what: min-issue-was-found
+  where: github
+- _id: 36
+  _time: 2025-07-04 16:26:03.278129476 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 13623548
+  what: min-issue-was-found
+  where: github
+- _id: 37
+  _time: 2025-07-04 16:26:03.284908277 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519299365
+  what: min-issue-was-found
+  where: github
+- _id: 38
+  _time: 2025-07-04 16:26:03.291790381 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 403396472
+  what: min-issue-was-found
+  where: github
+- _id: 39
+  _time: 2025-07-04 16:26:03.298485366 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 977982682
+  what: min-issue-was-found
+  where: github
+- _id: 40
+  _time: 2025-07-04 16:26:03.303746993 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 565789755
+  what: min-issue-was-found
+  where: github
+- _id: 41
+  _time: 2025-07-04 16:26:03.309074364 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 447446664
+  what: min-issue-was-found
+  where: github
+- _id: 42
+  _time: 2025-07-04 16:26:03.314524614 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490157985
+  what: min-issue-was-found
+  where: github
+- _id: 43
+  _time: 2025-07-04 16:26:03.319887150 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 546194972
+  what: min-issue-was-found
+  where: github
+- _id: 44
+  _time: 2025-07-04 16:26:03.325352218 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574534248
+  what: min-issue-was-found
+  where: github
+- _id: 45
+  _time: 2025-07-04 16:26:03.330906211 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 73056727
+  what: min-issue-was-found
+  where: github
+- _id: 46
+  _time: 2025-07-04 16:26:03.336555383 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501259435
+  what: min-issue-was-found
+  where: github
+- _id: 47
+  _time: 2025-07-04 16:26:03.741118181 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
   what: events-were-scanned
   where: github
+- _id: 48
+  _time: 2025-07-04 16:26:04.006834638 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490157985
+  what: events-were-scanned
+  where: github
+- _id: 49
+  _time: 2025-07-04 16:26:04.261979450 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 559427983
+  what: events-were-scanned
+  where: github
+- _id: 50
+  _time: 2025-07-04 16:26:04.557937504 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/org.junit.jupiter-junit-jupiter-engine-5.x
+  comments: 0
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 0
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/eo-intellij-plugin#72 has been closed by
+    @renovate[bot], with 2 HoC and 0 comments.
+  event_id: 51627759730
+  event_type: PullRequestEvent
+  failed_builds: 9
+  hoc: 2
+  is_human: 0
+  issue: 72
+  repository: 492899189
+  succeeded_builds: 4
+  what: pull-was-closed
+  when: 2025-07-02 21:29:28.000000000 Z
+  where: github
+  who: 29139614
 - _id: 51
-  _time: 2025-07-04 15:23:11.316502954 Z
+  _time: 2025-07-04 16:26:09.309594446 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/org.junit.jupiter-junit-jupiter-api-5.x
+  comments: 0
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 0
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/eo-intellij-plugin#71 has been closed by
+    @renovate[bot], with 2 HoC and 0 comments.
+  event_id: 51627758996
+  event_type: PullRequestEvent
+  failed_builds: 9
+  hoc: 2
+  is_human: 0
+  issue: 71
+  repository: 492899189
+  succeeded_builds: 4
+  what: pull-was-closed
+  when: 2025-07-02 21:29:27.000000000 Z
+  where: github
+  who: 29139614
+- _id: 52
+  _time: 2025-07-04 16:26:13.998151698 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/junit-framework-monorepo
+  details: The pull request objectionary/eo-intellij-plugin#73 has been opened by
+    @renovate[bot].
+  event_id: 51627758539
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 73
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-07-02 21:29:26.000000000 Z
+  where: github
+  who: 29139614
+- _id: 53
+  _time: 2025-07-04 16:26:14.022556269 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/junit5-monorepo
+  comments: 0
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 0
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/eo-intellij-plugin#63 has been closed by
+    @renovate[bot], with 4 HoC and 0 comments.
+  event_id: 51279268696
+  event_type: PullRequestEvent
+  failed_builds: 9
+  hoc: 4
+  is_human: 0
+  issue: 63
+  repository: 492899189
+  succeeded_builds: 4
+  what: pull-was-closed
+  when: 2025-06-24 13:51:44.000000000 Z
+  where: github
+  who: 29139614
+- _id: 54
+  _time: 2025-07-04 16:26:19.287805870 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/org.junit.jupiter-junit-jupiter-engine-5.x
+  details: The pull request objectionary/eo-intellij-plugin#72 has been opened by
+    @renovate[bot].
+  event_id: 51279267879
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 72
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-06-24 13:51:44.000000000 Z
+  where: github
+  who: 29139614
+- _id: 55
+  _time: 2025-07-04 16:26:19.302256562 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/org.junit.jupiter-junit-jupiter-api-5.x
+  details: The pull request objectionary/eo-intellij-plugin#71 has been opened by
+    @renovate[bot].
+  event_id: 51279263798
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 71
+  repository: 492899189
+  what: pull-was-opened
+  when: 2025-06-24 13:51:39.000000000 Z
+  where: github
+  who: 29139614
+- _id: 56
+  _time: 2025-07-04 16:26:19.321614570 Z
+  _version: 0.5.0/0.31.1/
+  latest: 51627760161
+  repository: 492899189
+  what: events-were-scanned
+  where: github
+- _id: 57
+  _time: 2025-07-04 16:26:19.629425880 Z
+  _version: 0.5.0/0.31.1/
+  latest: 51622995730
+  repository: 798766850
+  what: events-were-scanned
+  where: github
+- _id: 58
+  _time: 2025-07-04 16:26:19.857487362 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 784310467
+  what: events-were-scanned
+  where: github
+- _id: 59
+  _time: 2025-07-04 16:26:20.209448377 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/teatimeguest-setup-texlive-action-3.x
+  comments: 0
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 0
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/eolang.sty#107 has been closed by @renovate[bot],
+    with 4 HoC and 0 comments.
+  event_id: 51581473428
+  event_type: PullRequestEvent
+  failed_builds: 2
+  hoc: 4
+  is_human: 0
+  issue: 107
+  repository: 546194972
+  succeeded_builds: 8
+  what: pull-was-closed
+  when: 2025-07-02 00:15:14.000000000 Z
+  where: github
+  who: 29139614
+- _id: 60
+  _time: 2025-07-04 16:26:23.093363467 Z
+  _version: 0.5.0/0.31.1/
+  latest: 51581473631
+  repository: 546194972
+  what: events-were-scanned
+  where: github
+- _id: 61
+  _time: 2025-07-04 16:26:23.373914572 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/junit5-monorepo
+  comments: 0
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 0
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/jucs#30 has been closed by @renovate[bot],
+    with 4 HoC and 0 comments.
+  event_id: 51296199454
+  event_type: PullRequestEvent
+  failed_builds: 7
+  hoc: 4
+  is_human: 0
+  issue: 30
+  repository: 574459304
+  succeeded_builds: 7
+  what: pull-was-closed
+  when: 2025-06-24 20:40:25.000000000 Z
+  where: github
+  who: 29139614
+- _id: 62
+  _time: 2025-07-04 16:26:28.077880722 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/org.junit.jupiter-junit-jupiter-params-5.x
+  details: The pull request objectionary/jucs#41 has been opened by @renovate[bot].
+  event_id: 51296198920
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 41
+  repository: 574459304
+  what: pull-was-opened
+  when: 2025-06-24 20:40:24.000000000 Z
+  where: github
+  who: 29139614
+- _id: 63
+  _time: 2025-07-04 16:26:28.089085016 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/org.junit.jupiter-junit-jupiter-api-5.x
+  details: The pull request objectionary/jucs#40 has been opened by @renovate[bot].
+  event_id: 51296197131
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 40
+  repository: 574459304
+  what: pull-was-opened
+  when: 2025-06-24 20:40:21.000000000 Z
+  where: github
+  who: 29139614
+- _id: 64
+  _time: 2025-07-04 16:26:28.105197466 Z
+  _version: 0.5.0/0.31.1/
+  latest: 51579528617
+  repository: 574459304
+  what: events-were-scanned
+  where: github
+- _id: 65
+  _time: 2025-07-04 16:26:28.440629200 Z
+  _version: 0.5.0/0.31.1/
+  branch: renovate/baptiste0928-cargo-install-3.x
+  details: The pull request objectionary/eo-phi-normalizer#687 has been opened by
+    @renovate[bot].
+  event_id: 51005400242
+  event_type: PullRequestEvent
+  is_human: 0
+  issue: 687
+  repository: 731438612
+  what: pull-was-opened
+  when: 2025-06-17 13:08:43.000000000 Z
+  where: github
+  who: 29139614
+- _id: 66
+  _time: 2025-07-04 16:26:28.455905897 Z
+  _version: 0.5.0/0.31.1/
+  latest: 51512803473
+  repository: 731438612
+  what: events-were-scanned
+  where: github
+- _id: 67
+  _time: 2025-07-04 16:26:29.552165912 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/net.sf.saxon-saxon-he-12.x
   details: The pull request objectionary/hone-maven-plugin#189 has been opened by
@@ -378,8 +622,8 @@
   when: 2025-07-03 16:32:20.000000000 Z
   where: github
   who: 29139614
-- _id: 52
-  _time: 2025-07-04 15:23:11.500026176 Z
+- _id: 68
+  _time: 2025-07-04 16:26:29.564956316 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/com.jcabi-parent-0.x
   details: The pull request objectionary/hone-maven-plugin#188 has been opened by
@@ -393,8 +637,8 @@
   when: 2025-07-01 19:58:52.000000000 Z
   where: github
   who: 29139614
-- _id: 53
-  _time: 2025-07-04 15:23:11.512545889 Z
+- _id: 69
+  _time: 2025-07-04 16:26:29.577282483 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/crate-ci-typos-1.x
   details: The pull request objectionary/hone-maven-plugin#187 has been opened by
@@ -408,8 +652,8 @@
   when: 2025-06-30 20:15:19.000000000 Z
   where: github
   who: 29139614
-- _id: 54
-  _time: 2025-07-04 15:23:11.526248793 Z
+- _id: 70
+  _time: 2025-07-04 16:26:29.631178066 Z
   _version: 0.5.0/0.31.1/
   details: The issue objectionary/hone-maven-plugin#186 has been opened by @yegor256.
   event_id: 51497483806
@@ -421,8 +665,8 @@
   when: 2025-06-30 10:01:07.000000000 Z
   where: github
   who: 526301
-- _id: 55
-  _time: 2025-07-04 15:23:11.785317589 Z
+- _id: 71
+  _time: 2025-07-04 16:26:29.751790485 Z
   _version: 0.5.0/0.31.1/
   branch: benchmark
   comments: 0
@@ -445,8 +689,8 @@
   when: 2025-06-30 08:06:15.000000000 Z
   where: github
   who: 526301
-- _id: 56
-  _time: 2025-07-04 15:23:13.379667442 Z
+- _id: 72
+  _time: 2025-07-04 16:26:30.853187335 Z
   _version: 0.5.0/0.31.1/
   branch: version-up
   comments: 0
@@ -469,8 +713,8 @@
   when: 2025-06-30 08:06:01.000000000 Z
   where: github
   who: 526301
-- _id: 57
-  _time: 2025-07-04 15:23:14.380855740 Z
+- _id: 73
+  _time: 2025-07-04 16:26:31.389151887 Z
   _version: 0.5.0/0.31.1/
   details: The issue objectionary/hone-maven-plugin#183 has been closed by @yegor256.
   event_id: 51492250971
@@ -482,8 +726,8 @@
   when: 2025-06-30 08:05:53.000000000 Z
   where: github
   who: 526301
-- _id: 58
-  _time: 2025-07-04 15:23:14.613454225 Z
+- _id: 74
+  _time: 2025-07-04 16:26:31.473624022 Z
   _version: 0.5.0/0.31.1/
   commits: 606
   contributors:
@@ -505,8 +749,8 @@
   when: 2025-06-30 07:57:30.000000000 Z
   where: github
   who: 8086956
-- _id: 59
-  _time: 2025-07-04 15:23:23.595804936 Z
+- _id: 75
+  _time: 2025-07-04 16:26:37.543822374 Z
   _version: 0.5.0/0.31.1/
   branch: version-up
   details: The pull request objectionary/hone-maven-plugin#185 has been opened by
@@ -520,8 +764,8 @@
   when: 2025-06-30 07:56:42.000000000 Z
   where: github
   who: 41898282
-- _id: 60
-  _time: 2025-07-04 15:23:23.807585236 Z
+- _id: 76
+  _time: 2025-07-04 16:26:37.642655028 Z
   _version: 0.5.0/0.31.1/
   details: A new tag '0.0.35' has been created in objectionary/hone-maven-plugin by
     @rultor.
@@ -534,8 +778,8 @@
   when: 2025-06-30 07:56:31.000000000 Z
   where: github
   who: 8086956
-- _id: 61
-  _time: 2025-07-04 15:23:23.813629852 Z
+- _id: 77
+  _time: 2025-07-04 16:26:37.651241494 Z
   _version: 0.5.0/0.31.1/
   branch: benchmark
   details: The pull request objectionary/hone-maven-plugin#184 has been opened by
@@ -549,8 +793,8 @@
   when: 2025-06-30 07:46:58.000000000 Z
   where: github
   who: 41898282
-- _id: 62
-  _time: 2025-07-04 15:23:23.903311245 Z
+- _id: 78
+  _time: 2025-07-04 16:26:37.686723472 Z
   _version: 0.5.0/0.31.1/
   commit: f344decabbee0e2090b2659f9ad143e10e32737c
   default_branch: master
@@ -568,8 +812,8 @@
   when: 2025-06-30 07:37:14.000000000 Z
   where: github
   who: 526301
-- _id: 63
-  _time: 2025-07-04 15:23:24.175165042 Z
+- _id: 79
+  _time: 2025-07-04 16:26:37.819485024 Z
   _version: 0.5.0/0.31.1/
   details: The issue objectionary/hone-maven-plugin#183 has been opened by @yegor256.
   event_id: 51490693949
@@ -581,8 +825,8 @@
   when: 2025-06-30 07:28:37.000000000 Z
   where: github
   who: 526301
-- _id: 64
-  _time: 2025-07-04 15:23:24.196142240 Z
+- _id: 80
+  _time: 2025-07-04 16:26:37.837339519 Z
   _version: 0.5.0/0.31.1/
   details: The issue objectionary/hone-maven-plugin#182 has been opened by @yegor256.
   event_id: 51375983168
@@ -594,8 +838,8 @@
   when: 2025-06-26 12:15:38.000000000 Z
   where: github
   who: 526301
-- _id: 65
-  _time: 2025-07-04 15:23:24.593708675 Z
+- _id: 81
+  _time: 2025-07-04 16:26:38.102692758 Z
   _version: 0.5.0/0.31.1/
   branch: version-up
   comments: 0
@@ -618,8 +862,8 @@
   when: 2025-06-26 07:12:52.000000000 Z
   where: github
   who: 526301
-- _id: 66
-  _time: 2025-07-04 15:23:25.888118941 Z
+- _id: 82
+  _time: 2025-07-04 16:26:38.921494123 Z
   _version: 0.5.0/0.31.1/
   branch: self-benchmark
   comments: 0
@@ -642,8 +886,8 @@
   when: 2025-06-26 07:12:39.000000000 Z
   where: github
   who: 526301
-- _id: 67
-  _time: 2025-07-04 15:23:27.153650240 Z
+- _id: 83
+  _time: 2025-07-04 16:26:39.788293340 Z
   _version: 0.5.0/0.31.1/
   branch: benchmark
   comments: 0
@@ -666,8 +910,8 @@
   when: 2025-06-26 07:12:24.000000000 Z
   where: github
   who: 526301
-- _id: 68
-  _time: 2025-07-04 15:23:28.084994248 Z
+- _id: 84
+  _time: 2025-07-04 16:26:40.407670445 Z
   _version: 0.5.0/0.31.1/
   details: The issue objectionary/hone-maven-plugin#180 has been closed by @yegor256.
   event_id: 51362677018
@@ -679,8 +923,8 @@
   when: 2025-06-26 07:09:36.000000000 Z
   where: github
   who: 526301
-- _id: 69
-  _time: 2025-07-04 15:23:28.108333338 Z
+- _id: 85
+  _time: 2025-07-04 16:26:40.605743021 Z
   _version: 0.5.0/0.31.1/
   commits: 2
   contributors: 8086956
@@ -698,8 +942,8 @@
   when: 2025-06-26 07:06:51.000000000 Z
   where: github
   who: 8086956
-- _id: 70
-  _time: 2025-07-04 15:23:28.462566368 Z
+- _id: 86
+  _time: 2025-07-04 16:26:40.877960606 Z
   _version: 0.5.0/0.31.1/
   branch: version-up
   details: The pull request objectionary/hone-maven-plugin#181 has been opened by
@@ -713,8 +957,8 @@
   when: 2025-06-26 07:06:24.000000000 Z
   where: github
   who: 41898282
-- _id: 71
-  _time: 2025-07-04 15:23:28.485196266 Z
+- _id: 87
+  _time: 2025-07-04 16:26:40.894993109 Z
   _version: 0.5.0/0.31.1/
   details: A new tag '0.0.34' has been created in objectionary/hone-maven-plugin by
     @rultor.
@@ -727,8 +971,8 @@
   when: 2025-06-26 07:06:10.000000000 Z
   where: github
   who: 8086956
-- _id: 72
-  _time: 2025-07-04 15:23:28.526899877 Z
+- _id: 88
+  _time: 2025-07-04 16:26:40.940452107 Z
   _version: 0.5.0/0.31.1/
   commit: ede750cd4304956bd81118bdc72ae855b94ed261
   default_branch: master
@@ -746,8 +990,8 @@
   when: 2025-06-26 06:48:36.000000000 Z
   where: github
   who: 526301
-- _id: 73
-  _time: 2025-07-04 15:23:28.785717596 Z
+- _id: 89
+  _time: 2025-07-04 16:26:41.107904916 Z
   _version: 0.5.0/0.31.1/
   commit: b94cdc76e6fb83bed164ff9746b370c936d55c56
   default_branch: master
@@ -765,8 +1009,8 @@
   when: 2025-06-26 06:46:47.000000000 Z
   where: github
   who: 526301
-- _id: 74
-  _time: 2025-07-04 15:23:29.031700074 Z
+- _id: 90
+  _time: 2025-07-04 16:26:41.272683890 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.junit.jupiter-junit-jupiter-params-5.x
   details: The pull request objectionary/hone-maven-plugin#176 has been opened by
@@ -780,8 +1024,8 @@
   when: 2025-06-24 16:01:34.000000000 Z
   where: github
   who: 29139614
-- _id: 75
-  _time: 2025-07-04 15:23:29.043702132 Z
+- _id: 91
+  _time: 2025-07-04 16:26:41.283244087 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.junit.jupiter-junit-jupiter-engine-5.x
   details: The pull request objectionary/hone-maven-plugin#175 has been opened by
@@ -795,8 +1039,8 @@
   when: 2025-06-24 16:01:31.000000000 Z
   where: github
   who: 29139614
-- _id: 76
-  _time: 2025-07-04 15:23:29.172603348 Z
+- _id: 92
+  _time: 2025-07-04 16:26:41.429027293 Z
   _version: 0.5.0/0.31.1/
   branch: '173'
   details: The pull request objectionary/hone-maven-plugin#174 has been opened by
@@ -810,8 +1054,8 @@
   when: 2025-06-23 01:09:08.000000000 Z
   where: github
   who: 526301
-- _id: 77
-  _time: 2025-07-04 15:23:29.214247076 Z
+- _id: 93
+  _time: 2025-07-04 16:26:41.473960220 Z
   _version: 0.5.0/0.31.1/
   details: The issue objectionary/hone-maven-plugin#173 has been opened by @yegor256.
   event_id: 51199757941
@@ -823,8 +1067,8 @@
   when: 2025-06-23 01:06:00.000000000 Z
   where: github
   who: 526301
-- _id: 78
-  _time: 2025-07-04 15:23:29.251620418 Z
+- _id: 94
+  _time: 2025-07-04 16:26:41.516626825 Z
   _version: 0.5.0/0.31.1/
   commit: 870792bf341a1c88771d553205be6f2af4364420
   default_branch: master
@@ -842,8 +1086,8 @@
   when: 2025-06-20 07:44:55.000000000 Z
   where: github
   who: 526301
-- _id: 79
-  _time: 2025-07-04 15:23:29.536448521 Z
+- _id: 95
+  _time: 2025-07-04 16:26:41.691126388 Z
   _version: 0.5.0/0.31.1/
   commit: a313e25a8a5479e57102582d87a3eef92f01f273
   default_branch: master
@@ -861,8 +1105,8 @@
   when: 2025-06-18 03:46:32.000000000 Z
   where: github
   who: 526301
-- _id: 81
-  _time: 2025-07-04 15:23:29.782279834 Z
+- _id: 97
+  _time: 2025-07-04 16:26:41.848772528 Z
   _version: 0.5.0/0.31.1/
   commit: 7a32e017d69c6125f59a6dc06a24589e04d5c6d6
   default_branch: master
@@ -880,8 +1124,8 @@
   when: 2025-06-18 03:40:03.000000000 Z
   where: github
   who: 526301
-- _id: 82
-  _time: 2025-07-04 15:23:30.019245044 Z
+- _id: 98
+  _time: 2025-07-04 16:26:41.986174653 Z
   _version: 0.5.0/0.31.1/
   details: The issue objectionary/hone-maven-plugin#167 has been closed by @yegor256.
   event_id: 51034051674
@@ -893,8 +1137,8 @@
   when: 2025-06-18 03:21:09.000000000 Z
   where: github
   who: 526301
-- _id: 83
-  _time: 2025-07-04 15:23:30.076619129 Z
+- _id: 99
+  _time: 2025-07-04 16:26:42.015065907 Z
   _version: 0.5.0/0.31.1/
   commits: 2
   contributors: 8086956
@@ -912,8 +1156,8 @@
   when: 2025-06-17 17:43:06.000000000 Z
   where: github
   who: 8086956
-- _id: 84
-  _time: 2025-07-04 15:23:30.403133109 Z
+- _id: 100
+  _time: 2025-07-04 16:26:42.303483259 Z
   _version: 0.5.0/0.31.1/
   details: A new tag '0.0.32' has been created in objectionary/hone-maven-plugin by
     @rultor.
@@ -926,8 +1170,8 @@
   when: 2025-06-17 17:42:35.000000000 Z
   where: github
   who: 8086956
-- _id: 85
-  _time: 2025-07-04 15:23:30.430873028 Z
+- _id: 101
+  _time: 2025-07-04 16:26:42.335102146 Z
   _version: 0.5.0/0.31.1/
   branch: benchmark
   details: The pull request objectionary/hone-maven-plugin#171 has been opened by
@@ -941,8 +1185,8 @@
   when: 2025-06-17 17:12:37.000000000 Z
   where: github
   who: 41898282
-- _id: 86
-  _time: 2025-07-04 15:23:30.453265451 Z
+- _id: 102
+  _time: 2025-07-04 16:26:42.356806231 Z
   _version: 0.5.0/0.31.1/
   branch: self-benchmark
   details: The pull request objectionary/hone-maven-plugin#170 has been opened by
@@ -956,8 +1200,8 @@
   when: 2025-06-17 17:11:17.000000000 Z
   where: github
   who: 41898282
-- _id: 87
-  _time: 2025-07-04 15:23:30.480294195 Z
+- _id: 103
+  _time: 2025-07-04 16:26:42.390321890 Z
   _version: 0.5.0/0.31.1/
   commit: d30a9f8606eb197190b47c971c0231c63520de26
   default_branch: master
@@ -975,8 +1219,8 @@
   when: 2025-06-17 17:03:29.000000000 Z
   where: github
   who: 526301
-- _id: 88
-  _time: 2025-07-04 15:23:31.130131225 Z
+- _id: 104
+  _time: 2025-07-04 16:26:42.836921750 Z
   _version: 0.5.0/0.31.1/
   branch: benchmark
   comments: 0
@@ -999,8 +1243,8 @@
   when: 2025-06-17 09:12:54.000000000 Z
   where: github
   who: 526301
-- _id: 89
-  _time: 2025-07-04 15:23:32.110496063 Z
+- _id: 105
+  _time: 2025-07-04 16:26:43.322810255 Z
   _version: 0.5.0/0.31.1/
   branch: benchmark
   details: The pull request objectionary/hone-maven-plugin#169 has been opened by
@@ -1014,8 +1258,8 @@
   when: 2025-06-17 08:32:51.000000000 Z
   where: github
   who: 41898282
-- _id: 90
-  _time: 2025-07-04 15:23:32.147452752 Z
+- _id: 106
+  _time: 2025-07-04 16:26:43.351909176 Z
   _version: 0.5.0/0.31.1/
   commit: 026f12fe26fff65eb1b528e7fa632767094f8a1f
   default_branch: master
@@ -1033,8 +1277,8 @@
   when: 2025-06-17 08:23:30.000000000 Z
   where: github
   who: 526301
-- _id: 91
-  _time: 2025-07-04 15:23:32.417699748 Z
+- _id: 107
+  _time: 2025-07-04 16:26:43.493194016 Z
   _version: 0.5.0/0.31.1/
   branch: version-up
   details: The pull request objectionary/hone-maven-plugin#168 has been opened by
@@ -1048,8 +1292,8 @@
   when: 2025-06-17 07:48:45.000000000 Z
   where: github
   who: 41898282
-- _id: 92
-  _time: 2025-07-04 15:23:32.439385425 Z
+- _id: 108
+  _time: 2025-07-04 16:26:43.527216501 Z
   _version: 0.5.0/0.31.1/
   commit: c6de2152b99ecc9a822630f945313bde20b753ce
   default_branch: master
@@ -1067,8 +1311,8 @@
   when: 2025-06-17 07:48:33.000000000 Z
   where: github
   who: 526301
-- _id: 93
-  _time: 2025-07-04 15:23:32.710511414 Z
+- _id: 109
+  _time: 2025-07-04 16:26:43.667754898 Z
   _version: 0.5.0/0.31.1/
   branch: version-up
   comments: 0
@@ -1091,8 +1335,8 @@
   when: 2025-06-17 07:45:29.000000000 Z
   where: github
   who: 526301
-- _id: 94
-  _time: 2025-07-04 15:23:33.673816054 Z
+- _id: 110
+  _time: 2025-07-04 16:26:44.279594317 Z
   _version: 0.5.0/0.31.1/
   branch: benchmark
   comments: 0
@@ -1115,8 +1359,8 @@
   when: 2025-06-17 07:45:17.000000000 Z
   where: github
   who: 526301
-- _id: 95
-  _time: 2025-07-04 15:23:34.699907685 Z
+- _id: 111
+  _time: 2025-07-04 16:26:44.924659114 Z
   _version: 0.5.0/0.31.1/
   branch: self-benchmark
   comments: 0
@@ -1139,8 +1383,8 @@
   when: 2025-06-17 07:45:10.000000000 Z
   where: github
   who: 526301
-- _id: 96
-  _time: 2025-07-04 15:23:35.677847603 Z
+- _id: 112
+  _time: 2025-07-04 16:26:45.447141397 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/junit5-monorepo
   comments: 0
@@ -1163,8 +1407,8 @@
   when: 2025-06-17 07:45:02.000000000 Z
   where: github
   who: 526301
-- _id: 97
-  _time: 2025-07-04 15:23:45.558027790 Z
+- _id: 113
+  _time: 2025-07-04 16:26:51.388399946 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.codehaus.mojo-exec-maven-plugin-3.x
   comments: 0
@@ -1187,8 +1431,8 @@
   when: 2025-06-17 07:41:44.000000000 Z
   where: github
   who: 526301
-- _id: 98
-  _time: 2025-07-04 15:23:55.379827255 Z
+- _id: 114
+  _time: 2025-07-04 16:26:57.452899710 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/jna-monorepo
   comments: 0
@@ -1211,8 +1455,8 @@
   when: 2025-06-17 07:41:33.000000000 Z
   where: github
   who: 526301
-- _id: 99
-  _time: 2025-07-04 15:24:04.202586552 Z
+- _id: 115
+  _time: 2025-07-04 16:27:02.443885317 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.cactoos-cactoos-0.x
   comments: 0
@@ -1235,8 +1479,8 @@
   when: 2025-06-17 07:41:26.000000000 Z
   where: github
   who: 526301
-- _id: 100
-  _time: 2025-07-04 15:24:13.759449303 Z
+- _id: 116
+  _time: 2025-07-04 16:27:07.754958829 Z
   _version: 0.5.0/0.31.1/
   commit: 13e581cc86960898a4747006f3a898d8256013c2
   default_branch: master
@@ -1254,8 +1498,8 @@
   when: 2025-06-17 07:38:29.000000000 Z
   where: github
   who: 526301
-- _id: 101
-  _time: 2025-07-04 15:24:14.025113611 Z
+- _id: 117
+  _time: 2025-07-04 16:27:07.976084264 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/com.github.volodya-lombrozo-jtcop-maven-plugin-1.x
   comments: 0
@@ -1278,8 +1522,8 @@
   when: 2025-06-17 07:27:00.000000000 Z
   where: github
   who: 29139614
-- _id: 102
-  _time: 2025-07-04 15:24:25.110392743 Z
+- _id: 118
+  _time: 2025-07-04 16:27:14.326936273 Z
   _version: 0.5.0/0.31.1/
   commit: 5f3e31f014012df1ea1df317748fba2733cc117b
   default_branch: master
@@ -1297,8 +1541,8 @@
   when: 2025-06-17 07:26:08.000000000 Z
   where: github
   who: 526301
-- _id: 103
-  _time: 2025-07-04 15:24:25.389168664 Z
+- _id: 119
+  _time: 2025-07-04 16:27:14.494727821 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/net.sf.saxon-saxon-he-12.x
   comments: 0
@@ -1321,8 +1565,8 @@
   when: 2025-06-17 07:23:56.000000000 Z
   where: github
   who: 29139614
-- _id: 104
-  _time: 2025-07-04 15:24:36.011608330 Z
+- _id: 120
+  _time: 2025-07-04 16:27:20.950116508 Z
   _version: 0.5.0/0.31.1/
   commit: c423b851b4fa16944a0d780ef08d092e004ca86a
   default_branch: master
@@ -1340,8 +1584,8 @@
   when: 2025-06-17 07:23:14.000000000 Z
   where: github
   who: 526301
-- _id: 105
-  _time: 2025-07-04 15:24:36.332848744 Z
+- _id: 121
+  _time: 2025-07-04 16:27:21.158858182 Z
   _version: 0.5.0/0.31.1/
   commit: 5df9fca9496246db6b463d13a53531b7a65377bf
   default_branch: master
@@ -1359,8 +1603,8 @@
   when: 2025-06-17 06:18:22.000000000 Z
   where: github
   who: 526301
-- _id: 106
-  _time: 2025-07-04 15:24:36.609610456 Z
+- _id: 122
+  _time: 2025-07-04 16:27:21.331494992 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.apache.maven-maven-plugin-api-3.x
   comments: 0
@@ -1383,8 +1627,8 @@
   when: 2025-06-17 06:12:52.000000000 Z
   where: github
   who: 29139614
-- _id: 107
-  _time: 2025-07-04 15:24:46.520513301 Z
+- _id: 123
+  _time: 2025-07-04 16:27:27.366339292 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.apache.maven-maven-model-3.x
   comments: 0
@@ -1407,8 +1651,8 @@
   when: 2025-06-17 06:12:50.000000000 Z
   where: github
   who: 29139614
-- _id: 108
-  _time: 2025-07-04 15:24:56.052567746 Z
+- _id: 124
+  _time: 2025-07-04 16:27:33.204229468 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.apache.maven-maven-core-3.x
   comments: 0
@@ -1431,8 +1675,8 @@
   when: 2025-06-17 06:12:49.000000000 Z
   where: github
   who: 29139614
-- _id: 109
-  _time: 2025-07-04 15:25:06.140832218 Z
+- _id: 125
+  _time: 2025-07-04 16:27:39.153614961 Z
   _version: 0.5.0/0.31.1/
   commit: ff12babf63bddfc9f8518c85966c88a16651e6fb
   default_branch: master
@@ -1450,8 +1694,8 @@
   when: 2025-06-17 06:12:19.000000000 Z
   where: github
   who: 526301
-- _id: 110
-  _time: 2025-07-04 15:25:06.717707014 Z
+- _id: 126
+  _time: 2025-07-04 16:27:39.634262368 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/crate-ci-typos-1.x
   comments: 0
@@ -1474,8 +1718,8 @@
   when: 2025-06-17 06:09:38.000000000 Z
   where: github
   who: 526301
-- _id: 111
-  _time: 2025-07-04 15:25:17.220174159 Z
+- _id: 127
+  _time: 2025-07-04 16:27:45.848027003 Z
   _version: 0.5.0/0.31.1/
   commit: 4c677936d629c2be20ce0eb81b60868f04d7ddb1
   default_branch: master
@@ -1493,8 +1737,8 @@
   when: 2025-06-17 06:09:00.000000000 Z
   where: github
   who: 526301
-- _id: 112
-  _time: 2025-07-04 15:25:17.642910452 Z
+- _id: 128
+  _time: 2025-07-04 16:27:46.024627495 Z
   _version: 0.5.0/0.31.1/
   commit: 0d82db7d5c6bf38853b0bd0413f67b1e2575c140
   default_branch: master
@@ -1512,8 +1756,8 @@
   when: 2025-06-17 05:51:51.000000000 Z
   where: github
   who: 526301
-- _id: 113
-  _time: 2025-07-04 15:25:17.965666820 Z
+- _id: 129
+  _time: 2025-07-04 16:27:46.216109522 Z
   _version: 0.5.0/0.31.1/
   commit: 9982eae2f768639267d14785fed3f4cba2517473
   default_branch: master
@@ -1531,8 +1775,8 @@
   when: 2025-06-17 05:33:20.000000000 Z
   where: github
   who: 526301
-- _id: 114
-  _time: 2025-07-04 15:25:18.260464459 Z
+- _id: 130
+  _time: 2025-07-04 16:27:46.382943919 Z
   _version: 0.5.0/0.31.1/
   details: The issue objectionary/hone-maven-plugin#167 has been opened by @yegor256.
   event_id: 50985053395
@@ -1544,8 +1788,8 @@
   when: 2025-06-17 05:02:01.000000000 Z
   where: github
   who: 526301
-- _id: 115
-  _time: 2025-07-04 15:25:18.329539251 Z
+- _id: 131
+  _time: 2025-07-04 16:27:46.440869982 Z
   _version: 0.5.0/0.31.1/
   commit: 3dabe9849a6453706fe1c745e0355c82624c52d3
   default_branch: master
@@ -1563,8 +1807,8 @@
   when: 2025-06-16 08:59:16.000000000 Z
   where: github
   who: 526301
-- _id: 116
-  _time: 2025-07-04 15:25:18.624025415 Z
+- _id: 132
+  _time: 2025-07-04 16:27:46.606962665 Z
   _version: 0.5.0/0.31.1/
   commit: d51305758f9b841926515719aa33cdd9a4a7ff40
   default_branch: master
@@ -1582,8 +1826,8 @@
   when: 2025-06-16 08:25:44.000000000 Z
   where: github
   who: 526301
-- _id: 117
-  _time: 2025-07-04 15:25:18.906452426 Z
+- _id: 133
+  _time: 2025-07-04 16:27:46.771034832 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/yegor256-hone-0.x
   comments: 0
@@ -1606,8 +1850,8 @@
   when: 2025-06-16 05:47:30.000000000 Z
   where: github
   who: 29139614
-- _id: 118
-  _time: 2025-07-04 15:25:28.786614674 Z
+- _id: 134
+  _time: 2025-07-04 16:27:53.193169469 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.apache.maven-maven-plugin-api-3.x
   details: The pull request objectionary/hone-maven-plugin#166 has been opened by
@@ -1621,8 +1865,8 @@
   when: 2025-06-16 05:47:26.000000000 Z
   where: github
   who: 29139614
-- _id: 119
-  _time: 2025-07-04 15:25:29.086180317 Z
+- _id: 135
+  _time: 2025-07-04 16:27:53.231624678 Z
   _version: 0.5.0/0.31.1/
   commit: 22b7f7a0893ea1fd677fdc460f9644e342e2c056
   default_branch: master
@@ -1640,8 +1884,8 @@
   when: 2025-06-16 05:46:55.000000000 Z
   where: github
   who: 526301
-- _id: 120
-  _time: 2025-07-04 15:25:29.336729169 Z
+- _id: 136
+  _time: 2025-07-04 16:27:53.371768925 Z
   _version: 0.5.0/0.31.1/
   commit: 0a6e7999272d07cfaa18ffce94b74def38d45b57
   default_branch: master
@@ -1659,8 +1903,8 @@
   when: 2025-06-09 15:38:44.000000000 Z
   where: github
   who: 526301
-- _id: 121
-  _time: 2025-07-04 15:25:29.608037367 Z
+- _id: 137
+  _time: 2025-07-04 16:27:53.531836391 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.apache.maven-maven-model-3.x
   details: The pull request objectionary/hone-maven-plugin#165 has been opened by
@@ -1674,8 +1918,8 @@
   when: 2025-06-06 20:46:19.000000000 Z
   where: github
   who: 29139614
-- _id: 122
-  _time: 2025-07-04 15:25:29.644641686 Z
+- _id: 138
+  _time: 2025-07-04 16:27:53.575560246 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/org.apache.maven-maven-core-3.x
   details: The pull request objectionary/hone-maven-plugin#164 has been opened by
@@ -1689,8 +1933,8 @@
   when: 2025-06-06 20:46:16.000000000 Z
   where: github
   who: 29139614
-- _id: 123
-  _time: 2025-07-04 15:25:29.878643825 Z
+- _id: 139
+  _time: 2025-07-04 16:27:53.770830699 Z
   _version: 0.5.0/0.31.1/
   commits: 2
   contributors: 8086956
@@ -1708,8 +1952,8 @@
   when: 2025-06-05 14:07:52.000000000 Z
   where: github
   who: 8086956
-- _id: 124
-  _time: 2025-07-04 15:25:30.356062056 Z
+- _id: 140
+  _time: 2025-07-04 16:27:54.001114333 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/yegor256-hone-0.x
   details: The pull request objectionary/hone-maven-plugin#163 has been opened by
@@ -1723,8 +1967,8 @@
   when: 2025-06-05 14:07:23.000000000 Z
   where: github
   who: 29139614
-- _id: 125
-  _time: 2025-07-04 15:25:30.371940159 Z
+- _id: 141
+  _time: 2025-07-04 16:27:54.018100978 Z
   _version: 0.5.0/0.31.1/
   branch: version-up
   details: The pull request objectionary/hone-maven-plugin#162 has been opened by
@@ -1738,8 +1982,8 @@
   when: 2025-06-05 14:07:02.000000000 Z
   where: github
   who: 41898282
-- _id: 126
-  _time: 2025-07-04 15:25:30.614847423 Z
+- _id: 142
+  _time: 2025-07-04 16:27:54.137068225 Z
   _version: 0.5.0/0.31.1/
   details: A new tag '0.0.31' has been created in objectionary/hone-maven-plugin by
     @rultor.
@@ -1752,8 +1996,8 @@
   when: 2025-06-05 14:06:46.000000000 Z
   where: github
   who: 8086956
-- _id: 127
-  _time: 2025-07-04 15:25:30.700722703 Z
+- _id: 143
+  _time: 2025-07-04 16:27:54.231178695 Z
   _version: 0.5.0/0.31.1/
   commit: d04d1d9c7de27de17e0e56107ed77c8b3107c676
   default_branch: master
@@ -1771,8 +2015,8 @@
   when: 2025-06-05 13:10:51.000000000 Z
   where: github
   who: 526301
-- _id: 128
-  _time: 2025-07-04 15:25:31.021992115 Z
+- _id: 144
+  _time: 2025-07-04 16:27:54.436553292 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/slf4j-monorepo
   comments: 0
@@ -1795,8 +2039,8 @@
   when: 2025-06-05 12:46:37.000000000 Z
   where: github
   who: 29139614
-- _id: 129
-  _time: 2025-07-04 15:25:39.082926358 Z
+- _id: 145
+  _time: 2025-07-04 16:27:58.804926647 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/com.yegor256-farea-0.x
   comments: 0
@@ -1819,8 +2063,8 @@
   when: 2025-06-05 12:46:35.000000000 Z
   where: github
   who: 29139614
-- _id: 130
-  _time: 2025-07-04 15:25:47.795086167 Z
+- _id: 146
+  _time: 2025-07-04 16:28:03.800061255 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/com.jcabi-parent-0.x
   comments: 0
@@ -1843,8 +2087,8 @@
   when: 2025-06-05 12:46:34.000000000 Z
   where: github
   who: 29139614
-- _id: 131
-  _time: 2025-07-04 15:25:58.102921335 Z
+- _id: 147
+  _time: 2025-07-04 16:28:12.964326673 Z
   _version: 0.5.0/0.31.1/
   branch: renovate/crate-ci-typos-1.x
   details: The pull request objectionary/hone-maven-plugin#161 has been opened by
@@ -1858,183 +2102,209 @@
   when: 2025-06-05 12:46:29.000000000 Z
   where: github
   who: 29139614
-- _id: 132
-  _time: 2025-07-04 15:26:24.530855175 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 531151981
-  what: labels-were-scanned
-  where: github
-- _id: 133
-  _time: 2025-07-04 15:26:24.543266069 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 784310467
-  what: labels-were-scanned
-  where: github
-- _id: 134
-  _time: 2025-07-04 15:26:24.555424880 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490221501
-  what: labels-were-scanned
-  where: github
-- _id: 135
-  _time: 2025-07-04 15:26:24.567807551 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 492899189
-  what: labels-were-scanned
-  where: github
-- _id: 136
-  _time: 2025-07-04 15:26:24.579764353 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 970961472
-  what: labels-were-scanned
-  where: github
-- _id: 137
-  _time: 2025-07-04 15:26:24.590639994 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731516758
-  what: labels-were-scanned
-  where: github
-- _id: 138
-  _time: 2025-07-04 15:26:24.603754159 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 671896902
-  what: labels-were-scanned
-  where: github
-- _id: 139
-  _time: 2025-07-04 15:26:24.616758438 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 731438612
-  what: labels-were-scanned
-  where: github
-- _id: 140
-  _time: 2025-07-04 15:26:24.630623483 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 499536612
-  what: labels-were-scanned
-  where: github
-- _id: 141
-  _time: 2025-07-04 15:26:24.643987998 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 570457023
-  what: labels-were-scanned
-  where: github
-- _id: 142
-  _time: 2025-07-04 15:26:24.659874378 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 558766137
-  what: labels-were-scanned
-  where: github
-- _id: 143
-  _time: 2025-07-04 15:26:24.671986852 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 396732517
-  what: labels-were-scanned
-  where: github
-- _id: 144
-  _time: 2025-07-04 15:26:24.683504078 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 546194972
-  what: labels-were-scanned
-  where: github
-- _id: 145
-  _time: 2025-07-04 15:26:24.695053034 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 568705267
-  what: labels-were-scanned
-  where: github
-- _id: 146
-  _time: 2025-07-04 15:26:24.706878128 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 543969974
-  what: labels-were-scanned
-  where: github
-- _id: 147
-  _time: 2025-07-04 15:26:24.718732448 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 977982682
-  what: labels-were-scanned
-  where: github
 - _id: 148
-  _time: 2025-07-04 15:26:24.731024429 Z
+  _time: 2025-07-04 16:28:13.261066532 Z
   _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 624420387
-  what: labels-were-scanned
+  branch: renovate/yegor256-copyrights-action-0.x
+  comments: 0
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 0
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/hone-maven-plugin#155 has been closed by
+    @yegor256, with 2 HoC and 0 comments.
+  event_id: 50555530001
+  event_type: PullRequestEvent
+  failed_builds: 4
+  hoc: 2
+  is_human: 1
+  issue: 155
+  repository: 840332960
+  succeeded_builds: 14
+  what: pull-was-merged
+  when: 2025-06-05 12:46:08.000000000 Z
   where: github
+  who: 526301
 - _id: 149
-  _time: 2025-07-04 15:26:24.743562822 Z
+  _time: 2025-07-04 16:28:20.317456680 Z
+  _version: 0.5.0/0.31.1/
+  details: The issue objectionary/hone-maven-plugin#159 has been closed by @yegor256.
+  event_id: 50555519336
+  event_type: IssuesEvent
+  is_human: 1
+  issue: 159
+  repository: 840332960
+  what: issue-was-closed
+  when: 2025-06-05 12:45:55.000000000 Z
+  where: github
+  who: 526301
+- _id: 150
+  _time: 2025-07-04 16:28:20.345210903 Z
+  _version: 0.5.0/0.31.1/
+  branch: '159'
+  comments: 0
+  comments_appreciated: 0
+  comments_by_author: 0
+  comments_by_reviewers: 0
+  comments_resolved: 0
+  comments_to_code: 0
+  details: The pull request objectionary/hone-maven-plugin#160 has been closed by
+    @yegor256, with 51 HoC and 0 comments.
+  event_id: 50555518901
+  event_type: PullRequestEvent
+  failed_builds: 3
+  hoc: 51
+  is_human: 1
+  issue: 160
+  repository: 840332960
+  succeeded_builds: 14
+  what: pull-was-merged
+  when: 2025-06-05 12:45:55.000000000 Z
+  where: github
+  who: 526301
+- _id: 151
+  _time: 2025-07-04 16:28:26.065747928 Z
+  _version: 0.5.0/0.31.1/
+  latest: 51666721515
+  repository: 840332960
+  what: events-were-scanned
+  where: github
+- _id: 152
+  _time: 2025-07-04 16:28:36.454068617 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 519299365
+  repository: 565789755
   what: labels-were-scanned
   where: github
-- _id: 150
-  _time: 2025-07-04 15:26:24.769335757 Z
+- _id: 153
+  _time: 2025-07-04 16:28:36.478956823 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 574459304
+  what: labels-were-scanned
+  where: github
+- _id: 154
+  _time: 2025-07-04 16:28:36.497063164 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 551486781
+  what: labels-were-scanned
+  where: github
+- _id: 155
+  _time: 2025-07-04 16:28:36.515568972 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 73056727
   what: labels-were-scanned
   where: github
-- _id: 151
-  _time: 2025-07-04 15:26:24.796531763 Z
+- _id: 156
+  _time: 2025-07-04 16:28:36.534126205 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 386420319
+  repository: 784310467
   what: labels-were-scanned
   where: github
-- _id: 152
-  _time: 2025-07-04 15:26:24.817826812 Z
+- _id: 157
+  _time: 2025-07-04 16:28:36.554591121 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 483303722
+  repository: 13623548
   what: labels-were-scanned
   where: github
-- _id: 153
-  _time: 2025-07-04 15:26:24.833940379 Z
+- _id: 158
+  _time: 2025-07-04 16:28:36.575334567 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 574534248
+  repository: 482612876
   what: labels-were-scanned
   where: github
-- _id: 154
-  _time: 2025-07-04 15:26:24.848482706 Z
+- _id: 159
+  _time: 2025-07-04 16:28:36.599291833 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 447446664
+  repository: 568705267
   what: labels-were-scanned
   where: github
-- _id: 155
-  _time: 2025-07-04 15:26:24.863154846 Z
+- _id: 160
+  _time: 2025-07-04 16:28:36.655381063 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 492899189
+  what: labels-were-scanned
+  where: github
+- _id: 161
+  _time: 2025-07-04 16:28:36.692878556 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 733919301
+  what: labels-were-scanned
+  where: github
+- _id: 162
+  _time: 2025-07-04 16:28:36.732987865 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 546194972
+  what: labels-were-scanned
+  where: github
+- _id: 163
+  _time: 2025-07-04 16:28:36.759508099 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 501259435
   what: labels-were-scanned
   where: github
-- _id: 156
-  _time: 2025-07-04 15:26:24.877677375 Z
+- _id: 164
+  _time: 2025-07-04 16:28:36.783363546 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 889819508
+  repository: 574534248
   what: labels-were-scanned
   where: github
-- _id: 157
-  _time: 2025-07-04 15:26:25.242426463 Z
+- _id: 165
+  _time: 2025-07-04 16:28:36.806027378 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 624420387
+  what: labels-were-scanned
+  where: github
+- _id: 166
+  _time: 2025-07-04 16:28:36.828697572 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519299365
+  what: labels-were-scanned
+  where: github
+- _id: 167
+  _time: 2025-07-04 16:28:36.848584178 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490221501
+  what: labels-were-scanned
+  where: github
+- _id: 168
+  _time: 2025-07-04 16:28:36.866203971 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 493235807
+  what: labels-were-scanned
+  where: github
+- _id: 169
+  _time: 2025-07-04 16:28:36.882753555 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 543969974
+  what: labels-were-scanned
+  where: github
+- _id: 170
+  _time: 2025-07-04 16:28:36.899775302 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 671896902
+  what: labels-were-scanned
+  where: github
+- _id: 171
+  _time: 2025-07-04 16:28:37.208938470 Z
   _version: 0.5.0/0.31.1/
   details: The '#bug' label was attached by @yegor256 to the issue objectionary/hone-maven-plugin#167.
   issue: 167
@@ -2044,141 +2314,183 @@
   when: 2025-06-17 05:02:00.000000000 Z
   where: github
   who: 526301
-- _id: 159
-  _time: 2025-07-04 15:26:25.523412328 Z
+- _id: 173
+  _time: 2025-07-04 16:28:37.394956987 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 519246071
+  repository: 977982682
   what: labels-were-scanned
   where: github
-- _id: 160
-  _time: 2025-07-04 15:26:25.538279385 Z
+- _id: 174
+  _time: 2025-07-04 16:28:37.412479679 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 510102039
+  repository: 970961472
   what: labels-were-scanned
   where: github
-- _id: 161
-  _time: 2025-07-04 15:26:25.553011318 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490258619
-  what: labels-were-scanned
-  where: github
-- _id: 162
-  _time: 2025-07-04 15:26:25.567246919 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 955159947
-  what: labels-were-scanned
-  where: github
-- _id: 163
-  _time: 2025-07-04 15:26:25.580994634 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 493235807
-  what: labels-were-scanned
-  where: github
-- _id: 164
-  _time: 2025-07-04 15:26:25.594915323 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 733919301
-  what: labels-were-scanned
-  where: github
-- _id: 165
-  _time: 2025-07-04 15:26:25.608979382 Z
+- _id: 175
+  _time: 2025-07-04 16:28:37.431920994 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 403396472
   what: labels-were-scanned
   where: github
-- _id: 166
-  _time: 2025-07-04 15:26:25.623189044 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 489321585
-  what: labels-were-scanned
-  where: github
-- _id: 167
-  _time: 2025-07-04 15:26:25.637870793 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 501942888
-  what: labels-were-scanned
-  where: github
-- _id: 168
-  _time: 2025-07-04 15:26:25.659559900 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 551486781
-  what: labels-were-scanned
-  where: github
-- _id: 169
-  _time: 2025-07-04 15:26:25.679665422 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 482612876
-  what: labels-were-scanned
-  where: github
-- _id: 170
-  _time: 2025-07-04 15:26:25.697071707 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 510082372
-  what: labels-were-scanned
-  where: github
-- _id: 171
-  _time: 2025-07-04 15:26:25.713427649 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 490157985
-  what: labels-were-scanned
-  where: github
-- _id: 172
-  _time: 2025-07-04 15:26:25.730192418 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 565789755
-  what: labels-were-scanned
-  where: github
-- _id: 173
-  _time: 2025-07-04 15:26:25.747385994 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 798766850
-  what: labels-were-scanned
-  where: github
-- _id: 174
-  _time: 2025-07-04 15:26:25.766463185 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 574459304
-  what: labels-were-scanned
-  where: github
-- _id: 175
-  _time: 2025-07-04 15:26:25.784082981 Z
-  _version: 0.5.0/0.31.1/
-  latest: 0
-  repository: 559427983
-  what: labels-were-scanned
-  where: github
 - _id: 176
-  _time: 2025-07-04 15:26:25.801399927 Z
+  _time: 2025-07-04 16:28:37.447422682 Z
   _version: 0.5.0/0.31.1/
   latest: 0
-  repository: 13623548
+  repository: 731438612
   what: labels-were-scanned
   where: github
 - _id: 177
-  _time: 2025-07-04 15:26:25.819188800 Z
+  _time: 2025-07-04 16:28:37.463117701 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 570457023
+  what: labels-were-scanned
+  where: github
+- _id: 178
+  _time: 2025-07-04 16:28:37.479000430 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 721146770
   what: labels-were-scanned
   where: github
-- _id: 178
-  _time: 2025-07-04 15:26:26.667060650 Z
+- _id: 179
+  _time: 2025-07-04 16:28:37.495095686 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 798766850
+  what: labels-were-scanned
+  where: github
+- _id: 180
+  _time: 2025-07-04 16:28:37.510928091 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 559427983
+  what: labels-were-scanned
+  where: github
+- _id: 181
+  _time: 2025-07-04 16:28:37.527016996 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 519246071
+  what: labels-were-scanned
+  where: github
+- _id: 182
+  _time: 2025-07-04 16:28:37.548969149 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 447446664
+  what: labels-were-scanned
+  where: github
+- _id: 183
+  _time: 2025-07-04 16:28:37.569541034 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 499536612
+  what: labels-were-scanned
+  where: github
+- _id: 184
+  _time: 2025-07-04 16:28:37.590408833 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 483303722
+  what: labels-were-scanned
+  where: github
+- _id: 185
+  _time: 2025-07-04 16:28:37.608811778 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 955159947
+  what: labels-were-scanned
+  where: github
+- _id: 186
+  _time: 2025-07-04 16:28:37.627141617 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 396732517
+  what: labels-were-scanned
+  where: github
+- _id: 187
+  _time: 2025-07-04 16:28:37.645966300 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 731516758
+  what: labels-were-scanned
+  where: github
+- _id: 188
+  _time: 2025-07-04 16:28:37.665663632 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490157985
+  what: labels-were-scanned
+  where: github
+- _id: 189
+  _time: 2025-07-04 16:28:37.684743542 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 531151981
+  what: labels-were-scanned
+  where: github
+- _id: 190
+  _time: 2025-07-04 16:28:37.705890251 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 490258619
+  what: labels-were-scanned
+  where: github
+- _id: 191
+  _time: 2025-07-04 16:28:37.726716241 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510102039
+  what: labels-were-scanned
+  where: github
+- _id: 192
+  _time: 2025-07-04 16:28:37.746851952 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 386420319
+  what: labels-were-scanned
+  where: github
+- _id: 193
+  _time: 2025-07-04 16:28:37.766033181 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 558766137
+  what: labels-were-scanned
+  where: github
+- _id: 194
+  _time: 2025-07-04 16:28:37.785087282 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 501942888
+  what: labels-were-scanned
+  where: github
+- _id: 195
+  _time: 2025-07-04 16:28:37.803016142 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 489321585
+  what: labels-were-scanned
+  where: github
+- _id: 196
+  _time: 2025-07-04 16:28:37.821090204 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 510082372
+  what: labels-were-scanned
+  where: github
+- _id: 197
+  _time: 2025-07-04 16:28:37.839351615 Z
+  _version: 0.5.0/0.31.1/
+  latest: 0
+  repository: 889819508
+  what: labels-were-scanned
+  where: github
+- _id: 198
+  _time: 2025-07-04 16:28:38.404976122 Z
   _version: 0.5.0/0.31.1/
   details: The '#enhancement' label was attached by @yegor256 to the issue objectionary/hone-maven-plugin#173.
   issue: 173
@@ -2188,8 +2500,8 @@
   when: 2025-06-23 01:05:59.000000000 Z
   where: github
   who: 526301
-- _id: 179
-  _time: 2025-07-04 15:26:27.049146243 Z
+- _id: 199
+  _time: 2025-07-04 16:28:38.597394217 Z
   _version: 0.5.0/0.31.1/
   details: The '#bug' label was attached by @yegor256 to the issue objectionary/hone-maven-plugin#182.
   issue: 182
@@ -2199,8 +2511,8 @@
   when: 2025-06-26 12:15:37.000000000 Z
   where: github
   who: 526301
-- _id: 180
-  _time: 2025-07-04 15:26:27.391834019 Z
+- _id: 200
+  _time: 2025-07-04 16:28:38.804636763 Z
   _version: 0.5.0/0.31.1/
   details: The '#enhancement' label was attached by @yegor256 to the issue objectionary/hone-maven-plugin#183.
   issue: 183
@@ -2210,8 +2522,8 @@
   when: 2025-06-30 07:28:36.000000000 Z
   where: github
   who: 526301
-- _id: 181
-  _time: 2025-07-04 15:26:27.774584829 Z
+- _id: 201
+  _time: 2025-07-04 16:28:39.087254230 Z
   _version: 0.5.0/0.31.1/
   details: The '#bug' label was attached by @yegor256 to the issue objectionary/hone-maven-plugin#186.
   issue: 186
@@ -2221,26 +2533,23 @@
   when: 2025-06-30 10:01:12.000000000 Z
   where: github
   who: 526301
-- _id: 182
-  _time: 2025-07-04 15:26:27.806811403 Z
+- _id: 202
+  _time: 2025-07-04 16:28:39.123851612 Z
   _version: 0.5.0/0.31.1/
   latest: 0
   repository: 840332960
   what: labels-were-scanned
   where: github
-- _id: 183
-  _time: 2025-07-04 15:28:51.616315596 Z
+- _id: 203
+  _time: 2025-07-04 16:28:49.492605021 Z
   _version: 0.5.0/0.31.1/
-  average_review_size: 0.6
-  average_review_time: 78507.5948275862
-  average_reviewers_per_pull: 0.7866666666666666
-  average_reviews_per_pull: 0.9377777777777778
-  since: 2025-06-06 15:26:27.823418271 Z
+  average_release_interval: 59952.833333333336
+  since: 2025-06-06 16:28:39.142821676 Z
   what: quality-of-service
-  when: 2025-07-04 15:26:27.823393244 Z
-- _id: 184
-  _time: 2025-07-04 15:29:27.823310847 Z
+  when: 2025-07-04 16:28:39.142792311 Z
+- _id: 204
+  _time: 2025-07-04 16:31:39.150178737 Z
   _version: 0.5.0/0.31.1/
-  since: 2025-06-06 15:29:27.823427105 Z
+  since: 2025-06-06 16:31:39.150312667 Z
   what: quantity-of-deliverables
-  when: 2025-07-04 15:29:27.823401457 Z
+  when: 2025-07-04 16:31:39.150287410 Z
